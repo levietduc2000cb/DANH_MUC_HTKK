@@ -1,0 +1,28 @@
+    <Sections Version="557">
+	<Section Dynamic="0" MaxRows="0">
+		<Item Value ="010201###Than nâu sản xuất trong nước###Tấn###15000"/>
+		<Item Value ="010202###Than an - tra - xít (antraxit) sản xuất trong nước###Tấn###30000"/>
+		<Item Value ="010203###Than mỡ sản xuất trong nước###Tấn###15000"/>
+		<Item Value ="010204###Than đá khác sản xuất trong nước###Tấn###15000"/>
+		<Item Value ="0103###Dung dịch hydro, chloro, fluoro, carbon sản xuất trong nước###Kg###5000"/>
+		<Item Value ="0104###Túi ni lông sản xuất trong nước###Kg###50000"/>
+		<Item Value ="0105###Thuốc diệt cỏ thuộc loại hạn chế sử dụng sản xuất trong nước###Kg###500"/>
+		<Item Value ="0106###Sản phẩm hàng hóa khác sản xuất trong nước######0"/>
+		<Item Value ="0107###Thuốc trừ mối thuộc loại hạn chế sử dụng sản xuất trong nước###Kg###1000"/>
+		<Item Value ="0108###Thuốc bảo quản lâm sản thuộc loại hạn chế sử dụng sản xuất trong nước###Kg###1000"/>
+		<Item Value ="0109###Thuốc khử trùng kho thuộc loại hạn chế sử dụng sản xuất trong nước###Kg###1000"/>
+		<Item Value ="020118###Than đá nhập khẩu bán ra trong nước###Kg###15000"/>
+		<Item Value ="020120###Sản phẩm hàng hóa trong nước khác######0"/>
+		<Item Value ="020121###Khác######0"/>
+		<Item Value ="020119###Các hàng hóa nhập khẩu khác bán ra trong nước######0"/>				
+		<Item Value ="020201###Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước###Lít###4000"/>
+		<Item Value ="020202###Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước###Lít###2000"/>
+		<Item Value ="020203###Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước###Lít###1000"/>
+		<Item Value ="020205###Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước###Lít###3000"/>
+		<Item Value ="020206###Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước###Lít###4000"/>
+		<Item Value ="020207###Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước###Lít###2000"/>
+		<Item Value ="020208###Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước###Lít###2000"/>
+		<Item Value ="020209###Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước###Kg###2000"/>		
+		<Item Value ="020210###Thuế bảo vệ môi trường mặt hàng xăng sinh học  E10###Lít###2000"/>	
+	</Section>	
+</Sections>

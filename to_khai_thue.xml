@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+  <HSoKhaiThue id="ID_1">
+    <TTinChung>
+      <TTinDVu>
+        <maDVu>HTKK</maDVu>
+        <tenDVu>HỖ TRỢ KÊ KHAI THUẾ</tenDVu>
+        <pbanDVu>5.6.3</pbanDVu>
+        <ttinNhaCCapDVu>467D64EE75A77E9F17C977AADD2D6428</ttinNhaCCapDVu>
+      </TTinDVu>
+      <TTinTKhaiThue>
+        <TKhaiThue>
+          <maTKhai>1240</maTKhai>
+          <tenTKhai>TỜ KHAI THUẾ ĐỐI VỚI HỘ KINH DOANH, CÁ NHÂN KINH DOANH</tenTKhai>
+          <moTaBMau>(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)</moTaBMau>
+          <pbanTKhaiXML>2.8.9</pbanTKhaiXML>
+          <loaiTKhai>C</loaiTKhai>
+          <soLan>0</soLan>
+          <KyKKhaiThue>
+            <kieuKy>M</kieuKy>
+            <kyKKhai>02/2026</kyKKhai>
+            <kyKKhaiTuNgay>01/02/2026</kyKKhaiTuNgay>
+            <kyKKhaiDenNgay>28/02/2026</kyKKhaiDenNgay>
+            <kyKKhaiTuThang />
+            <kyKKhaiDenThang />
+          </KyKKhaiThue>
+          <maCQTNoiNop>20901</maCQTNoiNop>
+          <tenCQTNoiNop>Thuế cơ sở 5 tỉnh Lạng Sơn</tenCQTNoiNop>
+          <ngayLapTKhai>2026-03-24</ngayLapTKhai>
+          <GiaHan>
+            <maLyDoGiaHan />
+            <lyDoGiaHan />
+          </GiaHan>
+          <nguoiKy />
+          <ngayKy>2026-03-24</ngayKy>
+          <nganhNgheKD />
+        </TKhaiThue>
+        <NNT>
+          <mst>4900152228</mst>
+          <tenNNT>Hoàng Hiệp</tenNNT>
+          <dchiNNT>01 Lý Thái Tổ</dchiNNT>
+          <phuongXa />
+          <maHuyenNNT />
+          <tenHuyenNNT />
+          <maTinhNNT>209</maTinhNNT>
+          <tenTinhNNT>Tỉnh Lạng Sơn</tenTinhNNT>
+          <dthoaiNNT />
+          <faxNNT />
+          <emailNNT />
+        </NNT>
+      </TTinTKhaiThue>
+    </TTinChung>
+    <CTieuTKhaiChinh>
+      <mst_cu>4900152228</mst_cu>
+      <Header>
+        <nopThueTNCNDoanhThu>0</nopThueTNCNDoanhThu>
+        <nopThueTNCNThunhapTinhThue>1</nopThueTNCNThunhapTinhThue>
+        <hoatDongTMDT>0</hoatDongTMDT>
+        <hoatDongKhac>0</hoatDongKhac>
+        <hoatDongLPS>0</hoatDongLPS>
+        <ToChucNopThueThay>
+          <ct7_ten>To chuc 1</ct7_ten>
+          <ct7_1_ma>1234567890</ct7_1_ma>
+          <ct7_2_so>van ban uy quyen</ct7_2_so>
+          <ct7_2_ngay>2026-03-24</ct7_2_ngay>
+        </ToChucNopThueThay>
+      </Header>
+      <KhaiThueGTGTTNCN>
+        <KinhDoanhDiaDiemCoDinh>
+          <DoanhThuThueGTGTTNCN id="ID_1">
+            <stt>1</stt>
+            <truSoChinh>1</truSoChinh>
+            <mst_diaDiemKD xsi:nil="true" />
+            <ma_diaDiemKD>123456</ma_diaDiemKD>
+            <ten_diaDiemKD>01 Lý Thái Tổ</ten_diaDiemKD>
+            <diaChi_diaDiemKD>
+              <diaChi>01 Lý Thái Tổ</diaChi>
+              <ma_xaPhuong>20901065</ma_xaPhuong>
+              <ten_xaPhuong>Phường Đông Kinh</ten_xaPhuong>
+              <ma_tinh>209</ma_tinh>
+              <ten_tinh>Tỉnh Lạng Sơn</ten_tinh>
+            </diaChi_diaDiemKD>
+            <CTietDoanhThu id="ID_1">
+              <ct09_ma>01</ct09_ma>
+              <ct09_ten>Phân phối, cung cấp hàng hóa</ct09_ten>
+              <ct10>(a)</ct10>
+              <ct11>1000000</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>10000</ct12_soThue>
+              <ct13>1000000</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>5000</ct15_soThue>
+            </CTietDoanhThu>
+            <CTietDoanhThu id="ID_2">
+              <ct09_ma>02</ct09_ma>
+              <ct09_ten>Dịch vụ, xây dựng không bao thầu  nguyên vật liệu</ct09_ten>
+              <ct10>(b)</ct10>
+              <ct11>1000000</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>50000</ct12_soThue>
+              <ct13>1000000</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>20000</ct15_soThue>
+            </CTietDoanhThu>
+            <CTietDoanhThu id="ID_3">
+              <ct09_ma>03</ct09_ma>
+              <ct09_ten>Hoạt động cho thuê tài sản trừ bất động sản</ct09_ten>
+              <ct10>(c)</ct10>
+              <ct11>1000000</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>50000</ct12_soThue>
+              <ct13>1000000</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>50000</ct15_soThue>
+            </CTietDoanhThu>
+            <CTietDoanhThu id="ID_4">
+              <ct09_ma>04</ct09_ma>
+              <ct09_ten>Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu</ct09_ten>
+              <ct10>(d)</ct10>
+              <ct11>1000000</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>30000</ct12_soThue>
+              <ct13>1000000</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>15000</ct15_soThue>
+            </CTietDoanhThu>
+            <CTietDoanhThu id="ID_5">
+              <ct09_ma>05</ct09_ma>
+              <ct09_ten>Hoạt động cung cấp sản phẩm nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo số</ct09_ten>
+              <ct10>(e)</ct10>
+              <ct11>1000000</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>50000</ct12_soThue>
+              <ct13>1000000</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>50000</ct15_soThue>
+            </CTietDoanhThu>
+            <CTietDoanhThu id="ID_6">
+              <ct09_ma>06</ct09_ma>
+              <ct09_ten>Hoạt động kinh doanh khác</ct09_ten>
+              <ct10>(f)</ct10>
+              <ct11>1000000</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>20000</ct12_soThue>
+              <ct13>1000000</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>10000</ct15_soThue>
+            </CTietDoanhThu>
+          </DoanhThuThueGTGTTNCN>
+        </KinhDoanhDiaDiemCoDinh>
+        <KinhDoanhTMDT>
+          <DoanhThuThueGTGTTNCN id="ID_1">
+            <stt>1</stt>
+            <truSoChinh>1</truSoChinh>
+            <mst_diaDiemKD xsi:nil="true" />
+            <ma_diaDiemKD>123456</ma_diaDiemKD>
+            <ten_diaDiemKD>01 Lý Thái Tổ</ten_diaDiemKD>
+            <diaChi_diaDiemKD>
+              <diaChi>01 Lý Thái Tổ</diaChi>
+              <ma_xaPhuong>20901065</ma_xaPhuong>
+              <ten_xaPhuong>Phường Đông Kinh</ten_xaPhuong>
+              <ma_tinh>209</ma_tinh>
+              <ten_tinh>Tỉnh Lạng Sơn</ten_tinh>
+            </diaChi_diaDiemKD>
+            <CTietDoanhThu id="ID_1">
+              <ct09_ma>01</ct09_ma>
+              <ct09_ten>Phân phối, cung cấp hàng hóa</ct09_ten>
+              <ct10>(a)</ct10>
+              <ct11>10000</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>100</ct12_soThue>
+              <ct13>10000</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>50</ct15_soThue>
+            </CTietDoanhThu>
+          </DoanhThuThueGTGTTNCN>
+        </KinhDoanhTMDT>
+        <KinhDoanhLPS>
+          <DoanhThuThueGTGTTNCN>
+            <mst_diaDiemKD xsi:nil="true" />
+            <ma_diaDiemKD />
+            <ten_diaDiemKD />
+            <diaChi_diaDiemKD>
+              <diaChi />
+              <ma_xaPhuong />
+              <ten_xaPhuong />
+              <ma_tinh />
+              <ten_tinh />
+            </diaChi_diaDiemKD>
+            <CTietDoanhThu id="ID_1">
+              <ct09_ma />
+              <ct09_ten />
+              <ct10 />
+              <ct11>0</ct11>
+              <ct12_maTieuMuc>1701</ct12_maTieuMuc>
+              <ct12_tenTieuMuc />
+              <ct12_soThue>0</ct12_soThue>
+              <ct13>0</ct13>
+              <ct14>0</ct14>
+              <ct15_maTieuMuc>1003</ct15_maTieuMuc>
+              <ct15_tenTieuMuc />
+              <ct15_soThue>0</ct15_soThue>
+            </CTietDoanhThu>
+          </DoanhThuThueGTGTTNCN>
+        </KinhDoanhLPS>
+        <TongCongCT16>
+          <tongCT11>6010000</tongCT11>
+          <tongCT12>210100</tongCT12>
+          <tongCT13>6010000</tongCT13>
+          <tongCT14>0</tongCT14>
+          <tongCT15>150050</tongCT15>
+        </TongCongCT16>
+        <SoThueMienCT17>
+          <soThueDuocMienCT12>0</soThueDuocMienCT12>
+          <soThueDuocMienCT15>0</soThueDuocMienCT15>
+        </SoThueMienCT17>
+        <SoThueConPhaiNopCT18>
+          <soThueGTGT_ct12>210100</soThueGTGT_ct12>
+          <soThueTNCN_ct15>150050</soThueTNCN_ct15>
+        </SoThueConPhaiNopCT18>
+      </KhaiThueGTGTTNCN>
+      <KKhaiThueTTDB>
+        <NoiDungKhaiThueTTDB id="ID_1">
+          <stt>1</stt>
+          <truSoChinh>0</truSoChinh>
+          <mst_diaDiemKD xsi:nil="true" />
+          <ma_diaDiemKD>123456</ma_diaDiemKD>
+          <ten_diaDiemKD>01 Lý Thái Tổ</ten_diaDiemKD>
+          <diaChi_diaDiemKD>
+            <diaChi>01 Lý Thái Tổ</diaChi>
+            <ma_xaPhuong>20901065</ma_xaPhuong>
+            <ten_xaPhuong>Phường Đông Kinh</ten_xaPhuong>
+            <ma_tinh>209</ma_tinh>
+            <ten_tinh>Tỉnh Lạng Sơn</ten_tinh>
+          </diaChi_diaDiemKD>
+          <doanhThuHangHoaTTDB id="ID_1">
+            <ct2_ma>10102</ct2_ma>
+            <ct2_ten>Xì gà (75 %)</ct2_ten>
+            <ct3>[19a]</ct3>
+            <ct4 />
+            <ct5>10000</ct5>
+            <ct6>75</ct6>
+            <ct7_maTieuMuc />
+            <ct7_tenTieuMuc />
+            <ct7_soTien>7500</ct7_soTien>
+          </doanhThuHangHoaTTDB>
+          <doanhThuHangHoaTTDB id="ID_2">
+            <ct2_ma>10200</ct2_ma>
+            <ct2_ten>Rượu từ 20 độ trở lên (65 %)</ct2_ten>
+            <ct3>[19b]</ct3>
+            <ct4 />
+            <ct5>10000</ct5>
+            <ct6>65</ct6>
+            <ct7_maTieuMuc>1754</ct7_maTieuMuc>
+            <ct7_tenTieuMuc />
+            <ct7_soTien>6500</ct7_soTien>
+          </doanhThuHangHoaTTDB>
+        </NoiDungKhaiThueTTDB>
+        <TongCongCT20>
+          <tongCT5>20000</tongCT5>
+          <tongCT7>14000</tongCT7>
+        </TongCongCT20>
+        <soThueMienCT21>0</soThueMienCT21>
+        <soThueConPhaiNopCT22>14000</soThueConPhaiNopCT22>
+      </KKhaiThueTTDB>
+      <KKhaiTaiNguyen>
+        <ThueTaiNguyen>
+          <CTietThueTaiNguyen id="ID_1">
+            <ct2_ma />
+            <ct2_ten />
+            <truSoChinh>0</truSoChinh>
+            <ct3_mst_diaDiemKD xsi:nil="true" />
+            <ct3_ma_diaDiemKD />
+            <ct4_ten_diaDiemKD />
+            <diaChi_diaDiemKD>
+              <diaChi />
+              <ma_xaPhuong />
+              <ten_xaPhuong />
+              <ma_tinh />
+              <ten_tinh />
+            </diaChi_diaDiemKD>
+            <ct5 />
+            <ct6 />
+            <ct7>0</ct7>
+            <ct8>0</ct8>
+            <ct9>0</ct9>
+            <ct10_maTieuMuc />
+            <ct10_tenTieuMuc />
+            <ct10_soTien>0</ct10_soTien>
+          </CTietThueTaiNguyen>
+          <tongCongCT24>0</tongCongCT24>
+          <soThueMienCT25>0</soThueMienCT25>
+          <soThueConPhaiNopCT26>0</soThueConPhaiNopCT26>
+        </ThueTaiNguyen>
+        <ThueBVMT>
+          <CTietThueBVMT id="ID_1">
+            <ct2_ma>010201</ct2_ma>
+            <ct2_ten>Than nâu sản xuất trong nước</ct2_ten>
+            <truSoChinh>0</truSoChinh>
+            <ct3_mst_diaDiemKD xsi:nil="true" />
+            <ct3_ma_diaDiemKD />
+            <ct4_ten_diaDiemKD />
+            <diaChi_diaDiemKD>
+              <diaChi />
+              <ma_xaPhuong />
+              <ten_xaPhuong />
+              <ma_tinh />
+              <ten_tinh />
+            </diaChi_diaDiemKD>
+            <ct5>010201</ct5>
+            <ct6>Tấn</ct6>
+            <ct7>0</ct7>
+            <ct8>15000</ct8>
+            <ct9>0</ct9>
+            <ct10_maTieuMuc>2005</ct10_maTieuMuc>
+            <ct10_tenTieuMuc />
+            <ct10_soThue>0</ct10_soThue>
+          </CTietThueBVMT>
+          <CTietThueBVMT id="ID_2">
+            <ct2_ma>010202</ct2_ma>
+            <ct2_ten>Than an - tra - xít (antraxit) sản xuất trong nước</ct2_ten>
+            <truSoChinh>0</truSoChinh>
+            <ct3_mst_diaDiemKD xsi:nil="true" />
+            <ct3_ma_diaDiemKD />
+            <ct4_ten_diaDiemKD />
+            <diaChi_diaDiemKD>
+              <diaChi />
+              <ma_xaPhuong />
+              <ten_xaPhuong />
+              <ma_tinh />
+              <ten_tinh />
+            </diaChi_diaDiemKD>
+            <ct5>010202</ct5>
+            <ct6>Tấn</ct6>
+            <ct7>0</ct7>
+            <ct8>30000</ct8>
+            <ct9>0</ct9>
+            <ct10_maTieuMuc>2005</ct10_maTieuMuc>
+            <ct10_tenTieuMuc />
+            <ct10_soThue>0</ct10_soThue>
+          </CTietThueBVMT>
+          <CTietThueBVMT id="ID_3">
+            <ct2_ma>0104</ct2_ma>
+            <ct2_ten>Túi ni lông sản xuất trong nước</ct2_ten>
+            <truSoChinh>0</truSoChinh>
+            <ct3_mst_diaDiemKD xsi:nil="true" />
+            <ct3_ma_diaDiemKD />
+            <ct4_ten_diaDiemKD />
+            <diaChi_diaDiemKD>
+              <diaChi />
+              <ma_xaPhuong />
+              <ten_xaPhuong />
+              <ma_tinh />
+              <ten_tinh />
+            </diaChi_diaDiemKD>
+            <ct5>0104</ct5>
+            <ct6>Kg</ct6>
+            <ct7>0</ct7>
+            <ct8>50000</ct8>
+            <ct9>0</ct9>
+            <ct10_maTieuMuc>2007</ct10_maTieuMuc>
+            <ct10_tenTieuMuc />
+            <ct10_soThue>0</ct10_soThue>
+          </CTietThueBVMT>
+          <tongCongCT28>0</tongCongCT28>
+          <soThueMienCT29>0</soThueMienCT29>
+          <soThueConPhaiNopCT30>0</soThueConPhaiNopCT30>
+        </ThueBVMT>
+        <PhiBVMT>
+          <CTietPhiBVMT id="ID_1">
+            <ct2_ma>0116</ct2_ma>
+            <ct2_ten>Quặng măng-gan (mangan)</ct2_ten>
+            <truSoChinh>0</truSoChinh>
+            <ct3_mst_diaDiemKD xsi:nil="true" />
+            <ct3_ma_diaDiemKD />
+            <ct4_ten_diaDiemKD />
+            <diaChi_diaDiemKD>
+              <diaChi />
+              <ma_xaPhuong />
+              <ten_xaPhuong />
+              <ma_tinh />
+              <ten_tinh />
+            </diaChi_diaDiemKD>
+            <ct5>0116</ct5>
+            <ct6>Tấn</ct6>
+            <ct7>0</ct7>
+            <ct8>0</ct8>
+            <ct9>0</ct9>
+            <ct10_maTieuMuc>2625</ct10_maTieuMuc>
+            <ct10_tenTieuMuc />
+            <ct10_soThue>0</ct10_soThue>
+          </CTietPhiBVMT>
+          <CTietPhiBVMT id="ID_2">
+            <ct2_ma>0119</ct2_ma>
+            <ct2_ten>Quặng đất hiếm</ct2_ten>
+            <truSoChinh>0</truSoChinh>
+            <ct3_mst_diaDiemKD xsi:nil="true" />
+            <ct3_ma_diaDiemKD />
+            <ct4_ten_diaDiemKD />
+            <diaChi_diaDiemKD>
+              <diaChi />
+              <ma_xaPhuong />
+              <ten_xaPhuong />
+              <ma_tinh />
+              <ten_tinh />
+            </diaChi_diaDiemKD>
+            <ct5>0119</ct5>
+            <ct6>Tấn</ct6>
+            <ct7>0</ct7>
+            <ct8>0</ct8>
+            <ct9>0</ct9>
+            <ct10_maTieuMuc>2625</ct10_maTieuMuc>
+            <ct10_tenTieuMuc />
+            <ct10_soThue>0</ct10_soThue>
+          </CTietPhiBVMT>
+          <tongCongCT32>0</tongCongCT32>
+          <soThueMienCT33>0</soThueMienCT33>
+          <soThueConPhaiNopCT34>0</soThueConPhaiNopCT34>
+        </PhiBVMT>
+      </KKhaiTaiNguyen>
+      <HoTroThongTinNopThue>
+        <ChiTietThongTinNopTHue id="ID_1">
+          <ct36_mst xsi:nil="true" />
+          <ct36_ma>123456</ct36_ma>
+          <ct36_ten />
+          <ct37>Thuế giá trị gia tăng hàng sản xuất, kinh doanh trong nước (gồm cả dịch vụ trong lĩnh vực dầu khí)</ct37>
+          <ct38>210100</ct38>
+          <soTienChenhLech>0</soTienChenhLech>
+          <ct39_ma />
+          <ct40_ma>1701</ct40_ma>
+          <ct41_maDBHC />
+          <ct41_tenDBHC>05977</ct41_tenDBHC>
+          <ct42_maCQThu />
+          <ct42_tenCQThu>20901065 - Phường Đông Kinh - Thuế cơ sở 5 tỉnh Lạng Sơn</ct42_tenCQThu>
+          <ct43_maCQThue />
+          <ct43_tenCQThue>20901 - Thuế cơ sở 5 tỉnh Lạng Sơn</ct43_tenCQThue>
+          <ct44>2026-04-20</ct44>
+          <idKhoanNopTam />
+        </ChiTietThongTinNopTHue>
+        <ChiTietThongTinNopTHue id="ID_2">
+          <ct36_mst xsi:nil="true" />
+          <ct36_ma>123456</ct36_ma>
+          <ct36_ten />
+          <ct37>Rượu sản xuất trong nước</ct37>
+          <ct38>6500</ct38>
+          <soTienChenhLech>0</soTienChenhLech>
+          <ct39_ma />
+          <ct40_ma>1754</ct40_ma>
+          <ct41_maDBHC />
+          <ct41_tenDBHC>05977</ct41_tenDBHC>
+          <ct42_maCQThu />
+          <ct42_tenCQThu>20901065 - Phường Đông Kinh - Thuế cơ sở 5 tỉnh Lạng Sơn</ct42_tenCQThu>
+          <ct43_maCQThue />
+          <ct43_tenCQThue>20901 - Thuế cơ sở 5 tỉnh Lạng Sơn</ct43_tenCQThue>
+          <ct44>2026-04-20</ct44>
+          <idKhoanNopTam />
+        </ChiTietThongTinNopTHue>
+        <ChiTietThongTinNopTHue id="ID_3">
+          <ct36_mst xsi:nil="true" />
+          <ct36_ma>123456</ct36_ma>
+          <ct36_ten />
+          <ct37>Thuế thu nhập từ hoạt động sản xuất, kinh doanh của cá nhân</ct37>
+          <ct38>150050</ct38>
+          <soTienChenhLech>0</soTienChenhLech>
+          <ct39_ma />
+          <ct40_ma>1003</ct40_ma>
+          <ct41_maDBHC />
+          <ct41_tenDBHC>05977</ct41_tenDBHC>
+          <ct42_maCQThu />
+          <ct42_tenCQThu>20901065 - Phường Đông Kinh - Thuế cơ sở 5 tỉnh Lạng Sơn</ct42_tenCQThu>
+          <ct43_maCQThue />
+          <ct43_tenCQThue>20901 - Thuế cơ sở 5 tỉnh Lạng Sơn</ct43_tenCQThue>
+          <ct44>2026-04-20</ct44>
+          <idKhoanNopTam />
+        </ChiTietThongTinNopTHue>
+        <tongTienCT44>366650</tongTienCT44>
+      </HoTroThongTinNopThue>
+      <soTienTruKyTiep>0</soTienTruKyTiep>
+    </CTieuTKhaiChinh>
+  </HSoKhaiThue>
+</HSoThueDTu>

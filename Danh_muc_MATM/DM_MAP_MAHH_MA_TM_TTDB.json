@@ -1,0 +1,962 @@
+[
+  {
+    "maTM_TTDB": "10100",
+    "tenTM_TTDB": "Thuốc lá điếu, xì gà và các chế phẩm khác từ cây thuốc lá",
+    "maTM": "1753",
+    "TenTM": "Thuốc lá điếu, xì gà sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10104",
+    "tenTM_TTDB": "Thuốc lá điếu, xì gà và các chế phẩm khác từ cây thuốc lá nhập khẩu bán ra trong nước",
+    "maTM": "1762",
+    "TenTM": "Thuốc lá, xì gà nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10200",
+    "tenTM_TTDB": "Rượu từ 20 độ trở lên",
+    "maTM": "1754",
+    "TenTM": "Rượu sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10204",
+    "tenTM_TTDB": "Rượu dưới 20 độ",
+    "maTM": "1754",
+    "TenTM": "Rượu sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10205",
+    "tenTM_TTDB": "Rượu từ 20 độ trở lên nhập khẩu bán ra trong nước",
+    "maTM": "1763",
+    "TenTM": "Rượu nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10206",
+    "tenTM_TTDB": "Rượu dưới 20 độ nhập khẩu bán ra trong nước",
+    "maTM": "1763",
+    "TenTM": "Rượu nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10300",
+    "tenTM_TTDB": "Bia",
+    "maTM": "1758",
+    "TenTM": "Bia sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10304",
+    "tenTM_TTDB": "Bia nhập khẩu bán ra trong nước",
+    "maTM": "1767",
+    "TenTM": "Bia nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040104",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 1.500 cm3 trở xuống",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040105",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040106",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040107",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040108",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040109",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040110",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040111",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 6.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040112",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 1.500 cm3 trở xuống nhập khẩu bán ra trong nước (35%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040113",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3 nhập khẩu bán ra trong nước (40%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040114",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3 nhập khẩu bán ra trong nước (50%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040115",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (60%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040116",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3 nhập khẩu bán ra trong nước (90)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040117",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3 nhập khẩu bán ra trong nước (110%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040118",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3 nhập khẩu bán ra trong nước (130%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040119",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 6.000 cm3 nhập khẩu bán ra trong nước (150%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "1040402",
+    "tenTM_TTDB": "Xe ô tô chở người từ 10 đến dưới 16 chỗ",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040201",
+    "tenTM_TTDB": "Xe ô tô chở người từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (15%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "1040403",
+    "tenTM_TTDB": "Xe ô tô chở người từ 16 đến dưới 24 chỗ ngồi",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040301",
+    "tenTM_TTDB": "Xe ô tô chở người từ 16 đến dưới 24 chỗ ngồi nhập khẩu bán ra trong nước (10%)",
+    "maTM": "1799",
+    "TenTM": "Khác",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040401",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 2.500 cm3 trở xuống",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040402",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040403",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040404",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 2.500 cm3 trở xuống nhập khẩu bán ra trong nước (15%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040405",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (20%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040406",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 nhập khẩu bán ra trong nước (25%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050104",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 1.500 cm3 trở xuống",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050105",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050106",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050107",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050108",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050109",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050110",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050111",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 6.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050112",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 1.500 cm3 trở xuống nhập khẩu bán ra trong nước (24.5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050113",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3 nhập khẩu bán ra trong nước (28%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050114",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3 nhập khẩu bán ra trong nước (35%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050115",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (42%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050116",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3 nhập khẩu bán ra trong nước (63%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050117",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3 nhập khẩu bán ra trong nước (77%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050118",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3 nhập khẩu bán ra trong nước (91%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050119",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 6.000 cm3 nhập khẩu bán ra trong nước (105%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040502",
+    "tenTM_TTDB": "Xe ô tô chở người từ 10 đến dưới 16 chỗ",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050201",
+    "tenTM_TTDB": "Xe ô tô chở người từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (10.5%)",
+    "maTM": "1799",
+    "TenTM": "Khác",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040503",
+    "tenTM_TTDB": "Xe ô tô chở người từ 16 đến dưới 24 chỗ",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050301",
+    "tenTM_TTDB": "Xe ô tô chở người từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (7%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050401",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 2.500 cm3 trở xuống",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050402",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050403",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050404",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 2.500 cm3 trở xuống nhập khẩu bán ra trong nước (10.5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050405",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (14%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404050406",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 nhập khẩu bán ra trong nước (17.5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060104",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 1.500 cm3 trở xuống",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060105",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060106",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060107",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060108",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060109",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060110",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060111",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 6.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060112",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 1.500 cm3 trở xuống nhập khẩu bán ra trong nước (17.5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060113",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3 nhập khẩu bán ra trong nước (20%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060114",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3 nhập khẩu bán ra trong nước (25%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060115",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (30%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060116",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3 nhập khẩu bán ra trong nước (45%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060117",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3 nhập khẩu bán ra trong nước (55%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060118",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3 nhập khẩu bán ra trong nước (65%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060119",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 6.000 cm3 nhập khẩu bán ra trong nước (75%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040602",
+    "tenTM_TTDB": "Xe ô tô chở người từ 10 đến dưới 16 chỗ",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060201",
+    "tenTM_TTDB": "Xe ô tô chở người từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (7.5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040603",
+    "tenTM_TTDB": "Xe ô tô chở người từ 16 đến dưới 24 chỗ",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060301",
+    "tenTM_TTDB": "Xe ô tô chở người từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060401",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 2.500 cm3 trở xuống",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060402",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060403",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060404",
+    "tenTM_TTDB": "Loại có dung tích xi lanh từ 2.500 cm3 trở xuống nhập khẩu bán ra trong nước (7.5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060405",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (10%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10404060406",
+    "tenTM_TTDB": "Loại có dung tích xi lanh trên 3.000 cm3 nhập khẩu bán ra trong nước (12.5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040701",
+    "tenTM_TTDB": "Loại chở người từ 9 chỗ trờ xuống",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040702",
+    "tenTM_TTDB": "Loại chở người từ 10 đến dưới 16 chỗ",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040703",
+    "tenTM_TTDB": "Loại chở người từ 16 đến dưới 24 chỗ",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040704",
+    "tenTM_TTDB": "Loại thiết kế vừa chở người, vừa chở hàng",
+    "maTM": "1755",
+    "TenTM": "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040705",
+    "tenTM_TTDB": "Loại chở người từ 9 chỗ trờ xuống nhập khẩu bán ra trong nước (15%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040706",
+    "tenTM_TTDB": "Loại chở người từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (10%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040707",
+    "tenTM_TTDB": "Loại chở người từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (5%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040708",
+    "tenTM_TTDB": "Loại thiết kế vừa chở người, vừa chở hàng nhập khẩu bán ra trong nước (10%)",
+    "maTM": "1764",
+    "TenTM": "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "1040408",
+    "tenTM_TTDB": "Xe mô-tô-hôm (motorhome) không phân biệt dung tích xi lanh",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "104040801",
+    "tenTM_TTDB": "Xe mô-tô-hôm (motorhome) không phân biệt dung tích xi lanh nhập khẩu bán ra trong nước (75%)",
+    "maTM": "1766",
+    "TenTM": "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10501",
+    "tenTM_TTDB": "Xăng",
+    "maTM": "1756",
+    "TenTM": "Xăng các loại sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10502",
+    "tenTM_TTDB": "Xăng E5",
+    "maTM": "1756",
+    "TenTM": "Xăng các loại sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10503",
+    "tenTM_TTDB": "Xăng E10",
+    "maTM": "1756",
+    "TenTM": "Xăng các loại sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10504",
+    "tenTM_TTDB": "Xăng nhập khẩu bán ra trong nước (10%)",
+    "maTM": "1765",
+    "TenTM": "Xăng các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10505",
+    "tenTM_TTDB": "Xăng E5 nhập khẩu bán ra trong nước (8%)",
+    "maTM": "1765",
+    "TenTM": "Xăng các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10506",
+    "tenTM_TTDB": "Xăng E10 nhập khẩu bán ra trong nước (7%)",
+    "maTM": "1765",
+    "TenTM": "Xăng các loại nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10600",
+    "tenTM_TTDB": "Điều hoà nhiệt độ công suất từ 90.000 BTU trở xuống",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10601",
+    "tenTM_TTDB": "Điều hoà nhiệt độ công suất từ 90.000 BTU trở xuống nhập khẩu bán ra trong nước (10%)",
+    "maTM": "1766",
+    "TenTM": "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10700",
+    "tenTM_TTDB": "Bài lá",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10800",
+    "tenTM_TTDB": "Vàng mã, hàng mã",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10900",
+    "tenTM_TTDB": "Xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh trên 125 cm3",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10901",
+    "tenTM_TTDB": "Xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh trên 125 cm3 nhập khẩu bán ra trong nước",
+    "maTM": "1766",
+    "TenTM": "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "11000",
+    "tenTM_TTDB": "Tàu bay",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "11001",
+    "tenTM_TTDB": "Tàu bay nhập khẩu bán ra trong nước",
+    "maTM": "1766",
+    "TenTM": "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "11100",
+    "tenTM_TTDB": "Du thuyền",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "11101",
+    "tenTM_TTDB": "Du thuyền nhập khẩu bán ra trong nước",
+    "maTM": "1766",
+    "TenTM": "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "20101",
+    "tenTM_TTDB": "Kinh doanh vũ trường",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "20102",
+    "tenTM_TTDB": "Kinh doanh mát-xa, ka-ra-ô-kê",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "20200",
+    "tenTM_TTDB": "Kinh doanh ca-si-nô, trò chơi điện tử có thưởng",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "20300",
+    "tenTM_TTDB": "Kinh doanh đặt cược",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "20400",
+    "tenTM_TTDB": "Kinh doanh gôn",
+    "maTM": "1757",
+    "TenTM": "Các dịch vụ, hàng hoá khác sản xuất trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "20500",
+    "tenTM_TTDB": "Kinh doanh xổ số",
+    "maTM": "1761",
+    "TenTM": "Thuế tiêu thụ đặc biệt từ hoạt động xổ số kiến thiết",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10701",
+    "tenTM_TTDB": "Bài lá nhập khẩu bán ra trong nước",
+    "maTM": "1766",
+    "TenTM": "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  },
+  {
+    "maTM_TTDB": "10801",
+    "tenTM_TTDB": "Vàng mã, hàng mã nhập khẩu bán ra trong nước",
+    "maTM": "1766",
+    "TenTM": "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước",
+    "MaMuc": "1750",
+    "TenMuc": "Thuế tiêu thụ đặc biệt"
+  }
+]

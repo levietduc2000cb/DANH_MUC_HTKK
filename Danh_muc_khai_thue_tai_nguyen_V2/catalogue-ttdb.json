@@ -1,0 +1,5636 @@
+[
+  {
+    "ma": "I",
+    "ten": "Khoáng sản kim loại",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I1",
+    "ten": "Sắt",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I101",
+    "ten": "Sắt kim loại",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I102",
+    "ten": "Quặng Manhetit (có từ tính)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I10201",
+    "ten": "Quặng Manhetit có hàm lượng Fe<30%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10202",
+    "ten": "Quặng Manhetit có hàm lượng 30%≤Fe<40%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10203",
+    "ten": "Quặng Manhetit có hàm lượng 40%≤Fe<50%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10204",
+    "ten": "Quặng Manhetit có hàm lượng 50%≤Fe<60%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10205",
+    "ten": "Quặng Manhetit có hàm lượng Fe≥60%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I103",
+    "ten": "Quặng Limonit (không từ tính)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I10301",
+    "ten": "Quặng limonit có hàm lượng Fe≤30%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10302",
+    "ten": "Quặng limonit có hàm lượng 30%<Fe≤40%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10303",
+    "ten": "Quặng limonit có hàm lượng 40%<Fe≤50%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10304",
+    "ten": "Quặng limonit có hàm lượng 50%<Fe≤60%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10305",
+    "ten": "Quặng limonit có hàm lượng Fe>60%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10306",
+    "ten": "Quặng sắt làm phụ gia xi măng",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I104",
+    "ten": "Quặng sắt Deluvi",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I105",
+    "ten": "Tinh quặng sắt hàm lượng Fe>60%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I2",
+    "ten": "Mangan (Măng-gan)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I201",
+    "ten": "Quặng mangan có hàm lượng Mn≤20%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I202",
+    "ten": "Quặng mangan có hàm lượng 20%<Mn≤25%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I203",
+    "ten": "Quặng mangan có hàm lượng 25%<Mn≤30%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I204",
+    "ten": "Quặng mangan có hàm lượng 30<Mn≤35%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I205",
+    "ten": "Quặng mangan có hàm lượng 35%<Mn≤40%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I206",
+    "ten": "Quặng mangan có hàm lượng Mn>40%",
+    "thuesuat": 14,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3",
+    "ten": "Titan",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I301",
+    "ten": "Quặng titan gốc (ilmenit)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I30101",
+    "ten": "Quặng gốc titan có hàm lượng TiO2≤10%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I30102",
+    "ten": "Quặng gốc titan có hàm lượng 10%<TiO2≤15%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I30103",
+    "ten": "Quặng gốc titan có hàm lượng 15%<TiO2≤20%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I30104",
+    "ten": "Quặng gốc titan có hàm lượng TiO2>20%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I302",
+    "ten": "Quặng titan sa khoáng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I30201",
+    "ten": "Quặng Titan sa khoáng chưa qua tuyển tách",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I30202",
+    "ten": "Titan sa khoáng đã qua tuyển tách (tinh quặng Titan)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I3020201",
+    "ten": "Ilmenit",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3020202",
+    "ten": "Quặng Zircon có hàm lượng ZrO2<65%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3020203",
+    "ten": "Quặng Zircon có hàm lượng ZrO2≥65%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3020204",
+    "ten": "Rutil",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3020205",
+    "ten": "Monazite",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3020206",
+    "ten": "Manhectic",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3020207",
+    "ten": "Xỉ titan",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I3020208",
+    "ten": "Các sản phẩm còn lại",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I4",
+    "ten": "Vàng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I401",
+    "ten": "Quặng vàng gốc",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I40101",
+    "ten": "Quặng vàng có hàm lượng Au <2 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40102",
+    "ten": "Quặng vàng có hàm lượng 2≤Au<3 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40103",
+    "ten": "Quặng vàng có hàm lượng 3≤Au<4 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40104",
+    "ten": "Quặng vàng có hàm lượng 4≤Au<5 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40105",
+    "ten": "Quặng vàng có hàm lượng 5≤Au<6 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40106",
+    "ten": "Quặng vàng có hàm lượng 6≤Au<7 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40107",
+    "ten": "Quặng vàng có hàm lượng 7≤Au<8 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40108",
+    "ten": "Quặng vàng có hàm lượng Au≥8 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I402",
+    "ten": "Vàng kim loại (vàng cốm); vàng sa khoáng",
+    "thuesuat": 17,
+    "dvt": "kg"
+  },
+  {
+    "ma": "I403",
+    "ten": "Tinh quặng vàng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I40301",
+    "ten": "Tinh quặng vàng có hàm lượng 82 <Au ≤240 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I40302",
+    "ten": "Tinh quặng vàng có hàm lượng Au > 240 gram/tấn",
+    "thuesuat": 17,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I5",
+    "ten": "Đất hiếm",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I501",
+    "ten": "Quặng đất hiếm có hàm lượng TR203≤1%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I502",
+    "ten": "Quặng đất hiếm có hàm lượng 1%<TR203≤2%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I503",
+    "ten": "Quặng đất hiếm có hàm lượng 2%<TR203≤3%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I504",
+    "ten": "Quặng đất hiếm có hàm lượng 3%<TR203≤4%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I505",
+    "ten": "Quặng đất hiếm có hàm lượng 4%<TR203≤5%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I506",
+    "ten": "Quặng đất hiếm có hàm lượng 5%<TR203≤10%",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I507",
+    "ten": "Quặng đất hiếm có hàm lượng >10% TR203",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I6",
+    "ten": "Bạch kim, bạc, thiếc",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I601",
+    "ten": "Bạch kim",
+    "thuesuat": 12,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I602",
+    "ten": "Bạc kim loại",
+    "thuesuat": 12,
+    "dvt": "kg"
+  },
+  {
+    "ma": "I603",
+    "ten": "Thiếc",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I60301",
+    "ten": "Quặng thiếc gốc",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I6030101",
+    "ten": "Quặng thiếc gốc có hàm lượng 0,2%<SnO2 ≤0,4%",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I6030102",
+    "ten": "Quặng thiếc gốc có hàm lượng 0,4%<SnO2 ≤0,6%",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I6030103",
+    "ten": "Quặng thiếc gốc có hàm lượng 0,6%<SnO2 ≤0,8%",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I6030104",
+    "ten": "Quặng thiếc gốc có hàm lượng 0,8%<SnO2 ≤1%",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I6030105",
+    "ten": "Quặng thiếc gốc có hàm lượng SnO2 >1%",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I60302",
+    "ten": "Tinh quặng thiếc có hàm lượng SnO2 ≥ 70% (sa khoáng, quặng gốc)",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I60303",
+    "ten": "Thiếc kim loại",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I7",
+    "ten": "Wolfram, Antimoan",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I701",
+    "ten": "Wolfram",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I70101",
+    "ten": "Quặng wolfram có hàm lượng 0,1%<WO3 ≤0,3%",
+    "thuesuat": 20,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I70102",
+    "ten": "Quặng wolfram có hàm lượng 0,3%<WO3 ≤0,5%",
+    "thuesuat": 20,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I70103",
+    "ten": "Quặng wolfram có hàm lượng 0,5%<WO3 ≤0,7%",
+    "thuesuat": 20,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I70104",
+    "ten": "Quặng wolfram có hàm lượng 0,7%<WO3 ≤1%",
+    "thuesuat": 20,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I70105",
+    "ten": "Quặng wolfram có hàm lượng WO3 >1%",
+    "thuesuat": 20,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I70106",
+    "ten": "Ôxít vonfram thương phẩm (WO3≥50%)",
+    "thuesuat": 20,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I702",
+    "ten": "Antimoan",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I70201",
+    "ten": "Antimoan kim loại",
+    "thuesuat": 20,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I70202",
+    "ten": "Quặng Antimoan",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I7020201",
+    "ten": "Quặng antimon có hàm lượng Sb<5%",
+    "thuesuat": 20,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I7020202",
+    "ten": "Quặng antimon có hàm lượng 5≤Sb<10%",
+    "thuesuat": 20,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I7020203",
+    "ten": "Quặng antimon có hàm lượng 10%<Sb≤15%",
+    "thuesuat": 20,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I7020204",
+    "ten": "Quặng antimon có hàm lượng 15%<Sb≤20%",
+    "thuesuat": 20,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I7020205",
+    "ten": "Quặng antimon có hàm lượng Sb>20%",
+    "thuesuat": 20,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I8",
+    "ten": "Chì, kẽm",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I801",
+    "ten": "Chì, kẽm kim loại",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I80101",
+    "ten": "Chì kim loại",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I80102",
+    "ten": "Kẽm kim loại",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I802",
+    "ten": "Tinh quặng chì, kẽm",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I80201",
+    "ten": "Tinh quặng chì",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I8020101",
+    "ten": "Tinh quặng chì có hàm lượng Pb<50%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I8020102",
+    "ten": "Tinh quặng chì có hàm lượng Pb≥50%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I80202",
+    "ten": "Tinh quặng kẽm",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I8020201",
+    "ten": "Tinh quặng kẽm có hàm lượng Zn<50%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I8020202",
+    "ten": "Tinh quặng kẽm có hàm lượng Zn≥50%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I803",
+    "ten": "Quặng chì, kẽm",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I80301",
+    "ten": "Quặng chì + kẽm hàm lượng Pb+Zn<5%",
+    "thuesuat": 15,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I80302",
+    "ten": "Quặng chì + kẽm hàm lượng 5%≤Pb+Zn<10%",
+    "thuesuat": 15,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I80303",
+    "ten": "Quặng chì + kẽm hàm lượng 10%≤Pb+Zn<15%",
+    "thuesuat": 15,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I80304",
+    "ten": "Quặng chì + kẽm hàm lượng Pb+Zn≥15%",
+    "thuesuat": 15,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I9",
+    "ten": "Nhôm, Bauxit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I901",
+    "ten": "Quặng bauxit trầm tích",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I902",
+    "ten": "Quặng bauxit laterit",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I10",
+    "ten": "Đồng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I1001",
+    "ten": "Quặng đồng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I100101",
+    "ten": "Quặng đồng có hàm lượng Cu <0,5%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I100102",
+    "ten": "Quặng đồng có hàm lượng 0,5%≤Cu <1%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I100103",
+    "ten": "Quặng đồng có hàm lượng 1%≤Cu<2%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I100104",
+    "ten": "Quặng đồng có hàm lượng 2%≤Cu<3%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I100105",
+    "ten": "Quặng đồng có hàm lượng 3%≤Cu<4%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I100106",
+    "ten": "Quặng đồng có hàm lượng 4%≤Cu<5%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I100107",
+    "ten": "Quặng đồng có hàm lượng Cu≥5%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I1002",
+    "ten": "Tinh quặng đồng có hàm lượng Cu<20%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I1003",
+    "ten": "Tinh quặng đồng có hàm lượng Cu ≥ 20% (trừ sản phẩm công nghiệp)",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I1004",
+    "ten": "Đồng thương phẩm (Cu≥20%)",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I11",
+    "ten": "Nikel (Quặng Nikel)",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I1101",
+    "ten": "Quặng niken có hàm lượng Ni<0,5%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I1102",
+    "ten": "Quặng niken có hàm lượng 0,5≤Ni<0,75%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I1103",
+    "ten": "Quặng niken có hàm lượng 0,75≤Ni<1%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I1104",
+    "ten": "Quặng niken có hàm lượng 1≤Ni<1,25%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I1105",
+    "ten": "Quặng niken có hàm lượng 1,25≤Ni<1,5%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I1106",
+    "ten": "Quặng niken có hàm lượng 1,5≤Ni<1,75%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I1107",
+    "ten": "Quặng niken có hàm lượng 1,75≤Ni<2%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "I12",
+    "ten": "Cô-ban (coban), mô-lip-đen (molipden), thủy ngân, ma-nhê (magie), va-na-đi (vanadi)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I1201",
+    "ten": "Molipden",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I1202",
+    "ten": "Cô-ban (coban), thủy ngân, va-na-đi (vanadi)",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I13",
+    "ten": "Khoáng sản kim loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "I1301",
+    "ten": "Tinh quặng Bismuth hàm lượng 10%≤Bi<20%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I1302",
+    "ten": "Quặng Crôm hàm lượng Cr≥40%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "I1303",
+    "ten": "Bismuth xi-măng (Bi≥80%)",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II",
+    "ten": "Khoáng sản không kim loại",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1",
+    "ten": "Đất khai thác để san lấp, xây dựng công trình",
+    "thuesuat": 7,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II101",
+    "ten": "Đất Bazan nguyên khai",
+    "thuesuat": 7,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II102",
+    "ten": "Đất san lấp",
+    "thuesuat": 7,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II103",
+    "ten": "Cấp phối hỗn hợp chưa qua sàng tuyển (gồm: bùn đất, cát sạn, sỏi cuội…) thuộc dự án Nạo vét lòng hồ Núi Cốc",
+    "thuesuat": 7,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2",
+    "ten": "Đá, sỏi",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II201",
+    "ten": "Sỏi",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II20101",
+    "ten": "Sạn trắng",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II20102",
+    "ten": "Các loại cuội, sỏi, sạn khác",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2010201",
+    "ten": "Đá cuội lớn nguyên khai",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2010202",
+    "ten": "Đá cuội 4x6 nguyên khai",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2010203",
+    "ten": "Sạn, sỏi nguyên khai",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202",
+    "ten": "Đá xây dựng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II20201",
+    "ten": "Đá khối để xẻ (trừ đá hoa trắng, granit và dolomit)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II2020101",
+    "ten": "Đá khối để xẻ có diện tích bề mặt dưới 0,1m2",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020102",
+    "ten": "Đá khối để xẻ có diện tích bề mặt từ 0,1m2 đến dưới 0,3m2",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020103",
+    "ten": "Đá khối để xẻ có diện tích bề mặt từ 0,3 đến dưới 0,6 m2",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020104",
+    "ten": "Đá khối để xẻ có diện tích bề mặt từ 0,6 đến dưới 01 m2",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020105",
+    "ten": "Đá khối để xẻ có diện tích bề mặt từ 01 m2 trở lên",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II20202",
+    "ten": "Đá mỹ nghệ (bao gồm tất cả các loại đá làm mỹ nghệ)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II2020201",
+    "ten": "Đá mỹ nghệ có độ nguyên khối dưới 0,4m3",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020202",
+    "ten": "Đá mỹ nghệ có độ nguyên khối đến từ 0,4m3 đến dưới 1m3",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020203",
+    "ten": "Đá mỹ nghệ có độ nguyên khối từ 1m3 đến dưới 3m3",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020204",
+    "ten": "Đá mỹ nghệ có độ nguyên khối trên 3m3",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II20203",
+    "ten": "Đá làm vật liệu xây dựng thông thường",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II2020301",
+    "ten": "Đá hỗn hợp sau nổ mìn, đá xô bồ (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020302",
+    "ten": "Đá hộc",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030201",
+    "ten": "Đá hộc",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030202",
+    "ten": "Đá mi bụi",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020303",
+    "ten": "Đá cấp phối",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030301",
+    "ten": "Đá cấp phối Dmax 25",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030302",
+    "ten": "Đá cấp phối Dmax 37,5",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020304",
+    "ten": "Đá dăm các loại",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030401",
+    "ten": "Đá dăm các loại - Đá 1x2; 0,5x1 (mạt đá)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030402",
+    "ten": "Đá dăm các loại - Đá 2x4",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030403",
+    "ten": "Đá dăm các loại - Đá 4 x 6 hoặc 5 x 7",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030404",
+    "ten": "Đá dăm các loại - Đá 2 x 8 hoặc 5 x 15",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030405",
+    "ten": "Đá dăm các loại - Đá 1x1,5",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030406",
+    "ten": "Đá dăm các loại - Đá 1x1,9",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030407",
+    "ten": "Đá dăm các loại - Đá 3x8",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030408",
+    "ten": "Đá dăm các loại - Đá bụi",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030409",
+    "ten": "Đá mi",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030410",
+    "ten": "Đá dăm các loại - Đá (0,5 x 0,2)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030411",
+    "ten": "Đá dăm các loại - Đá (9 x 15)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030412",
+    "ten": "Đá dăm các loại - Đá (10 x 15)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030413",
+    "ten": "Đá dăm các loại - Đá (15 x 20)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030414",
+    "ten": "Đá dăm các loại - Đá (20 x 30)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030415",
+    "ten": "Đá dăm các loại - Đá (40 x 60)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030416",
+    "ten": "Đá mi sàng",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030417",
+    "ten": "Đá mi sàng ly tâm",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030418",
+    "ten": "Đá dăm các loại - Đá (0,5 x 2)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030419",
+    "ten": "Đá dăm các loại - Đá (0,5 x 16)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030420",
+    "ten": "Đá dăm các loại - Đá (1 x 15)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030421",
+    "ten": "Đá dăm các loại - Đá (2 x 3)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030422",
+    "ten": "Bột đá (mi bụi)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020305",
+    "ten": "Đá lô ca",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020306",
+    "ten": "Đá chẻ",
+    "thuesuat": 10,
+    "dvt": ""
+  },
+  {
+    "ma": "II202030601",
+    "ten": "Đá chẻ thủ công 15 x 20 x 25",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030602",
+    "ten": "Đá chẻ thủ công 13 x 18 x 38",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030604",
+    "ten": "Đá tảng lăn nguyên khai làm đá chẻ",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030605",
+    "ten": "Đá chẻ thành phẩm",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II202030606",
+    "ten": "Đá đơn: kích thước ≤ (20x20x25)cm",
+    "thuesuat": 10,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II202030607",
+    "ten": "Đá đôi: (20x20x25)cm < kích thước < 0,4m3 (Từ ≥ 0,4m3 tính theo giá đá granite)",
+    "thuesuat": 10,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II2020307",
+    "ten": "Đá bụi, mạt đá",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020308",
+    "ten": "Đá cát kết + Bột kết + Đá vụn lẫn đất để làm đường",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020309",
+    "ten": "Đá ong",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2020310",
+    "ten": "Đá base",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II20204",
+    "ten": "Đá bazan dạng cục, cột (trụ)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II3",
+    "ten": "Đá nung vôi và sản xuất xi măng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II301",
+    "ten": "Đá vôi sản xuất vôi công nghiệp (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II302",
+    "ten": "Đá sản xuất xi măng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II30201",
+    "ten": "Đá vôi sản xuất xi măng (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II30202",
+    "ten": "Đá sét sản xuất xi măng (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II30203",
+    "ten": "Đá làm phụ gia sản xuất xi măng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II3020301",
+    "ten": "Đá puzolan (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II3020302",
+    "ten": "Đá cát kết silic (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II3020303",
+    "ten": "Đá cát kết đen (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II3020304",
+    "ten": "Quặng laterit sắt (khoáng sản khai thác)",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II3020305",
+    "ten": "Đất caosilic",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II30204",
+    "ten": "Đá thải nỏ Khánh Hòa để cung cấp cho nhà máy xi măng Quán Triều",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II303",
+    "ten": "Đá vôi và đá hoa trắng dùng để làm nguyên liệu sản xuất vôi cục, bột bả, bột nhẹ, thức ăn chăn nuôi",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II4",
+    "ten": "Đá hoa trắng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II401",
+    "ten": "Đá hoa trắng kích thước ≥ 0,4 m3 sau khai thác chưa phân loại màu sắc, chất lượng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II402",
+    "ten": "Đá hoa trắng dạng khối (≥ 0,4m3) để xẻ làm ốp lát",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II40201",
+    "ten": "Loại 1 - trắng đều",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II40202",
+    "ten": "Loại 2 - vân vệt",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II40203",
+    "ten": "Loại 3 - màu xám hoặc màu khác",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II40204",
+    "ten": "Loại 1 - trắng đều có vết nứt",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II40205",
+    "ten": "Loại 2 - vân vệt có vết nứt",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II40206",
+    "ten": "Loại 3 - màu xám hoặc màu khác có vết nứt",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II40207",
+    "ten": "Loại 4 đá có lỗi (vân vệt xấu, loang lổ hoặc rạn nứt)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II403",
+    "ten": "Đá hoa trắng dạng khối (<0,4m3) để xẻ làm ốp lát",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II404",
+    "ten": "Đá hoa trắng sản xuất bột carbonat",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II405",
+    "ten": "Đá hoa trắng <0,4m3 để chế tác mỹ nghệ",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II406",
+    "ten": "Đá hoa trắng làm sỏi nhân tạo",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II5",
+    "ten": "Cát",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II501",
+    "ten": "Cát san lấp (bao gồm cả cát nhiễm mặn)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II502",
+    "ten": "Cát xây dựng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II50201",
+    "ten": "Cát đen dùng trong xây dựng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II50202",
+    "ten": "Cát vàng dùng trong xây dựng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II5020201",
+    "ten": "Cát vàng bê tông, cát vàng xây dùng trong xây dựng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II5020202",
+    "ten": "Cát vàng trát dùng trong xây dựng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II50203",
+    "ten": "Cát trát",
+    "thuesuat": 15,
+    "dvt": "m3"
+  },
+  {
+    "ma": "II50204",
+    "ten": "Cát núi, cát sạn",
+    "thuesuat": 15,
+    "dvt": "m3"
+  },
+  {
+    "ma": "II50205",
+    "ten": "Cát nghiền",
+    "thuesuat": 15,
+    "dvt": "m3"
+  },
+  {
+    "ma": "II503",
+    "ten": "Cát vàng sản xuất công nghiệp (khoáng sản khai thác)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II6",
+    "ten": "Cát làm thuỷ tinh (cát trắng)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II601",
+    "ten": "Cát làm thủy tinh nguyên khai",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II602",
+    "ten": "Cát làm thủy tinh tuyển rửa",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II7",
+    "ten": "Đất làm gạch, ngói",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II8",
+    "ten": "Đá Granite",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II801",
+    "ten": "Đá Granite màu ruby",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II802",
+    "ten": "Đá Granite màu đỏ",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II803",
+    "ten": "Đá Granite màu tím, trắng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II80301",
+    "ten": "Đá Granite màu tím",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II80302",
+    "ten": "Đá Granite màu trắng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II804",
+    "ten": "Đá Granite màu khác",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II80401",
+    "ten": "Đá granite thành phẩm các màu khác (có độ dày ≤ 3 cm)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II805",
+    "ten": "Đá gabro và diorit",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II80501",
+    "ten": "Đá gabro và diorit thành phẩm (có độ dày ≤ 3 cm)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II806",
+    "ten": "Đá granite, gabro, diorit khai thác (không đồng nhất về màu sắc, độ hạt, độ thu hồi)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II807",
+    "ten": "Đá Granite bán phong hóa",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II808",
+    "ten": "Granite phong hóa",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II809",
+    "ten": "Đá granite màu trắng, hồng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II80901",
+    "ten": "Đá granite thành phẩm màu trắng, hồng (có độ dày ≤ 3 cm)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II9",
+    "ten": "Sét chịu lửa",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II901",
+    "ten": "Sét chịu lửa màu trắng, xám, xám trắng",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II902",
+    "ten": "Sét chịu lửa các màu còn lại",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II10",
+    "ten": "Dolomit, quartzite",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1001",
+    "ten": "Dolomite",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II100101",
+    "ten": "Đá Dolomite sau khai thác chưa phân loại màu sắc, chất lượng",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II100102",
+    "ten": "Đá khối Dolomite dùng để xẻ (trừ nhóm II100104)",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II10010201",
+    "ten": "Đá khối dùng để xẻ tính theo sản phẩm có diện tích bề mặt dưới 0,3m2",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II10010202",
+    "ten": "Đá khối dùng để xẻ tính theo sản phẩm có diện tích bề mặt từ 0,3m2 đến dưới 0,6m2",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II10010203",
+    "ten": "Đá khối dùng để xẻ tính theo sản phẩm có diện tích bề mặt từ 0,6m2 đến dưới 1m2",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II10010204",
+    "ten": "Đá khối dùng để xẻ tính theo sản phẩm có diện tích bề mặt từ 1m2 trở lên",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II100103",
+    "ten": "Đá Dolomite sử dụng làm nguyên liệu sản xuất công nghiệp",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II100104",
+    "ten": "Đá Dolomite màu vân gỗ",
+    "thuesuat": 15,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II1002",
+    "ten": "Quarzit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II100201",
+    "ten": "Quặng Quarzit thường",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II100202",
+    "ten": "Quặng Quarzit (thạch anh tinh thể)",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II100203",
+    "ten": "Đá Quarzit (sử dụng áp điện)",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1003",
+    "ten": "Pyrophylit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II100301",
+    "ten": "Pyrophylit (khoáng sản khai thác)",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II100302",
+    "ten": "Pyrophilit có hàm lượng 25%<AL203≤30%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II100303",
+    "ten": "Pyrophilit có hàm lượng 30%<AL203≤33%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II100304",
+    "ten": "Pyrophilit có hàm lượng AL203>33%",
+    "thuesuat": 15,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II11",
+    "ten": "Cao lanh (Kaolin/đất sét trắng/đất sét trầm tích; Quặng Felspat làm nguyên liệu gốm sứ)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1101",
+    "ten": "Cao lanh (khoáng sản khai thác, chưa rây)",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1102",
+    "ten": "Cao lanh đã rây",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1103",
+    "ten": "Quặng Fenspat làm nguyên liệu gốm sứ (khoáng sản khai thác)",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1104",
+    "ten": "Fenspat phong hóa",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II12",
+    "ten": "Mica, thạch anh kỹ thuật",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1201",
+    "ten": "Mica",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II120101",
+    "ten": "Mica",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II120102",
+    "ten": "Sericite",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II120103",
+    "ten": "Đá phiến sericite thu hồi từ khai thác sericite",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1202",
+    "ten": "Thạch anh kỹ thuật",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II120201",
+    "ten": "Thạch anh kỹ thuật",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II120202",
+    "ten": "Thạch anh bột",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II120203",
+    "ten": "Thạch anh hạt",
+    "thuesuat": 13,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II13",
+    "ten": "Pirite, phosphorite",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1301",
+    "ten": "Quặng Pirite",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II1302",
+    "ten": "Quặng phosphorit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II130201",
+    "ten": "Quặng Phosphorite có hàm lượng P2O5 < 20%",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II130202",
+    "ten": "Quặng Phosphorite có hàm lượng 20% ≤ P2O5 < 30%",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II130203",
+    "ten": "Quặng Phosphorite có hàm lượng P2O5 ≥ 30%",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II14",
+    "ten": "Apatit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1401",
+    "ten": "Apatit loại I",
+    "thuesuat": 8,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II140101",
+    "ten": "Apatit loại I dạng cục",
+    "thuesuat": 8,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II140102",
+    "ten": "Apatit loại I dạng bột",
+    "thuesuat": 8,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1402",
+    "ten": "Apatit loại II",
+    "thuesuat": 8,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1403",
+    "ten": "Apatit loại III",
+    "thuesuat": 8,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1404",
+    "ten": "Apatit loại tuyển",
+    "thuesuat": 8,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II15",
+    "ten": "Secpentin (Quặng secpentin)",
+    "thuesuat": 6,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II16",
+    "ten": "Than antraxit hầm lò",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1601",
+    "ten": "Than antraxit hầm lò - Than sạch trong than khai thác (cám 0-15, cục -15)",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1602",
+    "ten": "Than antraxit hầm lò - Than cục",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II160201",
+    "ten": "Than antraxit hầm lò - Than cục 1a, 1b, 1c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160202",
+    "ten": "Than antraxit hầm lò - Than cục 2a, 2b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160203",
+    "ten": "Than antraxit hầm lò - Than cục 3a, 3b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160204",
+    "ten": "Than antraxit hầm lò - Than cục 4a, 4b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160205",
+    "ten": "Than antraxit hầm lò - Than cục 5a, 5b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160206",
+    "ten": "Than antraxit hầm lò - Than cục don 6a, 6b, 6c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160207",
+    "ten": "Than antraxit hầm lò - Than cục don 7a, 7b, 7c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160208",
+    "ten": "Than antraxit hầm lò - Than cục don 8a, 8b, 8c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1603",
+    "ten": "Than antraxit hầm lò - Than cám",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II160301",
+    "ten": "Than antraxit hầm lò - Than cám 1",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160302",
+    "ten": "Than antraxit hầm lò - Than cám 2",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160303",
+    "ten": "Than antraxit hầm lò - Than cám 3a, 3b, 3c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160304",
+    "ten": "Than antraxit hầm lò - Than cám 4a, 4b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160305",
+    "ten": "Than antraxit hầm lò - Than cám 5a, 5b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160306",
+    "ten": "Than antraxit hầm lò - Than cám 6a, 6b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160307",
+    "ten": "Than antraxit hầm lò - Than cám 7a, 7b, 7c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160308",
+    "ten": "Than cám hỗn hợp (Núi Hồng + Khánh Hòa) phục vụ vân hành Nhà máy Nhiệt điên Cao Ngạn)",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160309",
+    "ten": "Than antraxit hầm lò - Than cám 8a, 8b, 8c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160310",
+    "ten": "Than cám chất lượng thấp",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1604",
+    "ten": "Than antraxit hầm lò - Than bùn",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II160401",
+    "ten": "Than antraxit hầm lò - Than bùn tuyển 1a, 1b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160402",
+    "ten": "Than antraxit hầm lò - Than bùn tuyển 2a, 2b",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160403",
+    "ten": "Than antraxit hầm lò - Than bùn tuyển 3a, 3b, 3c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II160404",
+    "ten": "Than antraxit hầm lò - Than bùn tuyển 4a, 4b, 4c",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II17",
+    "ten": "Than antraxit lộ thiên",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1701",
+    "ten": "Than antraxit lộ thiên - Than sạch trong than khai thác (cám 0-15, cục -15)",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1702",
+    "ten": "Than antraxit lộ thiên - Than cục",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II170201",
+    "ten": "Than antraxit lộ thiên - Than cục 1a, 1b, 1c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170202",
+    "ten": "Than antraxit lộ thiên - Than cục 2a, 2b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170203",
+    "ten": "Than antraxit lộ thiên - Than cục 3a, 3b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170204",
+    "ten": "Than antraxit lộ thiên - Than cục 4a, 4b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170205",
+    "ten": "Than antraxit lộ thiên - Than cục 5a, 5b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170206",
+    "ten": "Than antraxit lộ thiên - Than cục don 6a, 6b, 6c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170207",
+    "ten": "Than antraxit lộ thiên - Than cục don 7a, 7b, 7c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170208",
+    "ten": "Than antraxit lộ thiên - Than cục don 8a, 8b, 8c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1703",
+    "ten": "Than antraxit lộ thiên - Than cám",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II170301",
+    "ten": "Than antraxit lộ thiên - Than cám 1",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170302",
+    "ten": "Than antraxit lộ thiên - Than cám 2",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170303",
+    "ten": "Than antraxit lộ thiên - Than cám 3a, 3b, 3c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170304",
+    "ten": "Than antraxit lộ thiên - Than cám 4a, 4b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170305",
+    "ten": "Than antraxit lộ thiên - Than cám 5a, 5b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170306",
+    "ten": "Than antraxit lộ thiên - Than cám 6a, 6b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170307",
+    "ten": "Than antraxit lộ thiên - Than cám 7a, 7b, 7c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170308",
+    "ten": "Than cám hỗn hợp (Núi Hồng + Khánh Hòa) phục vụ vân hành Nhà máy Nhiệt điên Cao Ngân)",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1704",
+    "ten": "Than antraxit lộ thiên - Than bùn",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II170401",
+    "ten": "Than antraxit lộ thiên - Than bùn tuyển 1a, 1b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170402",
+    "ten": "Than antraxit lộ thiên - Than bùn tuyển 2a, 2b",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170403",
+    "ten": "Than antraxit lộ thiên - Than bùn tuyển 3a, 3b, 3c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II170404",
+    "ten": "Than antraxit lộ thiên - Than bùn tuyển 4a, 4b, 4c",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1705",
+    "ten": "Than mỏ Cát Nê",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II18",
+    "ten": "Than nâu, than mỡ",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II1801",
+    "ten": "Than nâu",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II1802",
+    "ten": "Than mỡ",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II180201",
+    "ten": "Than mỡ có độ tro khô Ak≤40%",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II180202",
+    "ten": "Than mỡ có độ tro khô Ak>40%",
+    "thuesuat": 12,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II19",
+    "ten": "Than khác",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II1901",
+    "ten": "Than bùn",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II1902",
+    "ten": "Than bùn tuyển khác",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II1903",
+    "ten": "Than bã sàng",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II1904",
+    "ten": "Xít thải than",
+    "thuesuat": 12,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II1905",
+    "ten": "Than cám trong than nguyên khai 0-15mm",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II1906",
+    "ten": "Than cục trong than nguyên khai 15-100mm",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II20",
+    "ten": "Kim cương, rubi, sapphire",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II2001",
+    "ten": "Rubi thô chưa phân loại theo kích thước, chất lượng",
+    "thuesuat": 27,
+    "dvt": "kg"
+  },
+  {
+    "ma": "II2002",
+    "ten": "Sapphire thô chưa phân loại theo kích thước, chất lượng",
+    "thuesuat": 27,
+    "dvt": "kg"
+  },
+  {
+    "ma": "II2003",
+    "ten": "Corindon thô chưa phân loại theo kích thước, chất lượng",
+    "thuesuat": 27,
+    "dvt": "kg"
+  },
+  {
+    "ma": "II21",
+    "ten": "Emerald, alexandrite, opan",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II22",
+    "ten": "Adit, rodolite, pyrope, berin, spinen, topaz",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II2201",
+    "ten": "Berin, mã não có màu xanh da trời, xanh nước biển, sáng ngọc",
+    "thuesuat": 18,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II23",
+    "ten": "Thạch anh tinh thể màu; cryolite; opan quý màu trắng, đỏ lửa; fenspat, birusa; nefrite",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II2301",
+    "ten": "Thạch anh ám khói, trong suốt, tóc",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2302",
+    "ten": "Anmetit (thạch anh tím)",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2303",
+    "ten": "Thạch anh tinh thể khác",
+    "thuesuat": 18,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II24",
+    "ten": "Khoáng sản không kim loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II2401",
+    "ten": "Barit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II240101",
+    "ten": "Quặng Barit khai thác hàm lượng BaSO4<20%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240102",
+    "ten": "Quặng Barit khai thác hàm lượng 20%≤BaSO4<40%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240103",
+    "ten": "Quặng Barit khai thác hàm lượng 40%≤BaSO4<60%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240104",
+    "ten": "Quặng Barit khai thác hàm lượng 60%≤BaSO4<70%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240105",
+    "ten": "Quặng Barit khai thác hàm lượng BaSO4 ≥ 70%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240106",
+    "ten": "Đá Barite",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II2402",
+    "ten": "Fluorit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II240201",
+    "ten": "Quặng Fluorit khai thác hàm lượng CaF2<20%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240202",
+    "ten": "Quặng Fluorit khai thác hàm lượng 20%≤CaF2<30%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240203",
+    "ten": "Quặng Fluorit khai thác hàm lượng 30%≤CaF2<50%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240204",
+    "ten": "Quặng Fluorit khai thác hàm lượng 50%≤CaF2<70%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II240205",
+    "ten": "Quặng Fluorit khai thác hàm lượng 70%≤CaF2<90%",
+    "thuesuat": 10,
+    "dvt": "Tấn"
+  },
+  {
+    "ma": "II2403",
+    "ten": "Quặng Diatomite khai thác",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2404",
+    "ten": "Graphit",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II240401",
+    "ten": "Quặng Graphit khai thác",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II240402",
+    "ten": "Tinh quặng Graphit",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II240403",
+    "ten": "Graphit - Quặng Fluorit khai thác",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2405",
+    "ten": "Quặng Tacl (Tale)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "II240501",
+    "ten": "Quặng Tacl khai thác",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II240502",
+    "ten": "Bột Tacl",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2406",
+    "ten": "Bùn khoáng",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2407",
+    "ten": "Sét Bentonite",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "II2408",
+    "ten": "Quặng Silic",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2409",
+    "ten": "Quặng Magnesit",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2410",
+    "ten": "Đá phong thủy",
+    "thuesuat": 10,
+    "dvt": ""
+  },
+  {
+    "ma": "II241001",
+    "ten": "Gỗ hóa thạch chiều cao <20cm",
+    "thuesuat": 10,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II241002",
+    "ten": "Gỗ hóa thạch chiều cao 20-30cm",
+    "thuesuat": 10,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II241003",
+    "ten": "Gỗ hóa thạch chiều cao trên 30cm",
+    "thuesuat": 10,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II241004",
+    "ten": "Đá sắt nazodac giàu corindon hoặc safia",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "II241005",
+    "ten": "Calcite hồng, trắng, xanh",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "II241006",
+    "ten": "Fluorit có màu xanh da trời, tím, xanh Cửu long",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "II241007",
+    "ten": "Đá vôi, phiến vôi trang trí non bộ, phong thủy",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II241008",
+    "ten": "Tourmaline đen",
+    "thuesuat": 10,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II241009",
+    "ten": "Granat có màu đỏ đậm, đỏ nâu, nâu, làm tranh đá quý, bột mài kích thước nhỏ hơn 2,5mm",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "II241010",
+    "ten": "Granat có màu đỏ đậm, đỏ nâu, nâu trang sức bán quý hoặc có kích thước từ 2,5mm trở lên",
+    "thuesuat": 10,
+    "dvt": "viên"
+  },
+  {
+    "ma": "II2412",
+    "ten": "Đá phiến sét",
+    "thuesuat": 10,
+    "dvt": "m2"
+  },
+  {
+    "ma": "II2413",
+    "ten": "Các loại khoáng sản không kim loại khác",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II241301",
+    "ten": "San hô chết",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II241302",
+    "ten": "Sét bùn nguyên khai",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "II2414",
+    "ten": "Flourspar cấp acid (CaF2≥98%)",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "III",
+    "ten": "Sản phẩm của rừng tự nhiên",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III1",
+    "ten": "Gỗ nhóm I",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III101",
+    "ten": "Cẩm lai",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10101",
+    "ten": "Cẩm lai - Đường kính (D)<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10102",
+    "ten": "Cẩm lai - 25cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10103",
+    "ten": "Cẩm lai - D≥ 50 cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III102",
+    "ten": "Cẩm liên (cà gần)",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III103",
+    "ten": "Dáng hương (giáng hương)",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III104",
+    "ten": "Du sam",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III105",
+    "ten": "Gõ đỏ (Cà te/Hồ bì)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III10501",
+    "ten": "Gõ đỏ (Cà te/Hồ bì) - D<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10502",
+    "ten": "Gõ đỏ (Cà te/Hồ bì) - 25cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10503",
+    "ten": "Gõ đỏ (Cà te/Hồ bì) - D≥ 50 cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III106",
+    "ten": "Gụ",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III10601",
+    "ten": "Gụ - D<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10602",
+    "ten": "Gụ - 25cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10603",
+    "ten": "Gụ - D≥ 50 cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III107",
+    "ten": "Gụ mật (Gõ mật)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III10701",
+    "ten": "Gụ mật (Gõ mật) - D<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10702",
+    "ten": "Gụ mật (Gõ mật) - 25cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10703",
+    "ten": "Gụ mật (Gõ mật) - D≥ 50 cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III108",
+    "ten": "Hoàng đàn",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10801",
+    "ten": "Hoàng Đàn - D<25cm",
+    "thuesuat": 35,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III10802",
+    "ten": "Hoàng Đàn - 25≤ D<50cm",
+    "thuesuat": 35,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III10803",
+    "ten": "Hoàng Đàn - D≥50cm",
+    "thuesuat": 35,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III109",
+    "ten": "Huê mộc, Sưa (Trắc thối/Huỳnh đàn đỏ)",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III10901",
+    "ten": "Huê mộc, Sưa (trắc thối/huỳnh đàn đỏ) - D<25cm",
+    "thuesuat": 35,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III10902",
+    "ten": "Huê mộc, Sưa (trắc thối/huỳnh đàn đỏ) - 25≤ D<50cm",
+    "thuesuat": 35,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III10903",
+    "ten": "Huê mộc, Sưa (trắc thối/huỳnh đàn đỏ) - D≥50cm",
+    "thuesuat": 35,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III110",
+    "ten": "Huỳnh đường",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11001",
+    "ten": "Bông chít",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11002",
+    "ten": "Dược liệu khác",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11003",
+    "ten": "Dứa dại",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11004",
+    "ten": "Cù khúc khắc",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11005",
+    "ten": "Huyết đằng",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11006",
+    "ten": "Vỏ nhớt",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11007",
+    "ten": "Cây mua tươi",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11008",
+    "ten": "Cây máu chó",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11009",
+    "ten": "Dây gục gạc",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11010",
+    "ten": "Rễ cây mua",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11011",
+    "ten": "Dây cóc",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11012",
+    "ten": "Chè rừng",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11013",
+    "ten": "Sản phẩm khác",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11014",
+    "ten": "Tre, nứa làm nguyên liệu",
+    "thuesuat": 35,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "III11015",
+    "ten": "Củ lông culy",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11016",
+    "ten": "Ngọc cầu",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11017",
+    "ten": "Cây Phong lan",
+    "thuesuat": 35,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III111",
+    "ten": "Hương",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III11101",
+    "ten": "Hương - D<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11102",
+    "ten": "Hương - 25cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11103",
+    "ten": "Hương - D≥ 50 cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III112",
+    "ten": "Hương tía",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III113",
+    "ten": "Lát",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III114",
+    "ten": "Mun",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III115",
+    "ten": "Muồng đen",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III116",
+    "ten": "Pơ mu",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III11601",
+    "ten": "Pơ mu - D<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11602",
+    "ten": "Pơ mu - 25cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11603",
+    "ten": "Pơ mu - D≥ 50 cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III117",
+    "ten": "Sơn huyết",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III118",
+    "ten": "Trai",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III119",
+    "ten": "Trắc",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III11901",
+    "ten": "Trắc - D<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11902",
+    "ten": "Trắc - 25cm≤D<35cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11903",
+    "ten": "Trắc - 35cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11904",
+    "ten": "50cm≤D<65cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III11905",
+    "ten": "D≥ 65cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III120",
+    "ten": "Gỗ nhóm I - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III12001",
+    "ten": "Gỗ nhóm I - D<25cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III12002",
+    "ten": "Gỗ nhóm I - 25cm≤D<35cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III12003",
+    "ten": "Gỗ nhóm I - 35cm≤D<50cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III12004",
+    "ten": "Gỗ nhóm I - D≥ 50 cm",
+    "thuesuat": 35,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III2",
+    "ten": "Gỗ nhóm II",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III201",
+    "ten": "Cẩm xe",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20101",
+    "ten": "Cẩm xe - D<25cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III20102",
+    "ten": "Cẩm xe -25≤ D<50cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III20103",
+    "ten": "Cẩm xe- D≥50cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III202",
+    "ten": "Đinh (đinh hương)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III20201",
+    "ten": "Đinh (đinh hương) - D<25cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20202",
+    "ten": "Đinh (đinh hương) - 25cm≤D<50cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20203",
+    "ten": "Đinh (đinh hương) - D≥ 50 cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III203",
+    "ten": "Lim xanh",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III20301",
+    "ten": "Lim xanh - D<25cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20302",
+    "ten": "Lim xanh - 25cm≤D<50cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20303",
+    "ten": "Lim xanh - D≥ 50 cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III204",
+    "ten": "Nghiến",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III20401",
+    "ten": "Nghiến - D<25cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20402",
+    "ten": "Nghiến - 25cm≤D<50cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20403",
+    "ten": "Nghiến - D≥ 50 cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III205",
+    "ten": "Kiền kiền",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III20501",
+    "ten": "Kiền kiền - D<25cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20502",
+    "ten": "Kiền kiền - 25cm≤D<50cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20503",
+    "ten": "Kiền kiền - D≥ 50 cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III206",
+    "ten": "Da đá",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III207",
+    "ten": "Sao xanh",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20701",
+    "ten": "Sao xanh - D<25cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III20702",
+    "ten": "Sao xanh - 25≤ D<50cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III20703",
+    "ten": "Sao xanh - D≥50cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III208",
+    "ten": "Sến",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III209",
+    "ten": "Sến mật",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III20901",
+    "ten": "Sến mật - D<25cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III20902",
+    "ten": "Sến mật - 25≤ D<50cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III20903",
+    "ten": "Sến mật - D≥50cm",
+    "thuesuat": 30,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III210",
+    "ten": "Sến mủ",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III211",
+    "ten": "Táu mật",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III212",
+    "ten": "Trai ly",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III213",
+    "ten": "Xoay",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III21301",
+    "ten": "Xoay - D<25cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III21302",
+    "ten": "Xoay - 25cm≤D<50cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III21303",
+    "ten": "Xoay - D≥ 50 cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III214",
+    "ten": "Gỗ nhóm II - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III21401",
+    "ten": "Gỗ nhóm II - D<25cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III21402",
+    "ten": "Gỗ nhóm II - 25cm≤D<50cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III21403",
+    "ten": "Gỗ nhóm II - D≥ 50 cm",
+    "thuesuat": 30,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III3",
+    "ten": "Gỗ nhóm III",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III301",
+    "ten": "Bằng lăng",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III30101",
+    "ten": "Bằng lăng - D<25cm",
+    "thuesuat": 20,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III30102",
+    "ten": "Bằng lăng - 25≤ D<50cm",
+    "thuesuat": 20,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III30103",
+    "ten": "Bằng lăng - D≥50cm",
+    "thuesuat": 20,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III302",
+    "ten": "Cà chắc (cà chí)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III30201",
+    "ten": "Cà chắc (cà chí) - D<25cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III30202",
+    "ten": "Cà chắc (cà chí) - 25cm≤D<50cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III30203",
+    "ten": "Cà chắc (cà chí) - D≥ 50 cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III303",
+    "ten": "Cà ổi",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III304",
+    "ten": "Chò chỉ",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III30401",
+    "ten": "Chò chỉ - D<25cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III30402",
+    "ten": "Chò chỉ - 25cm≤D<50cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III30403",
+    "ten": "Chò chỉ - D≥ 50 cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III305",
+    "ten": "Chò chai",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III306",
+    "ten": "Chua khét",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III307",
+    "ten": "Dạ hương",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III308",
+    "ten": "Giỗi",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III30801",
+    "ten": "Giỗi - D<25cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III30802",
+    "ten": "Giỗi - 25cm≤D<50cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III30803",
+    "ten": "Giỗi - D≥ 50 cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III309",
+    "ten": "Dầu gió",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III310",
+    "ten": "Huỳnh",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III311",
+    "ten": "Re mit",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III312",
+    "ten": "Re hương",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III313",
+    "ten": "Săng lẻ",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III314",
+    "ten": "Sao đen",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III315",
+    "ten": "Sao cát",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III31501",
+    "ten": "Sao cát - D<25cm",
+    "thuesuat": 20,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III31502",
+    "ten": "Sao cát - 25≤ D<50cm",
+    "thuesuat": 20,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III31503",
+    "ten": "Sao cát - D≥50cm",
+    "thuesuat": 20,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III316",
+    "ten": "Trường mật",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III317",
+    "ten": "Trường chua",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III318",
+    "ten": "Vên vên",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III319",
+    "ten": "Gỗ nhóm III - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III31901",
+    "ten": "Gỗ nhóm III - D<25cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III31902",
+    "ten": "Gỗ nhóm III - 25cm≤D<35cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III31903",
+    "ten": "Gỗ nhóm III - 35cm≤D<50cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III31904",
+    "ten": "Gỗ nhóm III - D≥ 50 cm",
+    "thuesuat": 20,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III4",
+    "ten": "Gỗ nhóm IV",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III401",
+    "ten": "Bô bô",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III40101",
+    "ten": "Chiều dài <2m",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III40102",
+    "ten": "Chiều dài ≥2m",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III402",
+    "ten": "Chặc khế",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III403",
+    "ten": "Cóc đá",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III404",
+    "ten": "Dầu các loại",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III405",
+    "ten": "Re (De)",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III406",
+    "ten": "Gội tía",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III407",
+    "ten": "Mỡ",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III408",
+    "ten": "Sến bo bo",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III40801",
+    "ten": "Sến bo bo - D<25cm",
+    "thuesuat": 18,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III40802",
+    "ten": "Sến bo bo - 25≤ D<50cm",
+    "thuesuat": 18,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III40803",
+    "ten": "Sến bo bo - D≥50cm",
+    "thuesuat": 18,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III409",
+    "ten": "Lim sừng",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III410",
+    "ten": "Thông",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III411",
+    "ten": "Thông lông gà",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III412",
+    "ten": "Thông ba lá",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III41201",
+    "ten": "Thông ba lá (thông dầu) - D<25cm",
+    "thuesuat": 18,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III41202",
+    "ten": "Thông ba lá (thông dầu) - 25≤ D<50cm",
+    "thuesuat": 18,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III41203",
+    "ten": "Thông ba lá (thông dầu) - D≥50cm",
+    "thuesuat": 18,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III413",
+    "ten": "Thông nàng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III41301",
+    "ten": "D<35cm",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III41302",
+    "ten": "D≥ 35 cm",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III414",
+    "ten": "Vàng tâm",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III415",
+    "ten": "Gỗ nhóm IV - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III41501",
+    "ten": "Gỗ nhóm IV - D<25cm",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III41502",
+    "ten": "Gỗ nhóm IV - 25cm≤D<35cm",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III41503",
+    "ten": "Gỗ nhóm IV - 35cm≤D<50cm",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III41504",
+    "ten": "Gỗ nhóm IV - D≥ 50 cm",
+    "thuesuat": 18,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5",
+    "ten": "Gỗ nhóm V,VI, VII, VIII và các loại gỗ khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III501",
+    "ten": "Gỗ nhóm V",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III50101",
+    "ten": "Chò xanh",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50102",
+    "ten": "Chò xót",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50103",
+    "ten": "Dải ngựa",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50104",
+    "ten": "Dầu",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5010401",
+    "ten": "Dầu - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010402",
+    "ten": "Dầu - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010403",
+    "ten": "Dầu - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50105",
+    "ten": "Dầu đỏ",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5010501",
+    "ten": "Dầu đỏ - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010502",
+    "ten": "Dầu đỏ - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010503",
+    "ten": "Dầu đỏ - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50106",
+    "ten": "Dầu đồng",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5010601",
+    "ten": "Dầu đồng - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010602",
+    "ten": "Dầu đồng - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010603",
+    "ten": "Dầu đồng - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50107",
+    "ten": "Dầu nước",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5010701",
+    "ten": "Dầu nước - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010702",
+    "ten": "Dầu nước - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5010703",
+    "ten": "Dầu nước - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50108",
+    "ten": "Lim vang (lim xẹt)",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50109",
+    "ten": "Muồng (Muồng cánh dán)",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50110",
+    "ten": "Sa mộc",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50111",
+    "ten": "Sau sau (Táu hậu)",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50112",
+    "ten": "Thông hai lá",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5011201",
+    "ten": "Thông hai lá - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5011202",
+    "ten": "Thông hai lá - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5011203",
+    "ten": "Thông hai lá - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50113",
+    "ten": "Gỗ nhóm V - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III5011301",
+    "ten": "Gỗ nhóm V - D<25cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5011302",
+    "ten": "Gỗ nhóm V - 25cm≤D<50cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5011303",
+    "ten": "Gỗ nhóm V - D≥ 50 cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III502",
+    "ten": "Gỗ nhóm VI",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III50201",
+    "ten": "Bạch đàn",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50202",
+    "ten": "Cáng lò",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50203",
+    "ten": "Chò",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50204",
+    "ten": "Chò nâu",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50205",
+    "ten": "Keo",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50206",
+    "ten": "Kháo vàng",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5020601",
+    "ten": "Kháo vàng - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5020602",
+    "ten": "Kháo vàng - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5020603",
+    "ten": "Kháo vàng - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50207",
+    "ten": "Mận rừng",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50208",
+    "ten": "Phay",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50209",
+    "ten": "Trám hồng",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5020901",
+    "ten": "Trám hồng - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5020902",
+    "ten": "Trám hồng - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5020903",
+    "ten": "Trám hồng - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50210",
+    "ten": "Xoan đào",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5021001",
+    "ten": "Xoan đào - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5021002",
+    "ten": "Xoan đào - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5021003",
+    "ten": "Xoan đào - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50211",
+    "ten": "Sấu",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50212",
+    "ten": "Gỗ nhóm VI - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III5021201",
+    "ten": "Gỗ nhóm VI - D<25cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5021202",
+    "ten": "Gỗ nhóm VI - 25cm≤D<50cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5021203",
+    "ten": "Gỗ nhóm VI - D≥ 50 cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III503",
+    "ten": "Gỗ nhóm VII",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III50301",
+    "ten": "Gáo vàng",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50302",
+    "ten": "Lồng mức",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5030201",
+    "ten": "Lồng mức - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030202",
+    "ten": "Lồng mức - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030203",
+    "ten": "Lồng mức - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50303",
+    "ten": "Mò cua (Mù cua/Sữa)",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5030301",
+    "ten": "Mò cua (Mù cua/Sữa) - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030302",
+    "ten": "Mò cua (Mù cua/Sữa) - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030303",
+    "ten": "Mò cua (Mù cua/Sữa) - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50304",
+    "ten": "Trám trắng",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5030401",
+    "ten": "Trám trắng - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030402",
+    "ten": "Trám trắng - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030403",
+    "ten": "Trám trắng - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50305",
+    "ten": "Vang trứng",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5030501",
+    "ten": "Vạn trứng (vang trứng) - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030502",
+    "ten": "Vạn trứng (vang trứng) - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5030503",
+    "ten": "Vạn trứng (vang trứng) - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50306",
+    "ten": "Xoan",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III50307",
+    "ten": "Gỗ nhóm VII - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III5030701",
+    "ten": "Gỗ nhóm VII - D<25cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5030702",
+    "ten": "Gỗ nhóm VII - 25cm≤D<50cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5030703",
+    "ten": "Gỗ nhóm VII - D≥ 50 cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III504",
+    "ten": "Gỗ nhóm VIII",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III50401",
+    "ten": "Bồ đề",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5040101",
+    "ten": "Bồ đề - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5040102",
+    "ten": "Bồ đề - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5040103",
+    "ten": "Bồ đề - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50402",
+    "ten": "Bộp (đa xanh)",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5040201",
+    "ten": "Bộp (đa xanh) - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5040202",
+    "ten": "Bộp (đa xanh) - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5040203",
+    "ten": "Bộp (đa xanh) - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50403",
+    "ten": "Trụ mỏ",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5040301",
+    "ten": "Trụ mỏ - D<25cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5040302",
+    "ten": "Trụ mỏ - 25≤ D<50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III5040303",
+    "ten": "Trụ mỏ - D≥50cm",
+    "thuesuat": 12,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III50404",
+    "ten": "Gỗ nhóm VIII - Các loại khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III5040401",
+    "ten": "Gỗ nhóm VIII - D<25cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III5040402",
+    "ten": "Gỗ nhóm VIII - D≥25cm",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III505",
+    "ten": "Các loại gỗ khác",
+    "thuesuat": 12,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III6",
+    "ten": "Cành, ngọn, gốc, rễ",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III601",
+    "ten": "Cành, ngọn",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III602",
+    "ten": "Gốc, rễ",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III603",
+    "ten": "Gỗ tận thu khô mục, lóc lõi",
+    "thuesuat": 10,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III60301",
+    "ten": "Nhóm I, II loại đường kính D>25cm, dài >1,2 cm",
+    "thuesuat": 10,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III60302",
+    "ten": "Nhóm I, II loại đường kính D>25cm, dài ≤1,2cm",
+    "thuesuat": 10,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III60303",
+    "ten": "Nhóm I, II loại đường kính D≤25cm",
+    "thuesuat": 10,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III60304",
+    "ten": "Các nhóm khác",
+    "thuesuat": 10,
+    "dvt": "m3"
+  },
+  {
+    "ma": "III7",
+    "ten": "Củi",
+    "thuesuat": 5,
+    "dvt": "M3"
+  },
+  {
+    "ma": "III8",
+    "ten": "Tre, trúc, nứa, mai, giang, tranh, vầu, lồ ô",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III801",
+    "ten": "Tre",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III80101",
+    "ten": "Tre - D<5cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80102",
+    "ten": "Tre - 5cm≤D<6cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80103",
+    "ten": "Tre - 6cm≤D<10cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80104",
+    "ten": "Tre - D≥ 10 cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III802",
+    "ten": "Trúc",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III803",
+    "ten": "Nứa",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III80301",
+    "ten": "Nứa - D<7cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80302",
+    "ten": "Nứa - D≥ 7cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III804",
+    "ten": "Mai",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III80401",
+    "ten": "Mai - D<6cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80402",
+    "ten": "Mai - 6cm≤D<10cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80403",
+    "ten": "Mai - D≥ 10 cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III805",
+    "ten": "Vầu",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III80501",
+    "ten": "Vầu - D<6cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80502",
+    "ten": "Vầu - 6cm≤D<10cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80503",
+    "ten": "Vầu - D≥ 10 cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III806",
+    "ten": "Tranh",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III807",
+    "ten": "Giang",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80701",
+    "ten": "Giang - D<6cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80702",
+    "ten": "Giang - 6cm≤D<10cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80703",
+    "ten": "Giang - D≥ 10 cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III808",
+    "ten": "Lồ ô",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III80801",
+    "ten": "Lồ ô - D<6cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80802",
+    "ten": "Lồ ô - 6cm≤D<10cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III80803",
+    "ten": "Lồ ô - D≥ 10 cm",
+    "thuesuat": 10,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III9",
+    "ten": "Trầm hương, kỳ nam",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III901",
+    "ten": "Trầm hương",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III90101",
+    "ten": "Trầm hương - Loại 1",
+    "thuesuat": 25,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III90102",
+    "ten": "Trầm hương - Loại 2",
+    "thuesuat": 25,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III90103",
+    "ten": "Trầm hương - Loại 3",
+    "thuesuat": 25,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III902",
+    "ten": "Kỳ nam",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III90201",
+    "ten": "Kỳ nam - Loại 1",
+    "thuesuat": 25,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III90202",
+    "ten": "Kỳ nam - Loại 2",
+    "thuesuat": 25,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III10",
+    "ten": "Hồi, quế, sa nhân, thảo quả",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III1001",
+    "ten": "Hồi",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III100101",
+    "ten": "Hồi - Tươi",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III100102",
+    "ten": "Hồi - Khô",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1002",
+    "ten": "Quế",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III100201",
+    "ten": "Quế - Tươi",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III100202",
+    "ten": "Quế - Khô",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1003",
+    "ten": "Sa nhân",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III100301",
+    "ten": "Sa nhân - Tươi",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III100302",
+    "ten": "Sa nhân - Khô",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1004",
+    "ten": "Thảo quả",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III100401",
+    "ten": "Thảo quả - Tươi",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III100402",
+    "ten": "Thảo quả - Khô",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III11",
+    "ten": "Các sản phẩm khác của rừng tự nhiên",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III1101",
+    "ten": "Vỏ bời lời đỏ (khô)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1102",
+    "ten": "Vỏ bời lời xanh (khô)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1103",
+    "ten": "Vỏ bời lời nước (khô)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1104",
+    "ten": "Chai cục",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1105",
+    "ten": "Củ riềng khô",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1106",
+    "ten": "Củ riềng tươi",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1107",
+    "ten": "Hạt ươi",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1108",
+    "ten": "Quả cà na",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1109",
+    "ten": "Nhựa thông",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1110",
+    "ten": "Quả mơ",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1111",
+    "ten": "Bông đót",
+    "thuesuat": 5,
+    "dvt": "Mét"
+  },
+  {
+    "ma": "III1112",
+    "ten": "Le, sậy",
+    "thuesuat": 5,
+    "dvt": "Cây"
+  },
+  {
+    "ma": "III1113",
+    "ten": "Cua đinh",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1114",
+    "ten": "Vỏ hậu phát",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1115",
+    "ten": "Song mây",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III111501",
+    "ten": "Song mây bột",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III11150101",
+    "ten": "D < 25mm",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III1115010101",
+    "ten": "D < 25mm - Song mây tươi (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III1115010102",
+    "ten": "D < 25mm - Song mây tươi (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1115010103",
+    "ten": "D < 25mm - Song mây sơ chế (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III1115010104",
+    "ten": "D < 25mm - Song mây sơ chế (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III11150102",
+    "ten": "D≥25 mm",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III1115010201",
+    "ten": "D≥25 mm - Song mây tươi (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III1115010202",
+    "ten": "D≥25 mm - Song mây tươi (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1115010203",
+    "ten": "D≥25 mm - Song mây sơ chế (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III1115010204",
+    "ten": "D≥25 mm - Song mây sơ chế (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III111502",
+    "ten": "Mây mật, đá cảnh",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III11150201",
+    "ten": "Mây mật, đá cảnh - Song mây tươi (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III11150202",
+    "ten": "Mây mật, đá cảnh - Song mây tươi (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III11150203",
+    "ten": "Mây mật, đá cảnh - Song mây sơ chế (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III11150204",
+    "ten": "Mây mật, đá cảnh - Song mây sơ chế (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III111503",
+    "ten": "Các loại mây khác",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III11150301",
+    "ten": "Các loại mây khác - Song mây tươi (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III11150302",
+    "ten": "Các loại mây khác - Song mây tươi (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III11150303",
+    "ten": "Các loại mây khác - Song mây sơ chế (Sợi)",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III11150304",
+    "ten": "Các loại mây khác - Song mây sơ chế (Kg)",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1116",
+    "ten": "Cu ly",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1117",
+    "ten": "Máu chó",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1118",
+    "ten": "Mây",
+    "thuesuat": 5,
+    "dvt": ""
+  },
+  {
+    "ma": "III111801",
+    "ten": "Mây - Mây nước, mây đắng",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III111802",
+    "ten": "Mây - Mây bột",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III111803",
+    "ten": "Mây - Mây đá",
+    "thuesuat": 5,
+    "dvt": "Sợi"
+  },
+  {
+    "ma": "III111804",
+    "ten": "Mây - Mây lắm: dài <4m",
+    "thuesuat": 5,
+    "dvt": "Lắm"
+  },
+  {
+    "ma": "III111805",
+    "ten": "Mây - Mây lắm: dài >4m",
+    "thuesuat": 5,
+    "dvt": "Lắm"
+  },
+  {
+    "ma": "III1119",
+    "ten": "Cây sặt",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1120",
+    "ten": "Đót tươi",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1121",
+    "ten": "Đót bông khô",
+    "thuesuat": 5,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "III1122",
+    "ten": "Song bột chiều dài ≥5m",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III112201",
+    "ten": "Song bột chiều dài ≥5m - Loại đường kính ≥0,25cm",
+    "thuesuat": 5,
+    "dvt": "đốt"
+  },
+  {
+    "ma": "III112202",
+    "ten": "Song bột chiều dài ≥5m - Loại đường kính <0,25cm",
+    "thuesuat": 5,
+    "dvt": "đốt"
+  },
+  {
+    "ma": "III1123",
+    "ten": "Song bột chiều dài <5m",
+    "thuesuat": 5,
+    "dvt": "đốt"
+  },
+  {
+    "ma": "III1124",
+    "ten": "Song cát, mây tắt",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "III112401",
+    "ten": "Song cát, mây tắt - Loại dài ≥5m",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III112402",
+    "ten": "Song cát, mây tắt - Loại dài <5m",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1125",
+    "ten": "Mây nước",
+    "thuesuat": 5,
+    "dvt": "đốt"
+  },
+  {
+    "ma": "III1126",
+    "ten": "Sặt, đót",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1127",
+    "ten": "Lá buông",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1128",
+    "ten": "Trắc dây",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1129",
+    "ten": "Gốc cây kiểng",
+    "thuesuat": 5,
+    "dvt": "gốc"
+  },
+  {
+    "ma": "III112901",
+    "ten": "Gốc cây kiểng (đường kính <25cm)",
+    "thuesuat": 5,
+    "dvt": "gốc"
+  },
+  {
+    "ma": "III112902",
+    "ten": "Gốc cây kiểng (đường kính từ 25cm trở lên)",
+    "thuesuat": 5,
+    "dvt": "gốc"
+  },
+  {
+    "ma": "III1130",
+    "ten": "Nấm hương khô",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1131",
+    "ten": "Măng nứa tươi",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1132",
+    "ten": "Măng vầu tươi",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1133",
+    "ten": "Măng khô",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1134",
+    "ten": "Củ bình vôi",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1135",
+    "ten": "Vàng Đắng",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1136",
+    "ten": "Vỏ bời lời (tươi)",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1137",
+    "ten": "Vỏ quế",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1138",
+    "ten": "Dầu Rái",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1139",
+    "ten": "Dăm bột nhang",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III113901",
+    "ten": "Dăm gỗ thông thường",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III113902",
+    "ten": "Dăm gỗ quý hiếm nhóm II A",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1140",
+    "ten": "Quả ươi (khô)",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1141",
+    "ten": "Quả sấu (tươi)",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1142",
+    "ten": "Đác (Đoóc) cây, lá, cành",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1143",
+    "ten": "Cây kè (cọ)",
+    "thuesuat": 5,
+    "dvt": "cây"
+  },
+  {
+    "ma": "III1144",
+    "ten": "Tinh dầu xá xị",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1145",
+    "ten": "Than củi loại 1 (than hầm)",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "III1146",
+    "ten": "Than củi loại 2 (than hoa)",
+    "thuesuat": 5,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV",
+    "ten": "Hải sản tự nhiên",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "IV1",
+    "ten": "Ngọc trai, bào ngư, hải sâm",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "IV101",
+    "ten": "Ngọc trai",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV102",
+    "ten": "Bào ngư",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV103",
+    "ten": "Hải sâm",
+    "thuesuat": 10,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV2",
+    "ten": "Hải sản tự nhiên khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "IV201",
+    "ten": "Cá",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "IV20101",
+    "ten": "Cá loại 1, 2, 3",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV20102",
+    "ten": "Cá loại khác",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV202",
+    "ten": "Cua",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV204",
+    "ten": "Mực",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV20401",
+    "ten": "Mực lá",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV20402",
+    "ten": "Các loại mực khác",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV205",
+    "ten": "Tôm",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "IV20501",
+    "ten": "Tôm hùm",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV2050101",
+    "ten": "Tôm hùm loại 1 (từ 1kg/con trở lên)",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV2050102",
+    "ten": "Tôm hùm loại khác",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV20502",
+    "ten": "Tôm khác",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "IV206",
+    "ten": "Khác",
+    "thuesuat": 2,
+    "dvt": "kg"
+  },
+  {
+    "ma": "V",
+    "ten": "Nước thiên nhiên",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V1",
+    "ten": "Nước khoáng thiên nhiên, nước nóng thiên nhiên, nước thiên nhiên tinh lọc đóng chai, đóng hộp",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V101",
+    "ten": "Nước khoáng thiên nhiên, nước nóng thiên nhiên đóng chai, đóng hộp",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V10101",
+    "ten": "Nước khoáng thiên nhiên, nước nóng thiên nhiên dùng để đóng chai, đóng hộp chất lượng trung bình (so với tiêu chuẩn đóng chai phải lọc bỏ một số hợp chất để hợp quy với Bộ Y tế)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V10102",
+    "ten": "Nước khoáng thiên nhiên, nước nóng thiên nhiên dùng để đóng chai, đóng hộp chất lượng cao (lọc, khử vi khuẩn, vi sinh, không phải lọc một số hợp chất vô cơ)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V10103",
+    "ten": "Nước khoáng thiên nhiên, nước nóng thiên nhiên đóng chai, đóng hộp",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V10104",
+    "ten": "Nước khoáng thiên nhiên dùng để ngâm, tắm, trị bệnh, dịch vụ du lịch...",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V102",
+    "ten": "Nước thiên nhiên tinh lọc đóng chai, đóng hộp",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V10201",
+    "ten": "Nước thiên nhiên khai thác tinh lọc đóng chai, đóng hộp",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V10202",
+    "ten": "Nước thiên nhiên tinh lọc đóng chai, đóng hộp",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V2",
+    "ten": "Nước thiên nhiên dùng cho sản xuất kinh doanh nước sạch",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V201",
+    "ten": "Nước mặt",
+    "thuesuat": 1,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V20101",
+    "ten": "Nước mặt phục vụ cho các nhà máy cung cấp nước sinh hoạt",
+    "thuesuat": 1,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V20102",
+    "ten": "Nước mặt phục vụ cho sản xuất công nghiệp",
+    "thuesuat": 3,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V20103",
+    "ten": "Nước mặt dùng cho sản xuất nước sạch do Công ty Cổ phần Nước sạch Thái Nguyên tự khai thác",
+    "thuesuat": 1,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V20104",
+    "ten": "Nước mặt dùng cho sản xuất nước sạch do các công ty khác cung ứng",
+    "thuesuat": 1,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V202",
+    "ten": "Nước dưới đất (nước ngầm)",
+    "thuesuat": 5,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V20201",
+    "ten": "Nước ngầm dùng cho sản xuất nước sạch do Công ty Cổ phần Nước sạch Thái Nguyên tự khai thác",
+    "thuesuat": 5,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V20202",
+    "ten": "Nước ngầm dùng cho sản xuất nước sạch do các công ty khác cung ứng",
+    "thuesuat": 5,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V3",
+    "ten": "Nước thiên nhiên dùng cho mục đích khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V301",
+    "ten": "Nước thiên nhiên dùng trong sản xuất rượu, bia, nước giải khát, nước đá",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V30101",
+    "ten": "Nước thiên nhiên dùng trong sản xuất rượu, bia, nước giải khát, nước đá (Sử dụng nước mặt)",
+    "thuesuat": 3,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V30102",
+    "ten": "Nước thiên nhiên dùng trong sản xuất rượu, bia, nước giải khát, nước đá (Sử dụng nước dưới đất)",
+    "thuesuat": 8,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V302",
+    "ten": "Nước thiên nhiên dùng cho khai khoáng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V30201",
+    "ten": "Nước thiên nhiên dùng cho khai khoáng (Sử dụng nước mặt)",
+    "thuesuat": 3,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V30202",
+    "ten": "Nước thiên nhiên dùng cho khai khoáng (Sử dụng nước dưới đất)",
+    "thuesuat": 8,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V303",
+    "ten": "Nước thiên nhiên dùng mục đích khác như làm mát, vệ sinh công nghiệp, xây dựng",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V30301",
+    "ten": "Nước thiên nhiên dùng mục đích khác như làm mát, vệ sinh công nghiệp, xây dựng (Sử dụng nước mặt)",
+    "thuesuat": 3,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V30302",
+    "ten": "Nước thiên nhiên dùng mục đích khác như làm mát, vệ sinh công nghiệp, xây dựng (Sử dụng nước dưới đất)",
+    "thuesuat": 8,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V304",
+    "ten": "Nước thiên nhiên dùng mục đích khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "V30401",
+    "ten": "Nước thiên nhiên dùng mục đích khác (Sử dụng nước mặt)",
+    "thuesuat": 3,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V30402",
+    "ten": "Nước thiên nhiên dùng mục đích khác (Sử dụng nước dưới đất)",
+    "thuesuat": 8,
+    "dvt": "M3"
+  },
+  {
+    "ma": "V5",
+    "ten": "Nước thiên nhiên dùng cho sản xuất thủy điện",
+    "thuesuat": 5,
+    "dvt": "KWh"
+  },
+  {
+    "ma": "VI",
+    "ten": "Yến sào thiên nhiên",
+    "thuesuat": 20,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "VI1",
+    "ten": "Yến sào thiên nhiên - Quang, Thiên, Bài",
+    "thuesuat": 20,
+    "dvt": "kg"
+  },
+  {
+    "ma": "VI2",
+    "ten": "Yến sào thiên nhiên - Mảnh, chân, xơ mướp trắng",
+    "thuesuat": 20,
+    "dvt": "kg"
+  },
+  {
+    "ma": "VII",
+    "ten": "Khí CO2 thu hồi từ nước khoáng thiên nhiên",
+    "thuesuat": 10,
+    "dvt": "tấn"
+  },
+  {
+    "ma": "X",
+    "ten": "Dầu, condensate,Khí thiên nhiên, khí than",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "X08",
+    "ten": "Dầu, condensate",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "X080101",
+    "ten": "Sản lượng đến 20.000 thùng/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 7,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080102",
+    "ten": "Sản lượng trên 20.000 thùng đến 50.000 thùng/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 9,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080103",
+    "ten": "Sản lượng trên 50.000 thùng đến 75.000 thùng/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 11,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080104",
+    "ten": "Sản lượng trên 75.000 thùng đến 100.000 thùng/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 13,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080105",
+    "ten": "Sản lượng trên 100.000 thùng đến 150.000 thùng/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 18,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080106",
+    "ten": "Sản lượng trên 150.000 thùng/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 23,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080201",
+    "ten": "Sản lượng đến 20.000 thùng/ngày (đối với Dự án khác)",
+    "thuesuat": 10,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080202",
+    "ten": "Sản lượng trên 20.000 thùng đến 50.000 thùng/ngày (đối với Dự án khác)",
+    "thuesuat": 12,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080203",
+    "ten": "Sản lượng trên 50.000 thùng đến 75.000 thùng/ngày (đối với Dự án khác)",
+    "thuesuat": 14,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080204",
+    "ten": "Sản lượng trên 75.000 thùng đến 100.000 thùng/ngày (đối với Dự án khác)",
+    "thuesuat": 19,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080205",
+    "ten": "Sản lượng trên 100.000 thùng đến 150.000 (đối với Dự án khác)",
+    "thuesuat": 24,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X080206",
+    "ten": "Sản lượng trên 150.000 thùng/ngày (đối với Dự án khác)",
+    "thuesuat": 29,
+    "dvt": "Thùng"
+  },
+  {
+    "ma": "X09",
+    "ten": "Khí thiên nhiên, khí than",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "X0901",
+    "ten": "Khí thiên nhiên, khí than (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "X090101",
+    "ten": "Khí thiên nhiên - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 1,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090102",
+    "ten": "Khí thiên nhiên - Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 3,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090103",
+    "ten": "Khí thiên nhiên - Sản lượng trên 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 6,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090104",
+    "ten": "Khí than - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 1,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090105",
+    "ten": "Khí than- Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 3,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090106",
+    "ten": "Khí than - Sản lượng trên 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư)",
+    "thuesuat": 6,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X0902",
+    "ten": "Khí thiên nhiên, khí than (đối với Dự án khác)",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "X090201",
+    "ten": "Khí thiên nhiên - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khác)",
+    "thuesuat": 2,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090202",
+    "ten": "Khí thiên nhiên - Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khác)",
+    "thuesuat": 5,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090203",
+    "ten": "Khí thiên nhiên - Sản lượng trên 10 triệu m3/ngày (đối với Dự án khác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090204",
+    "ten": "Khí than - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khác)",
+    "thuesuat": 2,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090205",
+    "ten": "Khí than - Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khác)",
+    "thuesuat": 5,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X090206",
+    "ten": "Khí than - Sản lượng trên 10 triệu m3/ngày (đối với Dự án khác)",
+    "thuesuat": 10,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X11",
+    "ten": "Tài nguyên khoáng sản khác",
+    "thuesuat": "",
+    "dvt": ""
+  },
+  {
+    "ma": "X1101",
+    "ten": "Tài nguyên khoáng sản khác",
+    "thuesuat": 10,
+    "dvt": "Kg"
+  },
+  {
+    "ma": "X020109",
+    "ten": "Đá vôi nguyên khai",
+    "thuesuat": 4,
+    "dvt": "M3"
+  },
+  {
+    "ma": "X020110",
+    "ten": "Đất sét",
+    "thuesuat": 2,
+    "dvt": "M3"
+  }
+]

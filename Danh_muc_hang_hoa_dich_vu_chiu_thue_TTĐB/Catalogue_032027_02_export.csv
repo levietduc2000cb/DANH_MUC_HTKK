@@ -1,0 +1,156 @@
+﻿ten,thuesuat,dvt
+Thuốc lá,,
+Thuốc lá điếu,75,Bao
+Xì gà,75,Điếu
+"Thuốc lá sợi, thuốc lào hoặc các dạng khác",75,G;ML
+Thuốc lá điếu nhập khẩu bán ra trong nước,75,Bao
+Xì gà nhập khẩu bán ra trong nước,75,Điếu
+"Thuốc lá sợi, thuốc lào hoặc các dạng khác nhập khẩu bán ra trong nước",75,G;ML
+Rượu,,
+Rượu từ 20 độ trở lên,70,Lít
+Rượu dưới 20 độ,40,Lít
+Rượu từ 20 độ trở lên nhập khẩu bán ra trong nước,70,Lít
+Rượu dưới 20 độ nhập khẩu bán ra trong nước,40,Lít
+Bia,,
+Bia,70,Lít
+Bia nhập khẩu bán ra trong nước,70,Lít
+Ô tô,,
+Xe có gắn động cơ dưới 24 chỗ,,
+"Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 9 chỗ trở xuống, xe ô tô pick-up chờ người",,
+Loại có dung tích xi lanh từ 1.500 cm3 trở xuống,35,Cái
+Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3,40,Cái
+Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3,50,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3,60,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3,90,Cái
+Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3,110,Cái
+Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3,130,Cái
+Loại có dung tích xi lanh trên 6.000 cm3,150,Cái
+Loại có dung tích xi lanh từ 1.500 cm3 trở xuống nhập khẩu bán ra trong nước (35%),35,Cái
+Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3 nhập khẩu bán ra trong nước (40%),40,Cái
+Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3 nhập khẩu bán ra trong nước (50%),50,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (60%),60,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3 nhập khẩu bán ra trong nước (90),90,Cái
+Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3 nhập khẩu bán ra trong nước (110%),110,Cái
+Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3 nhập khẩu bán ra trong nước (130%),130,Cái
+Loại có dung tích xi lanh trên 6.000 cm3 nhập khẩu bán ra trong nước (150%),150,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ,15,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (15%),15,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ,10,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ ngồi nhập khẩu bán ra trong nước (10%),10,Cái
+"Xe ô tô pick-up chở hàng cabin kép, xe ô tô tải VAN có từ hai hàng ghế trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng",,
+Loại có dung tích xi lanh từ 2.500 cm3 trở xuống,18,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3,23,Cái
+Loại có dung tích xi lanh trên 3.000 cm3,28,Cái
+Loại có dung tích xi lanh từ 2.500 cm3 trở xuống nhập khẩu bán ra trong nước,18,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước,23,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 nhập khẩu bán ra trong nước,28,Cái
+"Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 9 chỗ trở xuống, xe ô tô pick-up chờ người",,
+Loại có dung tích xi lanh từ 1.500 cm3 trở xuống,24.5,Cái
+Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3,28,Cái
+Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3,35,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3,42,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3,63,Cái
+Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3,77,Cái
+Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3,91,Cái
+Loại có dung tích xi lanh trên 6.000 cm3,105,Cái
+Loại có dung tích xi lanh từ 1.500 cm3 trở xuống nhập khẩu bán ra trong nước (24.5%),24.5,Cái
+Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3 nhập khẩu bán ra trong nước (28%),28,Cái
+Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3 nhập khẩu bán ra trong nước (35%),35,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (42%),42,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3 nhập khẩu bán ra trong nước (63%),63,Cái
+Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3 nhập khẩu bán ra trong nước (77%),77,Cái
+Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3 nhập khẩu bán ra trong nước (91%),91,Cái
+Loại có dung tích xi lanh trên 6.000 cm3 nhập khẩu bán ra trong nước (105%),105,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ,10.5,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (10.5%),10.5,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ,7,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (7%),7,Cái
+"Xe ô tô pick-up chở hàng cabin kép, xe ô tô tải VAN có từ hai hàng ghế trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng",,
+Loại có dung tích xi lanh từ 2.500 cm3 trở xuống,12.6,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3,16.1,Cái
+Loại có dung tích xi lanh trên 3.000 cm3,19.6,Cái
+Loại có dung tích xi lanh từ 2.500 cm3 trở xuống nhập khẩu bán ra trong nước (12.6%),12.6,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (14%),14,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (16.1%),16.1,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 nhập khẩu bán ra trong nước (17.5%),17.5,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 nhập khẩu bán ra trong nước (19.6%),19.6,Cái
+Xe ô tô chạy bằng năng lượng sinh học,,
+"Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 9 chỗ trở xuống, xe ô tô pick-up chờ người",,
+Loại có dung tích xi lanh từ 1.500 cm3 trở xuống,17.5,Cái
+Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3,20,Cái
+Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3,25,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3,30,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3,45,Cái
+Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3,55,Cái
+Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3,65,Cái
+Loại có dung tích xi lanh trên 6.000 cm3,75,Cái
+Loại có dung tích xi lanh từ 1.500 cm3 trở xuống nhập khẩu bán ra trong nước (17.5%),17.5,Cái
+Loại có dung tích xi lanh trên 1.500 cm3 đến 2.000 cm3 nhập khẩu bán ra trong nước (20%),20,Cái
+Loại có dung tích xi lanh trên 2.000 cm3 đến 2.500 cm3 nhập khẩu bán ra trong nước (25%),25,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (30%),30,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 đến 4.000 cm3 nhập khẩu bán ra trong nước (45%),45,Cái
+Loại có dung tích xi lanh trên 4.000 cm3 đến 5.000 cm3 nhập khẩu bán ra trong nước (55%),55,Cái
+Loại có dung tích xi lanh trên 5.000 cm3 đến 6.000 cm3 nhập khẩu bán ra trong nước (65%),65,Cái
+Loại có dung tích xi lanh trên 6.000 cm3 nhập khẩu bán ra trong nước (75%),75,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ,7.5,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (7.5%),7.5,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ,5,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (5%),5,Cái
+"Xe ô tô pick-up chở hàng cabin kép, xe ô tô tải VAN có từ hai hàng ghế trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng",,
+Loại có dung tích xi lanh từ 2.500 cm3 trở xuống,9,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3,11.5,Cái
+Loại có dung tích xi lanh trên 3.000 cm3,14,Cái
+Loại có dung tích xi lanh từ 2.500 cm3 trở xuống nhập khẩu bán ra trong nước (9%),9,Cái
+Loại có dung tích xi lanh trên 2.500 cm3 đến 3.000 cm3 nhập khẩu bán ra trong nước (11.5%),11.5,Cái
+Loại có dung tích xi lanh trên 3.000 cm3 nhập khẩu bán ra trong nước (14%),14,Cái
+Xe có gắn động cơ dưới 24 chỗ chạy điện,,
+Xe có động cơ dưới 24 chỗ chạy điện khác,,
+"Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 9 chỗ trở xuống, xe ô tô pick-up chở người",15,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ,10,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ,5,Cái
+"Xe ô tô pick-up chở hàng cabin kép, xe ô tô tải VAN có từ hai hàng ghê trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng",10,Cái
+"Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 9 chỗ trở xuống, xe ô tô pick-up chở người nhập khẩu bán ra trong nước (15%)",15,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ nhập khẩu bán ra trong nước (10%),10,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (5%),5,Cái
+"Xe ô tô pick-up chở hàng cabin kép, xe ô tô tải VAN có từ hai hàng ghê trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng nhập khẩu bán ra trong nước (10%)",10,Cái
+Xe có gắn động cơ dưới 24 chỗ chạy bằng pin,,
+"Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 9 chỗ trở xuống, xe ô tô pick-up chở người",11,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 10 đến dưới 16 chỗ,7,Cái
+Xe ô tô chở người và xe chở người bốn bánh có gắn động cơ từ 16 đến dưới 24 chỗ,4,Cái
+"Xe ô tô pick-up chở hàng cabin kép, xe ô tô tải VAN có từ hai hàng ghế trở lên, có thiết kế vách ngăn cố định giữa khoang chở người và khoang chở hàng",7,Cái
+Xe ô tô nhà ở lưu động không phân biệt dung tích xi lanh,75,Cái
+Xe ô tô nhà ở lưu động không phân biệt dung tích xi lanh nhập khẩu bán ra trong nước (75%),75,Cái
+Xăng,10,Lít
+Xăng E5,8,Lít
+Xăng E10,7,Lít
+Xăng nhập khẩu bán ra trong nước (10%),10,Lít
+Xăng E5 nhập khẩu bán ra trong nước (8%),8,Lít
+Xăng E10 nhập khẩu bán ra trong nước (7%),7,Lít
+Điều hòa nhiệt độ công suất trên 24.000 BTU đến 90.000 BTU,10,Cái
+Điều hòa nhiệt độ công suất trên 24.000 BTU đến 90.000 BTU nhập khẩu bán ra trong nước (10%),10,Cái
+Bài lá,40,
+"Vàng mã, hàng mã",70,
+"Xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh trên 125 cm3",20,Cái
+"Xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh trên 125 cm3 nhập khẩu bán ra trong nước",20,Cái
+"Máy bay, trực thăng, tàu lượn",30,Chiếc
+"Máy bay, trực thăng, tàu lượn nhập khẩu bán ra trong nước",30,Chiếc
+Du thuyền,30,Chiếc
+Du thuyền nhập khẩu bán ra trong nước,30,
+Kinh doanh vũ trường,40,
+"Kinh doanh mát-xa, ka-ra-ô-kê",30,
+"Kinh doanh ca-si-nô, trò chơi điện tử có thưởng",35,
+Kinh doanh đặt cược,30,
+Kinh doanh gôn,20,
+Kinh doanh xổ số,15,
+Bài lá nhập khẩu bán ra trong nước,40,
+"Vàng mã, hàng mã nhập khẩu bán ra trong nước",70,
+Nước giải khát theo Tiêu chuẩn quốc gia (TCVN) có hàm lượng đường trên 5g/100ml,8,
+Nước giải khát theo Tiêu chuẩn quốc gia (TCVN) có hàm lượng đường trên 5g/100ml nhập khẩu bán ra trong nước (8%),8,
+Kinh doanh xổ số,15,
+Mega 6/45,15,Vé
+Power 6/55,15,Vé
+Max 3D,15,Vé
+Max 3D pro,15,Vé
+Keno,15,Vé
+Bingo,15,Vé
+Xổ số điện toán khác,15,Vé

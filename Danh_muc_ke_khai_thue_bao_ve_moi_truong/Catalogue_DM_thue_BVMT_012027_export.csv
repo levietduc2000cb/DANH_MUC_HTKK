@@ -1,0 +1,25 @@
+﻿Mã chỉ tiêu,Tên,Đơn vị tính,Giá tính thuế tài nguyên/mức thuế hoặc phí BVMT
+010201,Than nâu sản xuất trong nước,Tấn,15000
+010202,Than an - tra - xít (antraxit) sản xuất trong nước,Tấn,30000
+010203,Than mỡ sản xuất trong nước,Tấn,15000
+010204,Than đá khác sản xuất trong nước,Tấn,15000
+0103,"Dung dịch hydro, chloro, fluoro, carbon sản xuất trong nước",Kg,5000
+0104,Túi ni lông sản xuất trong nước,Kg,50000
+0105,Thuốc diệt cỏ thuộc loại hạn chế sử dụng sản xuất trong nước,Kg,500
+0106,Sản phẩm hàng hóa khác sản xuất trong nước,,0
+0107,Thuốc trừ mối thuộc loại hạn chế sử dụng sản xuất trong nước,Kg,1000
+0108,Thuốc bảo quản lâm sản thuộc loại hạn chế sử dụng sản xuất trong nước,Kg,1000
+0109,Thuốc khử trùng kho thuộc loại hạn chế sử dụng sản xuất trong nước,Kg,1000
+020118,Than đá nhập khẩu bán ra trong nước,Kg,15000
+020120,Sản phẩm hàng hóa trong nước khác,,0
+020121,Khác,,0
+020119,Các hàng hóa nhập khẩu khác bán ra trong nước,,0
+020201,Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước,Lít,4000
+020202,Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước,Lít,2000
+020203,Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước,Lít,1000
+020205,Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước,Lít,3000
+020206,Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước,Lít,4000
+020207,Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước,Lít,2000
+020208,Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước,Lít,2000
+020209,Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước,Kg,2000
+020210,Thuế bảo vệ môi trường mặt hàng xăng sinh học  E10,Lít,2000

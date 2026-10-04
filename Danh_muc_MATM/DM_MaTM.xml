@@ -1,0 +1,736 @@
+<Sections Version="536">
+	<Section Dynamic="0" MaxRows="0">
+		<Items>
+			<Item MaTM="1001" TenTM = "Thuế thu nhập từ tiền lương, tiền công" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1003" TenTM = "Thuế thu nhập từ hoạt động sản xuất, kinh doanh của cá nhân" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1004" TenTM = "Thuế thu nhập từ đầu tư vốn của cá nhân" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1005" TenTM = "Thuế thu nhập từ chuyển nhượng vốn (không gồm chuyển nhượng chứng khoán)" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1006" TenTM = "Thuế thu nhập từ chuyển nhượng bất động sản, nhận thừa kế và nhận quà tặng là bất động sản" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1007" TenTM = "Thuế thu nhập từ trúng thưởng" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1008" TenTM = "Thuế thu nhập từ bản quyền, nhượng quyền thương mại" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1012" TenTM = "Thuế thu nhập từ thừa kế, quà biếu, quà tặng khác trừ bất động sản" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1014" TenTM = "Thuế thu nhập từ hoạt động cho thuê tài sản" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1015" TenTM = "Thuế thu nhập từ chuyển nhượng chứng khoán" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1049" TenTM = "Thuế thu nhập cá nhân khác" MaMuc ="1000" TenMuc = "Thuế thu nhập cá nhân" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="1051" TenTM = "Thuế thu nhập DN của các đơn vị hạch toán toàn ngành" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1052" TenTM = "Thuế thu nhập doanh nghiệp từ hoạt động sản xuất kinh doanh (gồm cả dịch vụ trong lĩnh vực dầu khí)" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1053" TenTM = "Thuế thu nhập doanh nghiệp từ chuyển nhượng bất động sản" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1054" TenTM = "Thuế thu nhập DN từ hoạt động chuyển quyền thuê đất" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2009" HLDen ="04/12/2011"/>
+			<Item MaTM="1055" TenTM = "Thuế thu nhập doanh nghiệp từ hoạt động chuyển nhượng vốn" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1056" TenTM = "Thuế thu nhập doanh nghiệp từ hoạt động thăm dò, phát triển mỏ và khai thác dầu, khí thiên nhiên (không kể thuế thu nhập doanh nghiệp thu theo hiệp định, hợp đồng thăm dò, khai thác dầu khí)" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="1057" TenTM = "Thuế thu nhập doanh nghiệp từ hoạt động xổ số kiến thiết" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			
+			<Item MaTM="1099" TenTM = "Khác" MaMuc ="1050" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1101" TenTM = "Thu nợ thuế chuyển thu nhập của chủ đầu tư NN ở VN về nước" MaMuc ="1100" TenMuc = "Thu nợ thuế chuyển thu nhập" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1102" TenTM = "Thu nợ thuế chuyển vốn của các chủ đầu tư trong các DN" MaMuc ="1100" TenMuc = "Thu nợ thuế chuyển thu nhập" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1103" TenTM = "Thu nợ thuế chuyển thu nhập của chủ đầu tư VN ở NN về nước" MaMuc ="1100" TenMuc = "Thu nợ thuế chuyển thu nhập" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1149" TenTM = "Thu nợ thuế chuyển thu nhập khác" MaMuc ="1100" TenMuc = "Thu nợ thuế chuyển thu nhập" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1151" TenTM = "Lợi nhuận sau thuế còn lại sau khi trích lập các quỹ" MaMuc ="1150" TenMuc = "Thu nhập sau thuế thu nhập" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1152" TenTM = "Thu chênh lệch của doanh nghiệp công ích" MaMuc ="1150" TenMuc = "Thu nhập sau thuế thu nhập" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1153" TenTM = "Lợi nhuận sau thuế còn lại sau khi trích lập các quỹ từ hoạt động xổ số kiến thiết" MaMuc ="1150" TenMuc = "Thu nhập sau thuế thu nhập" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="1154" TenTM = "Thu nhập từ cổ tức được chia từ phần vốn nhà nước đầu tư tại doanh nghiệp" MaMuc ="1150" TenMuc = "Thu nhập sau thuế thu nhập" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1155" TenTM = "Thu từ lợi nhuận được chia từ phần vốn nhà nước đầu tư tại doanh nghiệp" MaMuc ="1150" TenMuc = "Thu nhập sau thuế thu nhập" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1199" TenTM = "Khác" MaMuc ="1150" TenMuc = "Thu nhập sau thuế thu nhập" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1251" TenTM = "Thu tiền cấp quyền khai thác khoáng sản đối với Giấy phép do cơ quan trung ương cấp phép" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khai thác khoáng sản" HLTu = "01/08/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="1252" TenTM = "Thu tiền cấp quyền khai thác khoáng sản đối với Giấy phép do Ủy ban nhân dân cấp tỉnh cấp phép" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khái thác khoảng sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1253" TenTM = "Thu tiền cấp quyền khai thác tài nguyên nước đối với giấy phép do cơ quan trung ương cấp phép" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khái thác khoảng sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1254" TenTM = "Thu tiền cấp quyền khai thác tài nguyên nước đối với giấy phép do cơ quan địa phương cấp phép" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khái thác khoảng sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1255" TenTM = "Thu tiền sử dụng khu vực biển do cơ quan trung ương cấp phép" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khái thác khoảng sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1256" TenTM = "Thu tiền cấp quyền hàng không" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khái thác khoảng sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1257" TenTM = "Thu tiền sử dụng rừng, tiền thuê rừng" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khái thác khoảng sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1258" TenTM = "Thu tiền sử dụng khu vực biển do cơ quan địa phương cấp phép" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khai thác tài nguyên khoảng sản, vùng trời, vùng biển" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1299" TenTM = "Thu từ các tài nguyên khác" MaMuc ="1250" TenMuc = "Thu tiền cấp quyền khái thác khoảng sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1301" TenTM = "Đất trồng cây hàng năm" MaMuc ="1300" TenMuc = "Thuế sử dụng đất nông nghiệp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1302" TenTM = "Đất trồng cây lâu năm" MaMuc ="1300" TenMuc = "Thuế sử dụng đất nông nghiệp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1303" TenTM = "Đất trồng rừng" MaMuc ="1300" TenMuc = "Thuế sử dụng đất nông nghiệp" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1304" TenTM = "Đất nuôi trồng thủy sản" MaMuc ="1300" TenMuc = "Thuế sử dụng đất nông nghiệp" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1305" TenTM = "Đất làm muối" MaMuc ="1300" TenMuc = "Thuế sử dụng đất nông nghiệp" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1349" TenTM = "Đất dùng cho mục đích khác" MaMuc ="1300" TenMuc = "Thuế sử dụng đất nông nghiệp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1351" TenTM = "Đất ở" MaMuc ="1350" TenMuc = "Thuế chuyển quyền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1352" TenTM = "Đất xây dựng" MaMuc ="1350" TenMuc = "Thuế chuyển quyền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1353" TenTM = "Đất nông nghiệp" MaMuc ="1350" TenMuc = "Thuế chuyển quyền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1354" TenTM = "Đất ngư nghiệp" MaMuc ="1350" TenMuc = "Thuế chuyển quyền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1399" TenTM = "Đất dùng cho mục đích khác" MaMuc ="1350" TenMuc = "Thuế chuyển quyền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1401" TenTM = "Đất được nhà nước giao" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1402" TenTM = "Đất xây dựng" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1403" TenTM = "Đất nông nghiệp" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1404" TenTM = "Đất ngư nghiệp" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1405" TenTM = "Đất xen kẹp (phần đất không đủ rộng để cấp đất theo dự án đầu tư)" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/11/2010" HLDen ="31/12/9999"/>
+			<Item MaTM="1406" TenTM = "Đất dôi dư (phần đất khi đo thực tế lớn hơn so với giấy chứng nhận quyền sử dụng đất hoặc so với diện tích đất được cấp có thẩm quyền giao)" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/11/2010" HLDen ="31/12/9999"/>
+			<Item MaTM="1407" TenTM = "Tiền chuyển mục đích sử dụng đất đối với đất do cơ quan, đơn vị, tổ chức thuộc Nhà nước quản lý" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1408" TenTM = "Đất thực hiện dự án đầu tư xây dựng nhà ở để bán hoặc để bán kết hợp cho thuê" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1411" TenTM = "Đất được nhà nước công nhận quyền sử dụng đất" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1412" TenTM = "Thu tiền sử dụng đất Dự án Cảng hàng không Quốc tế Long Thành, tỉnh Đồng Nai" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="1413" TenTM = "Thu tiền sử dụng đất các dự án trọng điểm khác" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="1449" TenTM = "Khác" MaMuc ="1400" TenMuc = "Thu tiền sử dụng đất" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1451" TenTM = "Thu giao đất trồng rừng" MaMuc ="1450" TenMuc = "Thu giao đất trồng rừng" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1499" TenTM = "Khác" MaMuc ="1450" TenMuc = "Thu giao đất trồng rừng" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1501" TenTM = "Thuế nhà" MaMuc ="1500" TenMuc = "Thuế nhà, đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1502" TenTM = "Thuế đất ở" MaMuc ="1500" TenMuc = "Thuế nhà, đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1503" TenTM = "Thuế đất ngư nghiệp" MaMuc ="1500" TenMuc = "Thuế nhà, đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1549" TenTM = "Thuế đất khác" MaMuc ="1500" TenMuc = "Thuế nhà, đất" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1551" TenTM = "Dầu, condensate (không kể thuế tài nguyên thu theo hiệp định, hợp đồng)" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1552" TenTM = "Nước thuỷ điện" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1553" TenTM = "Khoáng sản kim loại" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1554" TenTM = "Khoáng sản quý hiếm (vàng, bạc, đá quý)" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1555" TenTM = "Khoáng sản phi kim loại" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1556" TenTM = "Thuỷ, hải sản" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1557" TenTM = "Sản phẩm của rừng tự nhiên" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1558" TenTM = "Nước thiên nhiên khác" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1561" TenTM = "Yến sào thiên nhiên" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1562" TenTM = "Khí thiên nhiên (không kể thuế tài nguyên thu theo hiệp định, hợp đồng)" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1563" TenTM = "Khí than (không kể thuế tài nguyên thu theo hiệp định, hợp đồng)" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1599" TenTM = "Tài nguyên khoáng sản khác" MaMuc ="1550" TenMuc = "Thuế tài nguyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1601" TenTM = "Thu từ đất ở tại nông thôn" MaMuc ="1600" TenMuc = "Thuế sử dụng đất phi nông nghiệp" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="1602" TenTM = "Thu từ đất ở tại đô thị" MaMuc ="1600" TenMuc = "Thuế sử dụng đất phi nông nghiệp" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="1603" TenTM = "Thu từ đất sản xuất, kinh doanh phi nông nghiệp" MaMuc ="1600" TenMuc = "Thuế sử dụng đất phi nông nghiệp" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="1649" TenTM = "Thu từ đất phi nông nghiệp khác" MaMuc ="1600" TenMuc = "Thuế sử dụng đất phi nông nghiệp" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="1701" TenTM = "Thuế giá trị gia tăng hàng sản xuất, kinh doanh trong nước (gồm cả dịch vụ trong lĩnh vực dầu khí)" MaMuc ="1700" TenMuc = "Thuế giá trị gia tăng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1702" TenTM = "Thuế giá trị gia tăng hàng nhập khẩu" MaMuc ="1700" TenMuc = "Thuế giá trị gia tăng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1703" TenTM = "Thuế giá trị gia tăng hàng nhập khẩu qua biên giới đất liền" MaMuc ="1700" TenMuc = "Thuế giá trị gia tăng" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1704" TenTM = "Thuế giá trị gia tăng từ hoạt động thăm dò và khai thác dầu, khí (gồm cả thuế giá trị gia tăng thu đối với dầu, khí khai thác theo hiệp định, hợp đồng thăm dò, khai thác dầu, khí bán ra trong nước)" MaMuc ="1700" TenMuc = "Thuế giá trị gia tăng" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="1705" TenTM = "Thuế giá trị gia tăng từ hoạt động xổ số kiến thiết" MaMuc ="1700" TenMuc = "Thuế giá trị gia tăng" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="1749" TenTM = "Hàng hóa, dịch vụ khác" MaMuc ="1700" TenMuc = "Thuế giá trị gia tăng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1751" TenTM = "Hàng nhập khẩu" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1752" TenTM = "Hàng nhập khẩu qua biên giới đất liền" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1753" TenTM = "Thuốc lá điếu, xì gà sản xuất trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1754" TenTM = "Rượu sản xuất trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1755" TenTM = "Ô tô dưới 24 chỗ ngồi sản xuất, lắp ráp trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1756" TenTM = "Xăng các loại sản xuất trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1757" TenTM = "Các dịch vụ, hàng hoá khác sản xuất trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1758" TenTM = "Bia sản xuất trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/04/2010" HLDen ="31/12/9999"/>
+			<Item MaTM="1761" TenTM = "Thuế tiêu thụ đặc biệt từ hoạt động xổ số kiến thiết" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="1762" TenTM = "Thuốc lá, xì gà nhập khẩu bán ra trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1763" TenTM = "Rượu nhập khẩu bán ra trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1764" TenTM = "Xe ô tô dưới 24 chỗ ngồi các loại nhập khẩu bán ra trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1765" TenTM = "Xăng các loại nhập khẩu bán ra trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1766" TenTM = "Các dịch vụ, hàng hóa khác nhập khẩu bán ra trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1767" TenTM = "Bia nhập khẩu bán ra trong nước" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="1799" TenTM = "Khác" MaMuc ="1750" TenMuc = "Thuế tiêu thụ đặc biệt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1801" TenTM = "Thuế môn bài, bậc 1" MaMuc ="1800" TenMuc = "Thuế môn bài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1802" TenTM = "Thuế môn bài, bậc 2" MaMuc ="1800" TenMuc = "Thuế môn bài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1803" TenTM = "Thuế môn bài, bậc 3" MaMuc ="1800" TenMuc = "Thuế môn bài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1804" TenTM = "Thuế môn bài, bậc 4" MaMuc ="1800" TenMuc = "Thuế môn bài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1805" TenTM = "Thuế môn bài, bậc 5" MaMuc ="1800" TenMuc = "Thuế môn bài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1806" TenTM = "Thuế môn bài, bậc 6" MaMuc ="1800" TenMuc = "Thuế môn bài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1849" TenTM = "Thuế môn bài, khác" MaMuc ="1800" TenMuc = "Thuế môn bài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1851" TenTM = "Thuế xuất khẩu" MaMuc ="1850" TenMuc = "Thuế xuất khẩu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1852" TenTM = "Thuế xuất khẩu qua biên giới đất liền" MaMuc ="1850" TenMuc = "Thuế xuất khẩu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1899" TenTM = "Khác" MaMuc ="1850" TenMuc = "Thuế xuất khẩu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1901" TenTM = "Thuế nhập khẩu" MaMuc ="1900" TenMuc = "Thuế nhập khẩu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1902" TenTM = "Thuế nhập khẩu qua biên giới đất liền" MaMuc ="1900" TenMuc = "Thuế nhập khẩu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1903" TenTM = "Thuế nhập khẩu bổ sung (thuế tự về)" MaMuc ="1900" TenMuc = "Thuế nhập khẩu" HLTu = "01/09/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="1949" TenTM = "Khác" MaMuc ="1900" TenMuc = "Thuế nhập khẩu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="1951" TenTM = "Thuế chống bán phá giá" MaMuc ="1950" TenMuc = "Thuế bổ sung đối với hàng hoá nhập khẩu vào Việt Nam" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1952" TenTM = "Thuế chống trợ cấp" MaMuc ="1950" TenMuc = "Thuế bổ sung đối với hàng hoá nhập khẩu vào Việt Nam" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1953" TenTM = "Thuế chống phân biệt đối xử" MaMuc ="1950" TenMuc = "Thuế bổ sung đối với hàng hoá nhập khẩu vào Việt Nam" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1954" TenTM = "Thuế tự vệ" MaMuc ="1950" TenMuc = "Thuế nhập khẩu bổ sung đối với hàng hoá nhập khẩu vào Việt Nam" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="1999" TenTM = "Thuế phòng vệ khác" MaMuc ="1950" TenMuc = "Thuế bổ sung đối với hàng hoá nhập khẩu vào Việt Nam" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2001" TenTM = "Xăng sản xuất trong nước (trừ etanol)" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2002" TenTM = "Dầu Diezel sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2003" TenTM = "Dầu hoả sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2004" TenTM = "Dầu mazut, dầu mỡ nhờn sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2005" TenTM = "Than đá sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2006" TenTM = "Dung dịch hydro, chloro, fluoro, carbon sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2007" TenTM = "Túi ni lông sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2008" TenTM = "Thuốc diệt cỏ thuộc loại hạn chế sử dụng sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2009" TenTM = "Nhiên liệu bay sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="2011" TenTM = "Thuốc trừ mối thuộc loại hạn chế sử dụng sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2012" TenTM = "Thuốc bảo quản lâm sản thuộc loại hạn chế sử dụng sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2013" TenTM = "Thuốc khử trùng kho thuộc loại hạn chế sử dụng sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2019" TenTM = "Sản phẩm hàng hóa khác sản xuất trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="2021" TenTM = "Sản phẩm, hàng hoá nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2022" TenTM = "Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2023" TenTM = "Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2024" TenTM = "Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2025" TenTM = "Thuế bảo vệ môi trường mặt hàng dầu mazut, dầu mỡ nhờn bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2026" TenTM = "Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2031" TenTM = "Thu từ xăng nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2032" TenTM = "Thu từ nhiên liệu bay nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2033" TenTM = "Thu từ dầu Diezel nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2034" TenTM = "Thu từ dầu hoả nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2035" TenTM = "Thu từ dầu mazut, dầu mỡ nhờn nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2036" TenTM = "Thu từ than đá nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2037" TenTM = "Thu từ dung dịch hydro, chloro, fluoro, carbon nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2038" TenTM = "Thu từ túi ni lông nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2039" TenTM = "Thu từ thuốc diệt cỏ nhập khẩu" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/02/2013" HLDen ="31/12/2017"/>
+			<Item MaTM="2041" TenTM = "Xăng nhập khẩu bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/09/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="2042" TenTM = "Nhiên liệu bay nhập khẩu bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/09/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="2043" TenTM = "Diezel nhập khẩu bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/09/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="2044" TenTM = "Dầu hỏa nhập khẩu bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/09/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="2045" TenTM = "Dầu mazut, dầu nhờn, mỡ nhờn nhập khẩu bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/09/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="2046" TenTM = "Than đá nhập khẩu bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2047" TenTM = "Các hàng hóa nhập khẩu khác bán ra trong nước" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2048" TenTM = "Sản phẩm, hàng hóa trong nước khác" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2049" TenTM = "Khác" MaMuc ="2000" TenMuc = "Thuế bảo vệ môi trường" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2101" TenTM = "Phí xăng các loại (để thu theo TB của CQT)" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2102" TenTM = "Phí dầu diezel (để thu theo TB của CQT)" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2103" TenTM = "Phí dầu hoả (để thu theo TB của CQT)" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "09/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2104" TenTM = "Phí dầu max (để thu theo TB của CQT)" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "09/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2105" TenTM = "Phí dầu mỡ nhờn (để thu theo TB của CQT)" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "09/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2106" TenTM = "Phí thẩm định tiêu chuẩn, điều kiện hành nghề theo quy định của pháp luật" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2107" TenTM = "Phí tuyển dụng, dự thi nâng ngạch, thăng hạng công chức, viên chức" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2108" TenTM = "Phí thẩm định cấp giấy chứng nhận lưu hành sản phẩm, hàng hóa theo quy định của pháp luật" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2111" TenTM = "Phí xác minh giấy tờ, tài liệu" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2146" TenTM = "Thu nợ phí xăng dầu" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2147" TenTM = "Thu nợ phí thuộc lĩnh vực công nghiệp, xây dựng" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2148" TenTM = "Thu nợ  phí thuộc lĩnh vực giáo dục và đào tạo" MaMuc ="2100" TenMuc = "Phí trong lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2151" TenTM = "Phí kiểm dịch (kiểm dịch động vật, thực vật, sản phẩm động vật)" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2152" TenTM = "Phí giám sát khử trùng vật thể thuộc diện kiểm dịch thực vật" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2153" TenTM = "Phí kiểm soát giết mổ động vật" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2154" TenTM = "Phí kiểm nghiệm dư lượng thuốc bảo vệ thực vật và sp thực vật" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2155" TenTM = "Phí kiểm nghiệm chất lượng thức ăn chăn nuôi" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2156" TenTM = "Phí kiểm tra vệ sinh thú y" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2157" TenTM = "Phí bảo vệ nguồn lợi thủy sản" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2158" TenTM = "Phí kiểm nghiệm thuốc thú y" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2161" TenTM = "Phí kiểm định, khảo nghiệm thuốc bảo vệ thực vật" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2162" TenTM = "Phí bình tuyển, công nhận cây mẹ, cây đầu dòng, vườn giống cây lâm nghiệp, rừng giống" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2163" TenTM = "Phí phòng, chống dịch bệnh cho động vật" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2164" TenTM = "Phí bảo hộ giống trong lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2165" TenTM = "Phí kiểm nghiệm an toàn thực phẩm nông nghiệp, lâm nghiệp, thủy sản nhập khẩu" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2166" TenTM = "Phí thẩm định trong lĩnh vực nông nghiệp" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2167" TenTM = "Phí đăng kiểm an toàn kỹ thuật tàu cá, kiểm định trang thiết bị nghề cá" MaMuc ="2150" TenMuc = "Phí thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2201" TenTM = "Phí kiểm tra nhà nước về chất lượng hàng hoá (để thu theo TB của CQT)" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2202" TenTM = "Phí thử nghiệm chất lượng sản phẩm, vật tư, nguyên vật liệu (để thu theo TB của CQT)" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2203" TenTM = "Phí xây dựng (để thu theo TB của CQT)" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2204" TenTM = "Phí đo đạc, lập bản đồ địa chính (để thu theo TB của CQT)" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2205" TenTM = "Phí thẩm định cấp quyền sử dụng đất (để thu theo TB của CQT)" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2206" TenTM = "Phí xác nhận đăng ký công dân" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2207" TenTM = "Phí cấp thị thực và các giấy tờ có liên quan đến xuất nhập cảnh Việt Nam cho người nước ngoài" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2208" TenTM = "Phí tiếp nhận và vận chuyển đơn, chứng cứ của công dân và pháp nhân Việt Nam" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2211" TenTM = "Phí chứng nhận lãnh sự và hợp pháp hóa lãnh sự" MaMuc ="2200" TenMuc = "Phí thuộc lĩnh vực ngoại giao" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2251" TenTM = "Phí chứng nhận xuất xứ hàng hoá (C/O)" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2252" TenTM = "Phí chợ" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2253" TenTM = "Phí thẩm định KD thương mại có ĐK thuộc các L.vực, các ngành" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2254" TenTM = "Phí thẩm định hồ sơ mua bán, thuê, cho thuê tàu, thuyền, tàu bay" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2255" TenTM = "Phí thẩm định đầu tư, dự án đầu tư" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2256" TenTM = "Phí thẩm định đánh giá trữ lượng khoáng sản" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2257" TenTM = "Phí thẩm định, phân hạng cơ sở lưu trú du lịch" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2258" TenTM = "Phí đấu thầu, đấu giá và thẩm định kết quả đấu thầu" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2261" TenTM = "Phí giám định hàng hoá xuất nhập khẩu" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2262" TenTM = "Phí xử lý vụ việc cạnh tranh" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2263" TenTM = "Phí thẩm định cấp phép sử dụng vật liệu nổ công nghiệp" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2264" TenTM = "Phí trong lĩnh vực hóa chất" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2265" TenTM = "Phí thẩm định điều kiện, tiêu chuẩn ngành nghề thuộc lĩnh vực công nghiệp, thương mại, xây dựng" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2266" TenTM = "Phí cung cấp thông tin doanh nghiệp" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2267" TenTM = "Phí sử dụng công trình kết cầu hạ tầng, công trình dịch vụ, tiện ích công cộng trong khu vực cửa khẩu" MaMuc ="2250" TenMuc = "Phí thuộc lĩnh vực thương mại, đầu tư" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2301" TenTM = "Phí thuộc lĩnh vực đường bộ (không bao gồm phí sử dụng đường bộ thu qua đầu phương tiện ô tô)" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2302" TenTM = "Phí thuộc lĩnh vực đường thủy nội địa" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2303" TenTM = "Phí thuộc lĩnh vực đường biển (không bao gồm phí bảo đảm hàng hải)" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2304" TenTM = "Phí qua cầu" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2305" TenTM = "Phí qua đò" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2306" TenTM = "Phí qua phà" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2307" TenTM = "Phí sử dụng cầu, bến, phao neo thuộc khu vực cảng biển" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2308" TenTM = "Phí sử dụng cầu, bến, phao neo thuộc cảng, bến thủy nội địa" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2311" TenTM = "Phí sử dụng cảng cá" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2312" TenTM = "Phí sử dụng vị trí neo, đậu ngoài phạm vi cảng" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2313" TenTM = "Phí bảo đảm hàng hải" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2314" TenTM = "Phí hoa tiêu, dẫn đường trong lĩnh vực đường biển" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2315" TenTM = "Phí hoa tiêu, dẫn đường trong lĩnh vực đường thủy nội địa" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2316" TenTM = "Phí thuộc lĩnh vực hàng không" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2317" TenTM = "Phí trọng tải tàu, thuyền" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2318" TenTM = "Phí luồng, lạch đường thủy nội địa" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2321" TenTM = "Phí sử dụng lề đường, bến, bãi, mặt nước" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2322" TenTM = "Phí kiểm định an toàn kỹ thuật và chất lượng thiết bị,vật tư" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2323" TenTM = "Phí sử dụng kết cấu hạ tầng đường sắt" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2324" TenTM = "Phí sử dụng đường bộ thu qua đầu phương tiện ô tô" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2325" TenTM = "Phí bảo đảm hàng hải" MaMuc ="2300" TenMuc = "Phí thuộc lĩnh vực giao thông vận tải" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2351" TenTM = "Phí sử dụng tần số vô tuyến điện" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2352" TenTM = "Phí duy trì sử dụng tên miền và địa chỉ Internet" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2353" TenTM = "Phí sử dụng mã, số viễn thông" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2354" TenTM = "Phí khai thác và sử dụng tài liệu dầu khí" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2355" TenTM = "Phí K.thác và sd tài liệu đất đai, thăm dò địa chất và KT mỏ" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2356" TenTM = "Phí K.thác và SD tài liệu khí tượng thủy văn, MT nước và KK" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2357" TenTM = "Phí K.thác, SD tư liệu tại thư viện, bảo tàng, khu di tích.." MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2358" TenTM = "Phí thẩm định điều kiện hoạt động bưu chính, viễn thông" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin, liên lạc" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2361" TenTM = "Phí quyền hoạt động viễn thông" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2362" TenTM = "Phí thẩm định điều kiện hoạt động viễn thông" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2363" TenTM = "Phí thẩm định điều kiện hoạt động bưu chính" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2364" TenTM = "Phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư số" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2365" TenTM = "Phí quyền cung cấp dịch vụ truyền hình trả tiền" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2366" TenTM = "Phí thẩm định nội dung, kịch bản trò chơi điện tử trên mạng" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2367" TenTM = "Phí thẩm định và chứng nhận hợp chuẩn, hợp quy về an toàn thông tin" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2368" TenTM = "Phí thẩm định cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng" MaMuc ="2350" TenMuc = "Phí thuộc lĩnh vực thông tin liên lạc" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2401" TenTM = "Phí K.định KT máy móc, TB, vật tư, các chất có Y/C về ATLĐ" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2402" TenTM = "Phí K.định KT máy móc, TB có Y/C về AT đặc thù ngành CN" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2403" TenTM = "Phí an ninh, trật tự" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2404" TenTM = "Phí phòng cháy, chữa cháy" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2405" TenTM = "Phí thẩm định cấp phép sử dụng vật liệu nổ công nghiệp" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2406" TenTM = "Phí k.tra, đánh giá, cấp giấy CN quốc tế về an ninh tàu biển" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2407" TenTM = "Phí T.định, phê duyệt an ninh cảng biển, sổ lý lịch tàu biển" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2408" TenTM = "Phí thẩm định cấp phép hoạt động cai nghiện ma tuý" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2411" TenTM = "Phí thẩm định cấp phép hoạt động hóa chất nguy hiểm, thẩm định báo cáo đánh giá rủi ro hóa chất mới sản xuất, sử dụng ở Việt Nam, đánh giá điều kiện hoạt động theo quy định của pháp luật" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2412" TenTM = "Phí xác minh giấy tờ, TL theo Y/C của tổ chức, CN trong nước" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2413" TenTM = "Phí xác minh giấy tờ, TL theo Y/C của tổ chức, CN nước ngoài" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2414" TenTM = "Phí xử lý hồ sơ cấp Giấy chứng nhận miễn thị thực" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2415" TenTM = "Phí thẩm định điều kiện về an ninh trật tự" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2012" HLDen ="31/12/2017"/>
+			<Item MaTM="2416" TenTM = "Phí sát hạch cấp chứng chỉ nghiệp vụ bảo vệ" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="2417" TenTM = "Phí trông giữ xe đạp, xe máy, ô tô và phí trông giữ phương tiện tham gia giao thông bị tạm giữ do vi phạm pháp luật." MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/02/2015" HLDen ="31/12/2017"/>
+			<Item MaTM="2418" TenTM = "Phí thẩm định điều kiện, tiêu chuẩn hành nghề thuộc lĩnh vực an ninh, quốc phòng" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2421" TenTM = "Phí khai thác và sử dụng thông tin trong cơ sở dữ liệu quốc gia về dân cư" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2422" TenTM = "Phí thẩm định cấp giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự; giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự; giấy chứng nhận hợp quy sản phẩm mật mã dân sự" MaMuc ="2400" TenMuc = "Phí thuộc lĩnh vực an ninh, trật tự, an toàn xã hội" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2451" TenTM = "Phí giám định di vật, cổ vật, bảo vật quốc gia" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá, xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2452" TenTM = "Phí thăm quan" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá, xã hội" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2453" TenTM = "Phí thẩm định văn hóa phẩm" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá, xã hội" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2454" TenTM = "Phí giới thiệu việc làm" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá, xã hội" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2455" TenTM = "Phí thẩm định tiêu chuẩn, điều kiện hành nghề thuộc lĩnh vực văn hóa, thể thao, du lịch" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá xã hội" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2456" TenTM = "Phí thư viện" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá xã hội" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2457" TenTM = "Phí bảo quản ký gửi và sử dụng tài liệu lưu trữ" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá xã hội" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2458" TenTM = "Phí đăng ký quyền tác giả, quyền liên quan đến quyền tác giả" MaMuc ="2450" TenMuc = "Phí thuộc lĩnh vực văn hoá xã hội" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2501" TenTM = "Học phí (không bao gồm học phí giáo dục không chính qui) (để thu theo TB của CQT)" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2502" TenTM = "Phí sát hạch đủ điều kiện cấp văn bằng, chứng chỉ, giấy phép hành nghề (để thu theo TB của CQT)" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2503" TenTM = "Phí dự thi, dự tuyển (để thu theo TB của CQT)" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2009" HLDen ="31/10/2017"/>
+			<Item MaTM="2504" TenTM = "Phí sở hữu trí tuệ" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2505" TenTM = "Phí cấp mã số, mã vạch" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2506" TenTM = "Phí sử dụng dịch vụ trong lĩnh vực năng lượng nguyên tử" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2507" TenTM = "Phí thẩm định an toàn phóng xạ, bức xạ, an ninh hạt nhân" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2508" TenTM = "Phí thẩm định kế hoạch ứng phó sự cố bức xạ, hạt nhân" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2511" TenTM = "Phí thẩm định điều kiện cấp giấy phép đăng ký dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2512" TenTM = "Phí thẩm định hợp đồng chuyển giao công nghệ" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2513" TenTM = "Phí thẩm định điều kiện hoạt động về khoa học, công nghệ" MaMuc ="2500" TenMuc = "Phí thuộc lĩnh vực khoa học và công nghệ" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2551" TenTM = "Viện phí và các loại phí khám chữa bệnh" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2552" TenTM = "Phí phòng, chống dịch bệnh cho động vật; chẩn đoán thú y" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2553" TenTM = "Phí y tế dự phòng" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2554" TenTM = "Phí giám định y khoa" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2555" TenTM = "Phí kiểm nghiệm mẫu thuốc, N.liệu làm thuốc, thuốc, mỹ phẩm" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2556" TenTM = "Phí kiểm dịch y tế" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2557" TenTM = "Phí kiểm nghiệm trang thiết bị y tế" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2558" TenTM = "Phí kiểm tra, kiểm nghiệm vệ sinh an toàn thực phẩm" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2561" TenTM = "Phí thẩm định hoạt động, tiêu chuẩn, điều kiện hành nghề thuộc lĩnh vực y tế" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2562" TenTM = "Phí thẩm định đăng ký kinh doanh thuốc" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2563" TenTM = "Phí thẩm định hồ sơ nhập khẩu thuốc thành phẩm chưa có số ĐK" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2564" TenTM = "Phí cấp, đổi thẻ bảo hiểm y tế" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/11/2010" HLDen ="31/12/2017"/>
+			<Item MaTM="2565" TenTM = "Phí thẩm định cấp giấy giám định y khoa" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2566" TenTM = "Phí thẩm định cấp giấy phép lưu hành, nhập khẩu, xuất khẩu, công bố trang thiết bị y tế" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2567" TenTM = "Phí thẩm định cấp phép lưu hành, nhập khẩu, xác nhận, công bố" MaMuc ="2550" TenMuc = "Phí thuộc lĩnh vực y tế" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2601" TenTM = "Phí bảo vệ MT đối với nước thải, khí thải, chất thải rắn, KT" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="21/01/2011"/>
+			<Item MaTM="2602" TenTM = "Phí thẩm định báo cáo đánh giá tác động môi trường" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2603" TenTM = "Phí vệ sinh" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2604" TenTM = "Phí phòng, chống thiên tai" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2605" TenTM = "Phí xét nghiệm, thẩm định, giám định; tra cứu, cung cấp TT.." MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2606" TenTM = "Phí lập và gửi đơn đăng ký quốc tế về sở hữu công nghiệp" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2607" TenTM = "Phí cung cấp DV để giải quyết khiếu nại sở hữu công nghiệp" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2608" TenTM = "Phí T.định, CC thông tin về văn bằng bảo hộ giống cây trồng" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2611" TenTM = "Phí cấp, hướng dẫn và duy trì sử dụng mã số, mã vạch" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2612" TenTM = "Phí thẩm định an toàn và sử dụng dịch vụ an toàn bức xạ" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2613" TenTM = "Phí thẩm định ĐK hoạt động về khoa học công nghệ, môi trường" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2614" TenTM = "Phí T.định đề án, báo cáo thăm dò, K.thác,đánh giá trữ lượng" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2615" TenTM = "Phí thẩm định hồ sơ, điều kiện hành nghề khoan nước dưới đất" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2616" TenTM = "Phí thẩm định hợp đồng chuyển giao công nghệ" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2617" TenTM = "Phí kiểm định phương tiện đo lường" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2618" TenTM = "Phí bảo vệ môi trường đối với nước thải, khí thải" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="2621" TenTM = "Phí bảo vệ môi trường đối với nước thải công nghiệp" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2011" HLDen ="31/12/2017"/>
+			<Item MaTM="2622" TenTM = "Phí bảo vệ môi trường đối với khí thải" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2011" HLDen ="31/12/2017"/>
+			<Item MaTM="2623" TenTM = "Phí bảo vệ môi trường đối với chất thải rắn" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2011" HLDen ="31/12/2017"/>
+			<Item MaTM="2624" TenTM = "Phí bảo vệ môi trường đối với khai thác khoáng sản là dầu thô và khí thiên nhiên" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="2625" TenTM = "Phí bảo vệ môi trường đối với khai thác khoáng sản còn lại" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2011" HLDen ="31/12/9999"/>
+			<Item MaTM="2626" TenTM = "Phí thẩm định cấp giấy chứng nhận lưu hành tự do (CFS) sản phẩm, hàng hóa đo đạc và bản đồ khi xuất khẩu, nhập khẩu" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2627" TenTM = "Phí thẩm định hồ sơ cấp giấy chứng nhận quyền sử dụng đất" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2628" TenTM = "Phí thẩm định đánh giá trữ lượng khoáng sản" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2631" TenTM = "Phí khai thác, sử dụng nguồn nước" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2632" TenTM = "Phí thẩm định điều kiện hành nghề thuộc lĩnh vực tài nguyên môi trường" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2633" TenTM = "Phí khai thác, sử dụng tài liệu, dữ liệu tài nguyên và môi trường (không bao gồm Phí khai thác và sử dụng tài liệu dầu khí)" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2634" TenTM = "Phí thẩm định báo cáo đánh giá tác động môi trường, đề án bảo vệ môi trường chi tiết; thẩm định phương án cải tạo, phục hồi môi trường và phương án cải tạo, phục hồi môi trường bổ sung" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2635" TenTM = "Phí thẩm định kế hoạch bảo vệ môi trường trong hoạt động phá dỡ tàu biển" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2636" TenTM = "Phí xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2637" TenTM = "Phí khai thác, sử dụng thông tin dữ liệu đo đạc và bản đồ" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực khoa học, công nghệ và môi trường" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2638" TenTM = "Phí khai thác và sử dụng tài liệu dầu khí" MaMuc ="2600" TenMuc = "Phí thuộc lĩnh vực tài nguyên và môi trường" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="2651" TenTM = "Phí cung cấp thông tin về tài chính doanh nghiệp" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2652" TenTM = "Phí dịch vụ thanh toán trong hoạt động của Kho bạc nhà nước" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2653" TenTM = "Phí phát hành, thanh toán trái phiếu kho bạc" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2654" TenTM = "Phí T/c phát hành, TT trái phiếu đ.tư cho công trình do NSNN" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2655" TenTM = "Phí P.hành, TT trái phiếu để huy động vốn cho NH P.triển VN" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2656" TenTM = "Phí bảo quản, cất giữ tài sản quý hiếm, chứng chỉ tại KBNN" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2657" TenTM = "Phí cấp bảo lãnh của Chính phủ (do BTC hoặc NHNN VN cấp)" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2658" TenTM = "Phí quản lý cho vay của Ngân hàng Phát triển Việt Nam" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2661" TenTM = "Phí sử dụng thiết bị, cơ sở hạ tầng chứng khoán" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2662" TenTM = "Phí hoạt động chứng khoán" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2663" TenTM = "Phí hải quan" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, bảo hiểm" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2664" TenTM = "Phí quản lý, giám sát hoạt động chứng khoán, bảo hiểm, kế toán, kiểm toán" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2665" TenTM = "Phí thẩm định tiêu chuẩn, điều kiện hành nghề thuộc lĩnh vực tài chính" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, hải quan" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2666" TenTM = "Phí hải quan đối với chuyến bay của nước ngoài đến các Cảng hàng không Việt Nam" MaMuc ="2650" TenMuc = "Phí thuộc lĩnh vực tài chính, ngân hàng, bảo hiểm" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="2701" TenTM = "Án phí" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2702" TenTM = "Phí giám định tư pháp" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2703" TenTM = "Phí cung cấp thông tin về giao dịch bảo đảm" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2704" TenTM = "Phí cung cấp thông tin về tài sản cho thuê tài chính" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2705" TenTM = "Phí cấp bản sao, bản trích lục bản án, QĐ và giấy CN xoá án" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2706" TenTM = "Phí thi hành án dân sự" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2707" TenTM = "Phí thực hiện ủy thác tư pháp về dân sự có yếu tố nước ngoài" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2708" TenTM = "Phí xuất khẩu lao động" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2711" TenTM = "Phí phá sản" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2712" TenTM = "Phí T.định HS ĐN hưởng miễn trừ T.thuận H.chế C.tranh bị cấm" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2713" TenTM = "Phí giải quyết việc nuôi con nuôi đối với người nước ngoài" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2714" TenTM = "Phí xử lý vụ việc cạnh tranh" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2715" TenTM = "Phí công chứng" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2716" TenTM = "Phí chứng thực" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2717" TenTM = "Phí thẩm định điều kiện hoạt động thuộc lĩnh vực tư pháp" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2718" TenTM = "Phí đăng ký giao dịch bảo đảm" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2721" TenTM = "Phí sử dụng thông tin" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2722" TenTM = "Phí cấp mã số sử dụng cơ sở dữ liệu về giao dịch bảo đảm" MaMuc ="2700" TenMuc = "Phí thuộc lĩnh vực tư pháp" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2751" TenTM = "Lệ phí quốc tịch" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2752" TenTM = "Lệ phí cấp hộ chiếu" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2753" TenTM = "Lệ phí qua lại cửa khẩu biên giới" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2754" TenTM = "Lệ phí AD tại CQ đại diện ngoại giao, cơ quan lãnh sự ở NN" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2755" TenTM = "Lệ phí nộp đơn YC Toà án VN C.nhận,thi hành tại VN bản án NN" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2756" TenTM = "LP nộp đơn YC TA VN không CN bản án, Q.Định dân sự của TA NN" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2757" TenTM = "LP nộp đơn YC T.án VN CN và cho thi hành tại VN QĐ của TT NN" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2758" TenTM = "LP nộp đơn YC T.án K.luận cuộc đình công hợp pháp hoặc bấtHP" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2761" TenTM = "Lệ phí kháng cáo" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2762" TenTM = "Lệ phí toà án liên quan đến trọng tài" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2763" TenTM = "Lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại Việt Nam" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2764" TenTM = "Lệ phí cấp phiếu lý lịch tư pháp" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2765" TenTM = "Lệ phí cấp thẻ đi lại của doanh nhân APEC" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2766" TenTM = "Lệ phí tòa án" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2767" TenTM = "Lệ phí đăng ký cư trú" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2768" TenTM = "Lệ phí cấp chứng minh nhân dân, căn cước công dân" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2771" TenTM = "Lệ phí hộ tịch" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2772" TenTM = "Lệ phí cấp phép hoạt động đưa người lao động đi làm việc có thời hạn ở nước ngoài" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2773" TenTM = "Lệ phí đăng ký nuôi con nuôi" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2774" TenTM = "Lệ phí cấp phép các tổ chức nuôi con nuôi" MaMuc ="2750" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền và nghĩa vụ của công dân" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2801" TenTM = "Lệ phí trước bạ nhà đất" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2802" TenTM = "Lệ phí trước bạ ô tô" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2803" TenTM = "Lệ phí trước bạ tàu thủy, thuyền" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2804" TenTM = "Lệ phí trước bạ tài sản khác" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2805" TenTM = "Lệ phí cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà, tài sản gắn liền với đất" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2806" TenTM = "Lệ phí đăng ký giao dịch bảo đảm" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2807" TenTM = "Lệ phí cấp giấy chứng nhận quyền tác giả" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2808" TenTM = "LP nộp đơn và cấp văn bằng bảo hộ, ĐK chuyển giao quyền SHCN" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2811" TenTM = "LP duy trì, gia hạn, chấm dứt, k.phục H.lực văn bằng bảo hộ" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2812" TenTM = "Lệ phí đăng bạ, công bố thông tin sở hữu công nghiệp" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2813" TenTM = "Lệ phí cấp chứng chỉ hành nghề, đăng bạ đại diện sở hữu CN" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2814" TenTM = "LP ĐK, cấp, C.bố,duy trì văn bằng bảo hộ giống cây trồng mới" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2815" TenTM = "Lệ phí cấp giấy phép xây dựng" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2816" TenTM = "LP Đ.ký, cấp biển PT giao thông (không kể PTGT đường thuỷ)" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2817" TenTM = "Lệ phí đăng ký, cấp biển phương tiện giao thông đường thuỷ" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2818" TenTM = "Lệ phí đăng ký, cấp biển xe máy chuyên dùng" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2821" TenTM = "Lệ phí cấp chứng chỉ cho tàu bay" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2822" TenTM = "Lệ phí cấp biển số nhà" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2823" TenTM = "LP cấp giấy CN quyền sở hữu nhà ở, quyền SH công trình XD" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2824" TenTM = "Lệ phí trước bạ xe máy" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2825" TenTM = "Lệ phí trước bạ tàu bay" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2826" TenTM = "Lệ phí cấp giấy phép quy hoạch" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2827" TenTM = "Lệ phí quản lý phương tiện giao thông" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2828" TenTM = "Lệ phí trong lĩnh vực hàng hải" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2831" TenTM = "Lệ phí sở hữu trí tuệ" MaMuc ="2800" TenMuc = "Lệ phí quản lý nhà nước liên quan đến quyền sở hữu, quyền sử dụng tài sản" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2851" TenTM = "LP cấp giấy CN ĐKKD, cung cấp TT đ.với các L.hình KT, hộ KD" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2852" TenTM = "Lệ phí đăng ký kinh doanh" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2853" TenTM = "Lệ phí về cấp chứng nhận, cấp bằng, cấp chứng chỉ, cấp phép, cấp giấy phép, cấp giấy chứng nhận, điều chỉnh giấy chứng nhận đối với các hoạt động, các ngành nghề kinh doanh theo quy định của pháp luật" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2854" TenTM = "Lệ phí cấp phép đặt chi nhánh, văn phòng đại diện của các tổ chức nước ngoài tại Việt Nam" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="2855" TenTM = "Lệ phí cấp hạn ngạch xuất khẩu, nhập khẩu" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2856" TenTM = "Lệ phí cấp và dán tem kiểm soát băng, đĩa có chương trình" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2857" TenTM = "Lệ phí độc quyền hoạt động trong ngành dầu khí" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2858" TenTM = "LP độc quyền HĐ trong một số ngành, nghề TNguyên khoáng sản" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="2861" TenTM = "Lệ phí đăng ký doanh nghiệp" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2862" TenTM = "Lệ phí môn bài mức (bậc) 1" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2863" TenTM = "Lệ phí môn bài mức (bậc) 2" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2864" TenTM = "Lệ phí môn bài mức (bậc) 3" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2865" TenTM = "Lệ phí phân bổ kho số viễn thông, tài nguyên Internet" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2866" TenTM = "Lệ phí cấp và dán tem kiểm soát băng, đĩa có chương trình" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2867" TenTM = "Lệ phí chuyển nhượng chứng chỉ, tín chỉ giảm phát thải khí nhà kính" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2868" TenTM = "Lệ phí cấp tên định danh người gửi dùng trong hoạt động quảng cáo trên mạng" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2871" TenTM = "Lệ phí trong lĩnh vực tiêu chuẩn, đo lường chất lượng" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="2872" TenTM = "Lệ phí đăng ký các quyền đối với tàu bay" MaMuc ="2850" TenMuc = "Lệ phí quản lý nhà nước liên quan đến sản xuất, kinh doanh" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3001" TenTM = "Lệ phí ra, vào cảng" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3002" TenTM = "Lệ phí đi qua vùng đất, vùng biển (không bao gồm lệ phí hàng hóa phương tiện quá cảnh)" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3003" TenTM = "Lệ phí hàng hóa phương tiện quá cảnh" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3004" TenTM = "Lệ phí cấp phép bay" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3005" TenTM = "Lệ phí hàng hoá, hành lý, phương tiện vận tải quá cảnh" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3006" TenTM = "LP cấp phép HĐ ksát, Tkế, lắp đặt, sc, bảo dưỡng các c.trình" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3007" TenTM = "Lệ phí hoa hồng chữ ký trong lĩnh vực dầu khí" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3008" TenTM = "Lệ phí hoa hồng sản xuất" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3009" TenTM = "Thu tiền cấp quyền khai thác khoáng sản" MaMuc ="3000" TenMuc = "Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia" HLTu = "01/08/2012" HLDen ="31/12/2017"/>
+			<Item MaTM="3051" TenTM = "Lệ phí cấp phép sử dụng con dấu" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3052" TenTM = "Lệ phí làm thủ tục hải quan" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3053" TenTM = "Lệ phí áp tải hải quan" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3054" TenTM = "Lệ phí cấp giấy đăng ký nguồn phóng xạ, máy phát bức xạ" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3055" TenTM = "Lệ phí cấp giấy đăng ký địa điểm cất giữ chất thải phóng xạ" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3056" TenTM = "Lệ phí cấp văn bằng, chứng chỉ" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3057" TenTM = "Lệ phí cấp bản sao, chứng thực theo yêu cầu hoặc theo quy định của pháp luật" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3058" TenTM = "Lệ phí hợp pháp hoá và chứng nhận lãnh sự" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3061" TenTM = "Lệ phí công chứng" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3062" TenTM = "Lệ phí cấp GP quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2012" HLDen ="31/12/2017"/>
+			<Item MaTM="3063" TenTM = "Lệ phí cấp giấy phép quy hoạch" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/08/2012" HLDen ="31/12/2017"/>
+			<Item MaTM="3064" TenTM = "Lệ phí cấp chứng chỉ hành nghề dịch vụ thú y; chế phẩm sinh học, vi sinh vật, hóa chất, chất xử lý cải tạo môi trường trong nuôi trồng thủy sản, chăn nuôi" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3065" TenTM = "Lệ phí cấp chứng nhận kiểm dịch động vật, sản phẩm động vật trên cạn; thủy sản nhập khẩu, quá cảnh, tạm nhập tái xuất, chuyển cửa khẩu" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3066" TenTM = "Lệ phí cấp chứng chỉ hành nghề luật sư" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3067" TenTM = "Lệ phí cấp thẻ công chứng viên" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3068" TenTM = "Lệ phí cấp chứng chỉ hành nghề quản tài viên" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3071" TenTM = "Lệ phí cấp giấy chứng nhận thuyết minh viên" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3072" TenTM = "Lệ phí công nhận chất lượng vật tư nông nghiệp được phép lưu hành tại Việt Nam" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3073" TenTM = "Lệ phí cấp giấy phép xuất khẩu, nhập khẩu giống, nguồn gen cây trồng nông nghiệp" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3074" TenTM = "Lệ phí cấp giấy phép khai thác, hoạt động thủy sản" MaMuc ="3050" TenMuc = "Lệ phí quản lý nhà nước trong các lĩnh vực khác" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="3201" TenTM = "Lương thực" MaMuc ="3200" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3202" TenTM = "Nhiên liệu" MaMuc ="3200" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3203" TenTM = "Vật tư kỹ thuật" MaMuc ="3200" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3204" TenTM = "Trang thiết bị kỹ thuật" MaMuc ="3200" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3249" TenTM = "Khác" MaMuc ="3200" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3251" TenTM = "Lương thực" MaMuc ="3250" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước chuyên ngành" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3252" TenTM = "Nhiên liệu" MaMuc ="3250" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước chuyên ngành" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3253" TenTM = "Vật tư kỹ thuật" MaMuc ="3250" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước chuyên ngành" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3254" TenTM = "Trang thiết bị kỹ thuật" MaMuc ="3250" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước chuyên ngành" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3299" TenTM = "Khác" MaMuc ="3250" TenMuc = "Thu tiền bán hàng hoá, vật tư dự trữ nhà nước chuyên ngành" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3301" TenTM = "Bán nhà thuộc sở hữu nhà nước không gắn với chuyển mục đích sử dụng đất" MaMuc ="3300" TenMuc = "Thu tiền bán nhà thuộc sở hữu nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3302" TenTM = "Thanh lý nhà thuộc sở hữu nhà nước" MaMuc ="3300" TenMuc = "Thu tiền bán nhà thuộc sở hữu nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3349" TenTM = "Khác" MaMuc ="3300" TenMuc = "Thu tiền bán nhà thuộc sở hữu nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3351" TenTM = "Mô tô" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3352" TenTM = "Ô tô con, ô tô tải" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3353" TenTM = "Xe chuyên dùng" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3354" TenTM = "Tàu, thuyền" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3355" TenTM = "Đồ gỗ" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3356" TenTM = "Trang thiết bị kỹ thuật chuyên dụng" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3357" TenTM = "Máy tính, photo, máy fax" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3358" TenTM = "Điều hoà nhiệt độ" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3361" TenTM = "Thiết bị phòng, chữa cháy" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3362" TenTM = "Thu bán cây đứng" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3363" TenTM = "Thu tiền bán tài sản, vật tư thu hồi thuộc kết cấu hạ tầng đường sắt" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3364" TenTM = "Thu từ bồi thường tài sản" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3365" TenTM = "Thu tiền bán tài sản nhà nước khác" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3399" TenTM = "Các tài sản khác" MaMuc ="3350" TenMuc = "Thu từ tài sản khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3401" TenTM = "Quyền khai thác khoáng sản, tài nguyên" MaMuc ="3400" TenMuc = "Thu tiền bán tài sản vô hình" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3402" TenTM = "Quyền đánh bắt hải sản" MaMuc ="3400" TenMuc = "Thu tiền bán tài sản vô hình" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3403" TenTM = "Quyền hàng hải" MaMuc ="3400" TenMuc = "Thu tiền bán tài sản vô hình" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3404" TenTM = "Quyền hàng không" MaMuc ="3400" TenMuc = "Thu tiền bán tài sản vô hình" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3405" TenTM = "Bằng phát minh, sáng chế" MaMuc ="3400" TenMuc = "Thu tiền bán tài sản vô hình" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3406" TenTM = "Bản quyền, nhãn hiệu thương mại" MaMuc ="3400" TenMuc = "Thu tiền bán tài sản vô hình" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3449" TenTM = "Khác" MaMuc ="3400" TenMuc = "Thu tiền bán tài sản vô hình" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3451" TenTM = "Tài sản không xác định được chủ sở hữu" MaMuc ="3450" TenMuc = "Thu từ bán tài sản được xác lập sở hữu nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3452" TenTM = "Tài sản bị chôn giấu, chìm đắm" MaMuc ="3450" TenMuc = "Thu từ bán tài sản được xác lập sở hữu nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3453" TenTM = "Tài sản không có người được nhận thừa kế" MaMuc ="3450" TenMuc = "Thu từ bán tài sản được xác lập sở hữu nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3454" TenTM = "Tài sản tự nguyện chuyển giao cho Nhà nước" MaMuc ="3450" TenMuc = "Thu từ bán tài sản được xác lập quyền sở hữu nhà nước" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="3455" TenTM = "Tài sản chuyển giao cho Nhà nước theo cam kết" MaMuc ="3450" TenMuc = "Thu từ bán tài sản được xác lập quyền sở hữu nhà nước" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="3499" TenTM = "Khác" MaMuc ="3450" TenMuc = "Thu từ bán tài sản được xác lập sở hữu nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3601" TenTM = "Tiền thuê mặt đất hàng năm" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3602" TenTM = "Tiền thuê mặt nước hàng năm" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3603" TenTM = "Thu tiền thuê mặt đất, mặt nước từ các hoạt động thăm dò, khai thác dầu khí" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3604" TenTM = "Thu tiền cho thuê mặt đất, mặt nước trong khu công nghiệp, khu chế xuất" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/11/2010" HLDen ="31/12/9999"/>
+			<Item MaTM="3605" TenTM = "Tiền thuê mặt đất thu một lần cho cả thời gian thuê" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3606" TenTM = "Tiền thuê mặt nước thu một lần cho cả thời gian thuê" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3607" TenTM = "Tiền thuê mặt biển thu hàng năm" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3608" TenTM = "Tiền thuê mặt biển thu một lần cho cả thời gian thuê" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3611" TenTM = "Tiền thuê đất Dự án Cảng hàng không Quốc tế Long Thành, tỉnh Đồng Nai" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3612" TenTM = "Tiền thuê đất các dự án trọng điểm khác" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3649" TenTM = "Khác" MaMuc ="3600" TenMuc = "Tiền cho thuê mặt đất, mặt nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3651" TenTM = "Thu nợ tiền sử dụng vốn ngân sách nhà nước" MaMuc ="3650" TenMuc = "Thu từ tài sản Nhà nước giao các tổ chức kinh tế" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3652" TenTM = "Khấu hao cơ bản nhà thuộc sở hữu nhà nước" MaMuc ="3650" TenMuc = "Thu từ tài sản Nhà nước giao các tổ chức kinh tế" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3653" TenTM = "Thu hồi vốn của Nhà nước từ cổ phần hóa" MaMuc ="3650" TenMuc = "Thu từ tài sản Nhà nước giao các tổ chức kinh tế" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3654" TenTM = "Thanh lý tài sản cố định của Nhà nước" MaMuc ="3650" TenMuc = "Thu từ tài sản Nhà nước giao các tổ chức kinh tế" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			
+			<Item MaTM="3655" TenTM = "Thu hồi vốn của Nhà nước từ chuyển nhượng vốn nhà nước" MaMuc ="3650" TenMuc = "Thu từ tài sản Nhà nước giao các tổ chức kinh tế" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3656" TenTM = "Thu hồi vốn của Nhà nước từ sắp xếp lại doanh nghiệp theo hình thức khác" MaMuc ="3650" TenMuc = "Thu từ tài sản Nhà nước giao các tổ chức kinh tế" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			
+			<Item MaTM="3699" TenTM = "Khác" MaMuc ="3650" TenMuc = "Thu từ tài sản Nhà nước giao các tổ chức kinh tế" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3701" TenTM = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu" MaMuc ="3700" TenMuc = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3702" TenTM = "Phụ thu về giá lắp đặt điện thoại" MaMuc ="3700" TenMuc = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3703" TenTM = "Phụ thu về giá bán điện" MaMuc ="3700" TenMuc = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3704" TenTM = "Phụ thu về giá bán nước" MaMuc ="3700" TenMuc = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3705" TenTM = "Phụ thu về giá bán mặt hàng nhựa PVC" MaMuc ="3700" TenMuc = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3706" TenTM = "Phụ thu về dầu, khí" MaMuc ="3700" TenMuc = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu" HLTu = "01/04/2010" HLDen ="31/12/2017"/>
+			<Item MaTM="3749" TenTM = "Khác" MaMuc ="3700" TenMuc = "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3751" TenTM = "Thuế tài nguyên" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3752" TenTM = "Thuế thu nhập doanh nghiệp" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3753" TenTM = "Lợi nhuận sau thuế được chia của Chính phủ Việt Nam" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3754" TenTM = "Dầu lãi được chia của Chính phủ Việt Nam" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3755" TenTM = "Thuế đặc biệt" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2012" HLDen ="31/12/9999"/>
+			<Item MaTM="3756" TenTM = "Phụ thu về dầu" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3757" TenTM = "Thu chênh lệch giá dầu" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3799" TenTM = "Khác" MaMuc ="3750" TenMuc = "Thu về dầu thô theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3801" TenTM = "Thuế tài nguyên" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3802" TenTM = "Thuế thu nhập doanh nghiệp" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3803" TenTM = "Khí lãi được chia của Chính phủ Việt Nam" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3804" TenTM = "Lợi nhuận sau thuế được chia của Chính phủ Việt Nam" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3805" TenTM = "Thuế đặc biệt" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3806" TenTM = "Phụ thu về khí" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3807" TenTM = "Thu chênh lệch giá khí" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3849" TenTM = "Khác" MaMuc ="3800" TenMuc = "Thu về khí thiên nhiên của Chính phủ được phân chia theo hiệp định, hợp đồng thăm dò, khai thác dầu khí" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3851" TenTM = "Tiền thuê nhà ở thuộc sở hữu nhà nước" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3852" TenTM = "Tiền thuê quầy bán hàng thuộc tài sản nhà nước" MaMuc ="3850" TenMuc = "Thu tiền cho thuê tài sản nhà nước" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="3853" TenTM = "Tiền thuê cơ sở hạ tầng đường sắt" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản nhà nước" HLTu = "01/01/2009" HLDen ="31/12/2019"/>
+			<Item MaTM="3854" TenTM = "Tiền cho thuê cơ sở hạ tầng bến cảng, cầu cảng" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản nhà nước" HLTu = "01/09/2020" HLDen ="31/12/2019"/>
+			<Item MaTM="3855" TenTM = "Tiền chuyển nhượng quyền thu phí sử dụng tài sản kết cấu hạ tầng" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản nhà nước" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="3856" TenTM = "Tiền cho thuê quyền khai thác tài sản kết cấu hạ tầng" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản nhà nước" HLTu = "01/01/2018" HLDen ="31/12/2019"/>
+			<Item MaTM="3857" TenTM = "Tiền chuyển nhượng có thời hạn tài sản kết cấu hạ" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản nhà nước" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="3858" TenTM = "Tiền thu từ sử dụng tài sản công của tổ chức vào mục đích kinh doanh, cho thuê, liên doanh, liên kết" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản nhà nước" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3859" TenTM = "Thu từ khai thác cho thuê tài sản kết cấu hạ tầng hàng không" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản công" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3861" TenTM = "Thu từ khai thác cho thuê tài sản kết cấu hạ tầng hàng hải" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản công" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3862" TenTM = "Thu từ khai thác cho thuê tài sản kết cấu hạ tầng đường sắt quốc gia" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản công" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3863" TenTM = "Thu từ khai thác cho thuê tài sản kết cấu hạ tầng đường thủy nội địa" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản công" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3864" TenTM = "Thu từ khai thác cho thuê tài sản kết cấu hạ tầng đường bộ" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản công" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3865" TenTM = "Thu từ khai thác cho thuê tài sản kết cấu hạ tầng thủy lợi" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản công" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="3899" TenTM = "Thu từ khai thác cho thuê tài sản kết cấu hạ tầng khác" MaMuc ="3850" TenMuc = "Thu tiền khai thác, cho thuê tài sản công" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="3901" TenTM = "Thu hoa lợi công sản từ quỹ đất công ích" MaMuc ="3900" TenMuc = "Thu khác từ quỹ đất" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3902" TenTM = "Thu hoa lợi công sản từ quỹ đất công" MaMuc ="3900" TenMuc = "Thu khác từ quỹ đất" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3903" TenTM = "Thu hỗ trợ khi nhà nước thu hồi đất theo chế độ quy định" MaMuc ="3900" TenMuc = "Thu khác từ quỹ đất" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3949" TenTM = "Khác" MaMuc ="3900" TenMuc = "Thu khác từ quỹ đất" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3951" TenTM = "Thuế tài nguyên" MaMuc ="3950" TenMuc = "Thu về condensate theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3952" TenTM = "Thuế thu nhập doanh nghiệp" MaMuc ="3950" TenMuc = "Thu về condensate theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3953" TenTM = "Lãi được chia của Chính phủ Việt Nam" MaMuc ="3950" TenMuc = "Thu về condensate theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="3954" TenTM = "Lợi nhuận sau thuế được chia của Chính phủ Việt Nam" MaMuc ="3950" TenMuc = "Thu về Condensate theo hiệp định, hợp đồng" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3955" TenTM = "Thuế đặc biệt" MaMuc ="3950" TenMuc = "Thu về Condensate theo hiệp định, hợp đồng" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3956" TenTM = "Phụ thu về condensate" MaMuc ="3950" TenMuc = "Thu về Condensate theo hiệp định, hợp đồng" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3957" TenTM = "Thu chênh lệch giá condensate" MaMuc ="3950" TenMuc = "Thu về Condensate theo hiệp định, hợp đồng" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="3999" TenTM = "Khác" MaMuc ="3950" TenMuc = "Thu về condensate theo hiệp định, hợp đồng" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4051" TenTM = "Lãi cho vay trong nước" MaMuc ="4050" TenMuc = "Lãi thu từ các khoản cho vay đầu tư phát triển và tham gia góp vốn của Chính phủ ở trong nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4052" TenTM = "Lãi cho vay bằng nguồn vốn ngoài nước" MaMuc ="4050" TenMuc = "Lãi thu từ các khoản cho vay đầu tư phát triển và tham gia góp vốn của Chính phủ ở trong nước" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4053" TenTM = "Chênh lệch thu, chi của Ngân hàng Nhà nước" MaMuc ="4050" TenMuc = "Lãi thu từ các khoản cho vay đầu tư phát triển và tham gia góp vốn của Chính phủ ở trong nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4054" TenTM = "Thu nhập từ vốn góp của Nhà nước" MaMuc ="4050" TenMuc = "Lãi thu từ các khoản cho vay đầu tư phát triển và tham gia góp vốn của Chính phủ ở trong nước" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4099" TenTM = "Khác" MaMuc ="4050" TenMuc = "Lãi thu từ các khoản cho vay đầu tư phát triển và tham gia góp vốn của Chính phủ ở trong nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4101" TenTM = "Lãi thu được từ các khoản cho các Chính phủ nước ngoài vay" MaMuc ="4100" TenMuc = "Lãi thu từ các khoản cho vay và tham gia góp vốn của Nhà nước ở nước ngoài" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4102" TenTM = "Lãi thu được từ các khoản cho các tổ chức quốc tế vay" MaMuc ="4100" TenMuc = "Lãi thu từ các khoản cho vay và tham gia góp vốn của Nhà nước ở nước ngoài" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4103" TenTM = "Lãi thu được từ các khoản cho các tổ chức tài chính và phi tài chính vay" MaMuc ="4100" TenMuc = "Lãi thu từ các khoản cho vay và tham gia góp vốn của Nhà nước ở nước ngoài" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4104" TenTM = "Lãi thu được từ các khoản tham gia góp vốn của Nhà nước" MaMuc ="4100" TenMuc = "Lãi thu từ các khoản cho vay và tham gia góp vốn của Nhà nước ở nước ngoài" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4149" TenTM = "Khác" MaMuc ="4100" TenMuc = "Lãi thu từ các khoản cho vay và tham gia góp vốn của Nhà nước ở nước ngoài" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4251" TenTM = "Phạt vi phạm hành chính theo quyết định của Tòa án" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4252" TenTM = "Phạt vi phạm hành chính trong lĩnh vực giao thông" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4253" TenTM = "Phạt vi phạm hành chính trong lĩnh vực hải quan thuộc thẩm quyền ra quyết định của cơ quan hải quan" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4254" TenTM = "Phạt vi phạm hành chính trong lĩnh vực thuế thuộc thẩm quyền ra quyết định của cơ quan thuế (không bao gồm phạt vi phạm hành chính đối với Luật thuế thu nhập cá nhân)" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="4255" TenTM = "Phạt về vi phạm chế độ kế toán - thống kê" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4256" TenTM = "Phạt vi phạm tệ nạn xã hội" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4257" TenTM = "Phạt vi phạm bảo vệ nguồn lợi thuỷ sản" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4258" TenTM = "Phạt vi phạm về trồng và bảo vệ rừng" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4261" TenTM = "Phạt vi phạm hành chính về bảo vệ môi trường" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4262" TenTM = "Phạt vi phạm hành chính trong lĩnh vực y tế, văn hoá" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4263" TenTM = "Phạt vi phạm hành chính trong lĩnh vực trật tự, an ninh, quốc phòng" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4264" TenTM = "Phạt vi phạm hành chính về kinh doanh trái pháp luật do ngành Thuế thực hiện" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="4265" TenTM = "Phạt vi phạm hành chính về kinh doanh trái pháp luật do ngành Hải quan thực hiện" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4266" TenTM = "Phạt kinh doanh trái pháp luật do ngành khác thực hiện" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4267" TenTM = "Phạt vi phạm hành chính về trật tự đô thị" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4268" TenTM = "Phạt vi phạm hành chính đối với Luật thuế thu nhập cá nhân" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4271" TenTM = "Tiền phạt do phạm tội theo quyết định của Tòa án" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/09/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="4272" TenTM = "Tiền nộp do chậm thi hành quyết định xử phạt vi phạm hành chính do cơ quan thuế quản lý." MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/09/2014" HLDen ="31/12/9999"/>
+			<Item MaTM="4274" TenTM = "Phạt vi phạm hành chính trong lĩnh vực thuế do Ủy ban nhân dân ban hành quyết định phạt" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4275" TenTM = "Phạt vi phạm hành chính trong lĩnh vực hải quan do Ủy ban nhân dân ban hành quyết định phạt" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4276" TenTM = "Phạt vi phạm hành chính về an toàn vệ sinh thực phẩm" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4277" TenTM = "Tiền nộp do chậm thi hành quyết định xử phạt vi phạm hành chính trong các lĩnh vực khác" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4278" TenTM = "Phạt vi phạm hành chính trong các lĩnh vực khác" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4279" TenTM = "Các khoản tiền khác từ xử phạt vi phạm hành chính" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4281" TenTM = "Thu tiền phạt vi phạm hành chính do lực lượng quản lý thị trường thực hiện" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+			<Item MaTM="4299" TenTM = "Phạt vi phạm khác" MaMuc ="4250" TenMuc = "Thu tiền phạt" HLTu = "01/01/1900" HLDen ="31/12/9999"/>
+			<Item MaTM="4301" TenTM = "Tịch thu từ công tác chống lậu trong lĩnh vực thuế nội địa do cơ quan địa phương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4302" TenTM = "Tịch thu khác trong lĩnh vực thuế nội địa do cơ quan địa phương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4303" TenTM = "Tịch thu từ công tác chống lậu trong lĩnh vực Hải quan do cơ quan địa phương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4304" TenTM = "Tịch thu khác trong lĩnh vực Hải quan do cơ quan địa phương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4305" TenTM = "Tịch thu từ c.tác chống lậu của cq QL thị trường thực hiện" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4306" TenTM = "Tịch thu do vi phạm hành chính theo quyết định của Tòa án, cơ quan thi hành án" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4307" TenTM = "Tịch thu từ công tác chống lậu do các ngành khác thực hiện" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4308" TenTM = "Tịch thu từ công tác chống lậu do ngành Kiểm lâm thực hiện" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4311" TenTM = "Tịch thu do phạm tội hoặc liên quan tội phạm các vụ án khác theo quyết định của Tòa án, cơ quan Thi hành án" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/09/2013" HLDen ="31/12/9999"/>
+			<Item MaTM="4312" TenTM = "Tịch thu từ công tác chống lậu trong lĩnh vực thuế nội địa do cơ quan Trung ương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/04/2016" HLDen ="31/12/9999"/>
+			<Item MaTM="4313" TenTM = "Tịch thu khác trong lĩnh vực thuế nội địa do cơ quan Trung ương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/04/2016" HLDen ="31/12/9999"/>
+			<Item MaTM="4314" TenTM = "Tịch thu từ vi phạm hành chính trong lĩnh vực thuế nội địa do cơ quan địa phương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4315" TenTM = "Tịch thu từ vi phạm hành chính trong lĩnh vực thuế nội địa do cơ quan Trung ương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4316" TenTM = "Tịch thu từ công tác chống lậu trong lĩnh vực hải quan do cơ quan Trung ương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4317" TenTM = "Tịch thu khác trong lĩnh vực hải quan do cơ quan Trung ương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4318" TenTM = "Tịch thu từ vi phạm hành chính trong lĩnh vực hải quan do cơ quan Trung ương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4321" TenTM = "Tịch thu từ vi phạm hành chính trong lĩnh vực hải quan do cơ quan địa phương ra quyết định tịch thu" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4323" TenTM = "Tịch thu từ các vụ án tham nhũng, kinh tế theo quyết định của Tòa án, cơ quan Thi hành án" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4349" TenTM = "Tịch thu khác" MaMuc ="4300" TenMuc = "Thu tịch thu" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4451" TenTM = "Xây dựng kết cấu hạ tầng" MaMuc ="4450" TenMuc = "Các khoản huy động theo quyết định của Nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4499" TenTM = "Khác" MaMuc ="4450" TenMuc = "Các khoản huy động theo quyết định của Nhà nước" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4501" TenTM = "Xây dựng kết cấu hạ tầng" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4502" TenTM = "Xây dựng nhà tình nghĩa" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4503" TenTM = "Đóng góp để ủng hộ đồng bào bị thiên tai, bão lụt" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4504" TenTM = "Đóng góp quỹ an ninh, quốc phòng" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4505" TenTM = "Đóng góp quỹ phát triển ngành" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4506" TenTM = "Đóng góp để ủng hộ nước ngoài" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4507" TenTM = "Thu đóng góp quỹ hỗ trợ xuất khẩu của các DN xuất, nhập khẩu" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4549" TenTM = "Khác" MaMuc ="4500" TenMuc = "Các khoản đóng góp" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4651" TenTM = "Bổ sung cân đối ngân sách" MaMuc ="4650" TenMuc = "Thu bổ sung từ ngân sách cấp trên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4652" TenTM = "Bổ sung có mục tiêu bằng vốn vay nợ nước ngoài" MaMuc ="4650" TenMuc = "Thu bổ sung từ ngân sách cấp trên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4653" TenTM = "Bổ sung có mục tiêu bằng vốn viện trợ không hoàn lại" MaMuc ="4650" TenMuc = "Thu bổ sung từ ngân sách cấp trên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4654" TenTM = "Bổ sung có mục tiêu bằng vốn trong nước" MaMuc ="4650" TenMuc = "Thu bổ sung từ ngân sách cấp trên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4655" TenTM = "Bổ sung có mục tiêu bằng vốn trong nước thực hiện PT KT-XH" MaMuc ="4650" TenMuc = "Thu bổ sung từ ngân sách cấp trên" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4699" TenTM = "Bổ sung khác" MaMuc ="4650" TenMuc = "Thu bổ sung từ ngân sách cấp trên" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="4701" TenTM = "Các khoản hoàn trả phát sinh trong niên độ ngân sách" MaMuc ="4700" TenMuc = "Thu ngân sách cấp dưới nộp cấp trên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4702" TenTM = "Các khoản hoàn trả phát sinh ngoài niên độ ngân sách năm trước" MaMuc ="4700" TenMuc = "Thu ngân sách cấp dưới nộp cấp trên" HLTu = "01/11/2010" HLDen ="31/12/9999"/>
+			<Item MaTM="4703" TenTM = "Thu từ khoản ngân sách cấp khác chi hoàn trả các khoản điều tiết sai các năm trước" MaMuc ="4700" TenMuc = "Thu từ các khoản hoàn trả giữa các cấp ngân sách" HLTu = "01/01/2018" HLDen ="31/12/9999"/>
+			<Item MaTM="4749" TenTM = "Khác" MaMuc ="4700" TenMuc = "Thu ngân sách cấp dưới nộp cấp trên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4751" TenTM = "Quỹ dự trữ tài chính" MaMuc ="4750" TenMuc = "Thu huy động Quỹ dự trữ tài chính" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4801" TenTM = "Thu kết dư ngân sách" MaMuc ="4800" TenMuc = "Thu kết dư ngân sách và nguồn kết dư ngân sách sử dụng để trả nợ gốc, lãi các khoản vay của NSNN theo quy định" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4802" TenTM = "Nguồn kết dư ngân sách sử dụng để trả nợ gốc, lãi các khoản vay của NSNN" MaMuc ="4800" TenMuc = "Thu kết dư ngân sách và nguồn kết dư ngân sách sử dụng để trả nợ gốc, lãi các khoản vay của NSNN theo quy định" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4851" TenTM = "Thu từ hỗ trợ của địa phương khác" MaMuc ="4850" TenMuc = "Thu từ hỗ trợ của địa phương khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4901" TenTM = "Thu chênh lệch tỷ giá ngoại tệ của ngân sách" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4902" TenTM = "Thu hồi các khoản chi năm trước" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4903" TenTM = "Thu của ngân sách các cấp trả các khoản thu năm trước" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="01/11/2010"/>
+			<Item MaTM="4904" TenTM = "Các khoản thu khác của ngành Thuế" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4905" TenTM = "Các khoản thu khác của ngành Hải quan" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4906" TenTM = "Tiền lãi thu được từ các khoản vay nợ, viện trợ của các dự án" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4907" TenTM = "Thu chênh lệch giá bán trái phiếu so với mệnh giá" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="4908" TenTM = "Thu điều tiết từ sản phẩm lọc hoá dầu" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/04/2010" HLDen ="31/12/9999"/>
+			<Item MaTM="4911" TenTM = "Tiền chậm nộp do ngành thuế quản lý (để thu theo TB của CQT)" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/09/2013" HLDen ="31/10/2017"/>
+			<Item MaTM="4912" TenTM = "Tiền chậm nộp do ngành hải quan quản lý (để thu theo TB của CQT)" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/09/2013" HLDen ="31/10/2017"/>
+			<Item MaTM="4913" TenTM = "Thu từ các quỹ của doanh nghiệp xổ số kiến thiết theo quy định" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/09/2014" HLDen ="31/12/9999"/>
+			<Item MaTM="4914" TenTM = "Thu tiền bảo vệ, phát triển đất trồng lúa" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/04/2016" HLDen ="31/12/9999"/>
+			<Item MaTM="4917" TenTM = "Tiền chậm nộp thuế thu nhập cá nhân" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4918" TenTM = "Tiền chậm nộp thuế thu nhập doanh nghiệp (không bao gồm tiền chậm nộp thuế thu nhập doanh nghiệp từ hoạt động thăm dò, khai thác dầu khí)" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4919" TenTM = "Tiền chậm nộp thuế thu nhập doanh nghiệp từ hoạt động thăm dò, khai thác dầu khí" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4921" TenTM = "Tiền chậm nộp tiền cấp quyền khai thác khoáng sản đối với Giấy phép do cơ quan trung ương cấp phép" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4922" TenTM = "Tiền chậm nộp tiền cấp quyền khai thác khoáng sản đối với Giấy phép do Ủy ban nhân dân tỉnh cấp phép" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4923" TenTM = "Tiền chậm nộp tiền cấp quyền khai thác tài nguyên nước đối với giấy phép do cơ quan trung ương cấp phép" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4924" TenTM = "Tiền chậm nộp tiền cấp quyền khai thác tài nguyên nước đối với giấy phép do cơ quan địa phương cấp phép" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4925" TenTM = "Tiền chậm nộp thuế tài nguyên dầu, khí (không kể tiền chậm nộp thuế tài nguyên thu theo hiệp định, hợp đồng thăm dò khai thác dầu, khí)" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4926" TenTM = "Tiền chậm nộp thuế tài nguyên về dầu thô thu theo hiệp định, hợp đồng." MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4927" TenTM = "Tiền chậm nộp thuế tài nguyên khác còn lại." MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4928" TenTM = "Tiền chậm nộp thuế giá trị gia tăng từ hàng hóa nhập khẩu" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4929" TenTM = "Tiền chậm nộp thuế giá trị gia tăng từ hoạt động thăm dò, khai thác dầu, khí" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4931" TenTM = "Tiền chậm nộp thuế giá trị gia tăng từ hàng hóa sản xuất kinh doanh trong nước khác còn lại" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4932" TenTM = "Tiền chậm nộp thuế tiêu thụ đặc biệt hàng nhập khẩu" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4933" TenTM = "Tiền chậm nộp thuế tiêu thụ đặc biệt hàng nhập khẩu bán ra trong nước." MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4934" TenTM = "Tiền chậm nộp thuế tiêu thụ đặc biệt hàng hóa sản xuất kinh doanh trong nước khác còn lại" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4935" TenTM = "Tiền chậm nộp thuế xuất khẩu" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4936" TenTM = "Tiền chậm nộp thuế nhập khẩu" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4937" TenTM = "Tiền chậm nộp thuế bảo vệ môi trường thu từ hàng hóa nhập khẩu" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4938" TenTM = "Tiền chậm nộp thuế bảo vệ môi trường thu từ hàng hóa nhập khẩu bán ra trong nước" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4939" TenTM = "Tiền chậm nộp thuế bảo vệ môi trường thu từ hàng hóa sản xuất, kinh doanh trong nước khác còn lại" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4941" TenTM = "Tiền chậm nộp các khoản thu từ hoạt động xổ số kiến thiết" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4942" TenTM = "Tiền chậm nộp đối với các khoản thu khác còn lại về dầu khí" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4943" TenTM = "Tiền chậm nộp các khoản khác điều tiết 100% ngân sách trung ương theo quy định của pháp luật do ngành thuế quản lý" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4944" TenTM = "Tiền chậm nộp các khoản khác điều tiết 100% ngân sách địa phương theo quy định của pháp luật do ngành thuế quản lý" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4945" TenTM = "Tiền chậm nộp các khoản khác theo quy định của pháp luật do ngành hải quan quản lý" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4946" TenTM = "Tiền chậm nộp các khoản khác điều tiết 100% ngân sách trung ương theo quy định của pháp luật do ngành khác quản lý" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4947" TenTM = "Tiền chậm nộp các khoản khác điều tiết 100% ngân sách địa phương theo quy định của pháp luật do ngành khác quản lý" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2017" HLDen ="31/12/9999"/>
+			<Item MaTM="4949" TenTM = "Các khoản thu khác (bao gồm các khoản thu nợ không được phản ảnh ở các tiểu mục thu nợ)" MaMuc ="4900" TenMuc = "Các khoản thu khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5051" TenTM = "Của các Chính phủ" MaMuc ="5050" TenMuc = "Viện trợ cho đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5052" TenTM = "Của các tổ chức quốc tế" MaMuc ="5050" TenMuc = "Viện trợ cho đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5053" TenTM = "Của các tổ chức phi Chính phủ" MaMuc ="5050" TenMuc = "Viện trợ cho đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5054" TenTM = "Của các cá nhân và kiều bào nước ngoài" MaMuc ="5050" TenMuc = "Viện trợ cho đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5099" TenTM = "Của các tổ chức khác" MaMuc ="5050" TenMuc = "Viện trợ cho đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5101" TenTM = "Của các Chính phủ" MaMuc ="5100" TenMuc = "Viện trợ cho chi thường xuyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5102" TenTM = "Của các tổ chức quốc tế" MaMuc ="5100" TenMuc = "Viện trợ cho chi thường xuyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5103" TenTM = "Của các tổ chức phi Chính phủ" MaMuc ="5100" TenMuc = "Viện trợ cho chi thường xuyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5104" TenTM = "Của các cá nhân và kiều bào nước ngoài" MaMuc ="5100" TenMuc = "Viện trợ cho chi thường xuyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5149" TenTM = "Của các tổ chức khác" MaMuc ="5100" TenMuc = "Viện trợ cho chi thường xuyên" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5151" TenTM = "Của các Chính phủ" MaMuc ="5150" TenMuc = "Viện trợ để cho vay lại" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5152" TenTM = "Của các tổ chức quốc tế" MaMuc ="5150" TenMuc = "Viện trợ để cho vay lại" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5153" TenTM = "Của các tổ chức phi Chính phủ" MaMuc ="5150" TenMuc = "Viện trợ để cho vay lại" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5154" TenTM = "Của các cá nhân và kiều bào nước ngoài" MaMuc ="5150" TenMuc = "Viện trợ để cho vay lại" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5199" TenTM = "Của các tổ chức khác" MaMuc ="5150" TenMuc = "Viện trợ để cho vay lại" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5201" TenTM = "Của các Chính phủ" MaMuc ="5200" TenMuc = "Viện trợ cho mục đích khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5202" TenTM = "Của các tổ chức quốc tế" MaMuc ="5200" TenMuc = "Viện trợ cho mục đích khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5203" TenTM = "Của các tổ chức phi Chính phủ" MaMuc ="5200" TenMuc = "Viện trợ cho mục đích khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5204" TenTM = "Của các cá nhân và kiều bào nước ngoài" MaMuc ="5200" TenMuc = "Viện trợ cho mục đích khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5249" TenTM = "Của các tổ chức khác" MaMuc ="5200" TenMuc = "Viện trợ cho mục đích khác" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5351" TenTM = "Thu nợ gốc cho vay trong nước" MaMuc ="5350" TenMuc = "Thu nợ gốc cho vay đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5352" TenTM = "Thu nợ gốc cho vay bằng nguồn vốn ngoài nước" MaMuc ="5350" TenMuc = "Thu nợ gốc cho vay đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5399" TenTM = "Khác" MaMuc ="5350" TenMuc = "Thu nợ gốc cho vay đầu tư phát triển" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5451" TenTM = "Thu từ các khoản cho vay đối với các Chính phủ nước ngoài" MaMuc ="5450" TenMuc = "Thu nợ gốc cho nước ngoài vay" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5452" TenTM = "Thu từ các khoản cho vay đối với các tổ chức quốc tế" MaMuc ="5450" TenMuc = "Thu nợ gốc cho nước ngoài vay" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5453" TenTM = "Thu từ các khoản cho các tổ chức tài chính và phi tài chính vay" MaMuc ="5450" TenMuc = "Thu nợ gốc cho nước ngoài vay" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5499" TenTM = "Tổ chức nước ngoài khác vay" MaMuc ="5450" TenMuc = "Thu nợ gốc cho nước ngoài vay" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="5551" TenTM = "Thu bán cổ phần các doanh nghiệp Nhà nước" MaMuc ="5550" TenMuc = "Thu bán cổ phần của Nhà nước" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="5552" TenTM = "Thu bán cổ phần các liên doanh" MaMuc ="5550" TenMuc = "Thu bán cổ phần của Nhà nước" HLTu = "01/01/2009" HLDen ="31/12/2017"/>
+			<Item MaTM="7551" TenTM = "Hoàn thuế giá trị gia tăng" MaMuc ="7500" TenMuc = "Hoàn thuế giá trị gia tăng; thuế tiêu thụ đặc biệt; thuế nhập khẩu theo chương trình ưu đãi thuế công nghiệp hỗ trợ, theo chế độ" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7552" TenTM = "Trả lãi do chậm hoàn trả thuế giá trị gia tăng; thuế tiêu thụ đặc biệt; thuế nhập khẩu theo chương trình ưu đãi thuế công nghiệp" MaMuc ="7500" TenMuc = "Hoàn thuế giá trị gia tăng; thuế tiêu thụ đặc biệt; thuế nhập khẩu theo chương trình ưu đãi thuế công nghiệp hỗ trợ, theo chế độ" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7553" TenTM = "Hoàn thuế tiêu thụ đặc biệt mặt hàng xăng khoáng nguyên liệu dùng để sản xuất, pha chế xăng sinh học theo Luật thuế tiêu thụ đặc" MaMuc ="7500" TenMuc = "Hoàn thuế giá trị gia tăng; thuế tiêu thụ đặc biệt; thuế nhập khẩu theo chương trình ưu đãi thuế công nghiệp hỗ trợ, theo chế độ" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7554" TenTM = "Hoàn thuế nhập khẩu đối với chương trình ưu đãi thuế sản xuất, lắp ráp ô tô" MaMuc ="7500" TenMuc = "Hoàn thuế giá trị gia tăng; thuế tiêu thụ đặc biệt; thuế nhập khẩu theo chương trình ưu đãi thuế công nghiệp hỗ trợ, theo chế độ" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7555" TenTM = "Hoàn thuế nhập khẩu đối với chương trình ưu đãi thuế công nghiệp hỗ trợ" MaMuc ="7500" TenMuc = "Hoàn thuế giá trị gia tăng; thuế tiêu thụ đặc biệt; thuế nhập khẩu theo chương trình ưu đãi thuế công nghiệp hỗ trợ, theo chế độ" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7599" TenTM = "Hoàn khác" MaMuc ="7500" TenMuc = "Hoàn thuế giá trị gia tăng; thuế tiêu thụ đặc biệt; thuế nhập khẩu theo chương trình ưu đãi thuế công nghiệp hỗ trợ, theo chế độ" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7651" TenTM = "Chi hoàn trả các khoản thu do cơ quan hải quan quyết định" MaMuc ="7650" TenMuc = "Chi trả các khoản thu năm trước và chi trả lãi do trả chậm" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7652" TenTM = "Chi hoàn trả các khoản thu về thuế nội địa" MaMuc ="7650" TenMuc = "Chi trả các khoản thu năm trước và chi trả lãi do trả chậm" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7653" TenTM = "Chi hoàn trả các khoản thu về phí và lệ phí" MaMuc ="7650" TenMuc = "Chi trả các khoản thu năm trước và chi trả lãi do trả chậm" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7654" TenTM = "Chi trả lãi do trả chậm theo quyết định của cơ quan hải quan" MaMuc ="7650" TenMuc = "Chi trả các khoản thu năm trước và chi trả lãi do trả chậm" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7655" TenTM = "Chi trả lãi do trả chậm thuế nội địa" MaMuc ="7650" TenMuc = "Chi trả các khoản thu năm trước và chi trả lãi do trả chậm" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="7699" TenTM = "Chi trả các khoản thu khác" MaMuc ="7650" TenMuc = "Chi trả các khoản thu năm trước và chi trả lãi do trả chậm" HLTu = "01/01/2009" HLDen ="31/12/9999"/>
+			<Item MaTM="1058" TenTM = "Thuế thu nhập doanh nghiệp bổ sung theo quy định về thuế tối thiểu toàn cầu" MaMuc ="7650" TenMuc = "Thuế thu nhập doanh nghiệp" HLTu = "01/01/2020" HLDen ="31/12/9999"/>
+		</Items>
+	</Section>	
+</Sections>

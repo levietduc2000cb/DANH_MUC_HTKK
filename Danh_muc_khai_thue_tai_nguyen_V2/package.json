@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fast-xml-parser": "^5.7.2",
+    "xlsx": "^0.18.5"
+  }
+}

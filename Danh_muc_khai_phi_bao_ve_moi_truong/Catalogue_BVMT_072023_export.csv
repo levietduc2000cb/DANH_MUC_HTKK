@@ -1,0 +1,134 @@
+﻿Mã chỉ tiêu,Tên,Đơn vị tính,Giá tối thiểu,Giá tối đa
+0115,Quặng sắt,Tấn,40000,60000
+0116,Quặng măng-gan (mangan),Tấn,30000,50000
+0117,Quặng ti-tan (titan),Tấn,10000,70000
+0118,Quặng vàng,Tấn,180000,270000
+0119,Quặng đất hiếm,Tấn,40000,60000
+0120,"Quặng bạch kim, quặng bạc, quặng thiếc",Tấn,180000,270000
+0121,"Quặng vôn-phờ-ram (wolfram), quặng ăng- ti-moan (antimon)",Tấn,30000,50000
+0122,"Quặng chì, quặng kẽm",Tấn,180000,270000
+0123,"Quặng nhôm, quặng bô-xít (bauxit)",Tấn,10000,30000
+0124,"Quặng đồng, quặng ni-ken (nicken)",Tấn,35000,60000
+0125,"Quặng cô-ban (coban), quặng mô-lip-đen (molybden), quặng thủy ngân, quặng ma-nhê (magie), quặng va-na-đi (vanadi)",Tấn,180000,270000
+0126,Quặng crô-mít (cromit),Tấn,10000,60000
+0127,Quặng khoáng sản kim loại khác,Tấn,20000,30000
+0223,Nước thiên nhiên dùng cho sản xuất thủy điện,KWh,0,0
+0224,"Nước thiên nhiên dùng cho sản xuất, kinh doanh",KWh,0,0
+0225,Nước thiên nhiên dùng cho sản xuất nước sạch,M3,0,0
+0226,Nước thiên nhiên dùng cho mục đích khác,M3,0,0
+0227,Nước thiên nhiên dùng cho sản xuất nước sạch (Nước dưới đất),M3,0,0
+0228,Nước thiên nhiên dùng cho mục đích khác (Nước dưới đất),M3,0,0
+0229,"Đất khai thác để san lấp, xây dựng công trình",M3,1000,2000
+0230,Sỏi,M3,6000,9000
+0231,"Đá block (bao gồm khai thác cả khối lớn đá hoa trắng, granite, gabro, bazan làm ốp lát, mỹ nghệ)",M3,60000,90000
+0232,Đá làm vật liệu xây dựng thông thường,M3,1500,7500
+0233,"Đá nung vôi, làm xi măng, làm phụ gia xi măng và làm khoáng chất công nghiệp theo quy định của pháp luật khoáng sản (Serpentin, barit, bentonit)",M3,1500,6750
+0234,Đá làm fluorit,M3,1500,4500
+0235,"Đá hoa trắng làm ốp lát, mỹ nghệ (trừ quy định tại điểm 2.2.1 Mục II Phụ lục kèm theo NĐ số 27/2023/NĐ-CP)",M3,50000,70000
+0236,Đá hoa trắng làm bột carbonat (trừ quy định tại điểm 2.2.1 Mục II Phụ lục kèm theo NĐ số 27/2023/NĐ-CP),M3,1500,7500
+0237,"Đá granite, gabro, bazan làm ốp lát, mỹ nghệ (trừ quy định tại điểm 2.2.1 Mục II Phụ lục kèm theo NĐ số 27/2023/NĐ-CP)",M3,50000,70000
+0238,Cát vàng,M3,4500,7500
+0239,Cát trắng,M3,7500,10500
+0240,Các loại cát khác,M3,3000,6000
+0241,"Đất sét, đất làm gạch, ngói",M3,2250,3000
+0242,Sét chịu lửa,Tấn,20000,30000
+0243,"Đôlômít (dolomit), quắc-zít (quartzit)",M3,30000,45000
+0244,Cao lanh,Tấn,4200,5800
+0245,"Mi-ca (mica), thạch anh kỹ thuật",Tấn,20000,30000
+0246,"Pi-rít (pirite), phốt-pho-rít (phosphorit)",Tấn,20000,30000
+0247,A-pa-tít (apatit),Tấn,3000,5000
+0248,Séc-păng-tin (secpentin),Tấn,3000,5000
+0249,Than an-tra-xít (antraxit) hầm lò,Tấn,6000,10000
+0250,Than an-tra-xít (antraxit) lộ thiên,Tấn,6000,10000
+0251,"Than nâu, Than mỡ",Tấn,6000,10000
+0252,Than khác,Tấn,6000,10000
+0253,"Kim cương, ru-bi (rubi), sa-phia (sapphire)",Tấn,50000,70000
+0254,"E-mô-rốt (emerald), A-lếch-xan-đờ-rít (alexandrite), Ô-pan (opan) quý màu đen",Tấn,50000,70000
+0255,"A-dít, Rô-đô-lít (rodolite), Py-rốp (pyrope), Bê-rin (berin), Sờ-pi-nen (spinen), Tô-paz (topaz)",Tấn,50000,70000
+0256,"Thạch anh tinh thể màu tím xanh, vàng lục, da cam, Cờ-ri-ô-lít (cryolite), Ô-pan (opan) quý màu trắng, đỏ lửa; Birusa, Nê-phờ-rít (nefrite)",Tấn,50000,70000
+0257,"Cuội, sạn",M3,6000,9000
+0258,Đất làm thạch cao,M3,2000,3000
+0259,Các loại đất khác,M3,1000,2000
+0260,"Talc, diatomit",Tấn,20000,30000
+0261,"Graphit, serecit",Tấn,3000,5000
+0262,Phen - sờ - phát (felspat),Tấn,3300,4600
+0263,Nước khoáng thiên nhiên,M3,2000,3000
+0264,Các khoáng sản không kim loại khác,Tấn,20000,30000
+0301,Dầu thô - Sản lượng đến 20.000 thùng/ngày (đối với Dự án khuyến khích đầu tư),Tấn,100000,100000
+0302,Sản lượng trên 20.000 thùng đến 50.000 thùng/ngày (đối với Dự án khuyến khích đầu tư),Tấn,100000,100000
+0303,Dầu thô - Sản lượng trên 50.000 thùng đến 75.000 thùng/ngày (đối với Dự án khuyến khích đầu tư),Tấn,100000,100000
+0304,Dầu thô - Sản lượng trên 75.000 thùng đến 100.000 thùng/ngày (đối với Dự án khuyến khích đầu tư),Tấn,100000,100000
+0305,Dầu thô - Sản lượng trên 100.000 thùng đến 150.000 thùng/ngày (đối với Dự án khuyến khích đầu tư),Tấn,100000,100000
+0306,Dầu thô - Sản lượng trên 150.000 thùng/ngày (đối với Dự án khuyến khích đầu tư),Tấn,100000,100000
+0307,Dầu thô - Sản lượng đến 20.000 thùng/ngày (đối với Dự án khác),Tấn,100000,100000
+0308,Dầu thô - Sản lượng trên 20.000 thùng đến 50.000 thùng/ngày (đối với Dự án khác),Tấn,100000,100000
+0309,Dầu thô - Sản lượng trên 50.000 thùng đến 75.000 thùng/ngày (đối với Dự án khác),Tấn,100000,100000
+0310,Dầu thô - Sản lượng trên 75.000 thùng đến 100.000 thùng/ngày (đối với Dự án khác),Tấn,100000,100000
+0311,Dầu thô - Sản lượng trên 100.000 thùng đến 150.000 (đối với Dự án khác),Tấn,100000,100000
+0312,Dầu thô - Sản lượng trên 150.000 thùng/ngày (đối với Dự án khác),Tấn,100000,100000
+0313,"Khí thiên nhiên, khí than (đối với Dự án khuyến khích đầu tư)",M3,50,50
+0314,Khí thiên nhiên - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khuyến khích đầu tư),M3,50,50
+0315,Khí thiên nhiên - Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư),M3,50,50
+0316,Khí thiên nhiên - Sản lượng  trên 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư),M3,50,50
+0317,Khí than - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khuyến khích đầu tư),M3,50,50
+0318,Khí than- Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư),M3,50,50
+0319,Khí than - Sản lượng  trên 10 triệu m3/ngày (đối với Dự án khuyến khích đầu tư),M3,50,50
+0320,"Khí thiên nhiên, khí than (đối với Dự án khác)",M3,50,50
+0321,Khí thiên nhiên - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khác),M3,50,50
+0322,Khí thiên nhiên - Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khác),M3,50,50
+0323,Khí thiên nhiên - Sản lượng  trên 10 triệu m3/ngày (đối với Dự án khác),M3,50,50
+0324,Khí than - Sản lượng đến 5 triệu m3/ngày (đối với Dự án khác),M3,50,50
+0325,Khí than - Sản lượng trên 5 triệu m3 đến 10 triệu m3/ngày (đối với Dự án khác),M3,50,50
+0326,Khí than - Sản lượng  trên 10 triệu m3/ngày (đối với Dự án khác),M3,50,50
+0327,Khí thiên nhiên (tận thu),M3,30,30
+0328,Khí than (tận thu),M3,30,30
+0329,Khí thiên nhiên thu được trong quá trình khai thác dầu thô (khí đồng hành),M3,35,35
+0438,Quặng sắt (tận thu),Tấn,24000,36000
+0439,Quặng măng-gan (mangan) (tận thu),Tấn,18000,30000
+0440,Quặng ti-tan (titan) (tận thu),Tấn,6000,42000
+0441,Quặng vàng (tận thu),Tấn,108000,162000
+0442,Quặng đất hiếm (tận thu),Tấn,24000,36000
+0443,"Quặng bạch kim, quặng bạc, quặng thiếc (tận thu)",Tấn,108000,162000
+0444,"Quặng vôn-phờ-ram (wolfram), quặng ăng- ti-moan (antimon) (tận thu)",Tấn,18000,30000
+0445,"Quặng chì, quặng kẽm (tận thu)",Tấn,108000,162000
+0446,"Quặng nhôm, quặng bô-xít (bauxit) (tận thu)",Tấn,6000,18000
+0447,"Quặng đồng, quặng ni-ken (nicken) (tận thu)",Tấn,21000,36000
+0448,"Quặng cô-ban (coban), quặng mô-lip-đen (molybden), quặng thủy ngân, quặng ma-nhê (magie), quặng va-na-đi (vanadi) (tận thu)",Tấn,108000,162000
+0449,Quặng crô-mít (cromit) (tận thu),Tấn,6000,36000
+0450,Quặng khoáng sản kim loại khác (tận thu),Tấn,12000,18000
+0451,"Đất khai thác để san lấp, xây dựng công trình (tận thu)",M3,600,1200
+0452,Sỏi (tận thu),M3,3600,5400
+0453,"Đá block (bao gồm khai thác cả khối lớn đá hoa trắng, granite, gabro, bazan làm ốp lát, mỹ nghệ) (tận thu)",M3,36000,54000
+0454,Đá làm vật liệu xây dựng thông thường (tận thu),M3,900,4500
+0455,"Đá nung vôi, làm xi măng, làm phụ gia xi măng và làm khoáng chất công nghiệp theo quy định của pháp luật khoáng sản (Serpentin, barit, bentonit) (tận thu)",M3,900,4050
+0456,Đá làm fluorit (tận thu),M3,900,2700
+0457,"Đá hoa trắng làm ốp lát, mỹ nghệ (trừ quy định tại điểm 2.2.1 Mục II Phụ lục kèm theo NĐ số 27/2023/NĐ-CP) (tận thu)",M3,30000,42000
+0458,Đá hoa trắng làm bột carbonat (trừ quy định tại điểm 2.2.1 Mục II Phụ lục kèm theo NĐ số 27/2023/NĐ-CP) (tận thu),M3,900,4500
+0459,"Đá granite, gabro, bazan làm ốp lát, mỹ nghệ (trừ quy định tại điểm 2.2.1 Mục II Phụ lục kèm theo NĐ số 27/2023/NĐ-CP) (tận thu)",M3,30000,42000
+0460,Cát vàng (tận thu),M3,2700,4500
+0461,Cát trắng (tận thu),M3,4500,6300
+0462,Các loại cát khác (tận thu),M3,1800,3600
+0463,"Đất sét, đất làm gạch, ngói (tận thu)",M3,1350,1800
+0464,Sét chịu lửa (tận thu),Tấn,12000,18000
+0465,"Đôlômít (dolomit), quắc-zít (quartzit) (tận thu)",M3,18000,27000
+0466,Cao lanh (tận thu),Tấn,2520,3480
+0467,"Mi-ca (mica), thạch anh kỹ thuật (tận thu)",Tấn,12000,18000
+0468,"Pi-rít (pirite), phốt-pho-rít (phosphorit) (tận thu)",Tấn,12000,18000
+0469,A-pa-tít (apatit) (tận thu),Tấn,1800,3000
+0470,Séc-păng-tin (secpentin) (tận thu),Tấn,1800,3000
+0471,Than an-tra-xít (antraxit) hầm lò (tận thu),Tấn,3600,6000
+0472,Than an-tra-xít (antraxit) lộ thiên (tận thu),Tấn,3600,6000
+0473,"Than nâu, Than mỡ (tận thu)",Tấn,3600,6000
+0474,Than khác (tận thu),Tấn,3600,6000
+0475,"Kim cương, ru-bi (rubi), sa-phia (sapphire) (tận thu)",Tấn,30000,42000
+0476,"E-mô-rốt (emerald), A-lếch-xan-đờ-rít (alexandrite), Ô-pan (opan) quý màu đen (tận thu)",Tấn,30000,42000
+0477,"A-dít, Rô-đô-lít (rodolite), Py-rốp (pyrope), Bê-rin (berin), Sờ-pi-nen (spinen), Tô-paz (topaz) (tận thu)",Tấn,30000,42000
+0478,"Thạch anh tinh thể màu tím xanh, vàng lục, da cam, Cờ-ri-ô-lít (cryolite), Ô-pan (opan) quý màu trắng, đỏ lửa; Birusa, Nê-phờ-rít (nefrite) (tận thu)",Tấn,30000,42000
+0479,"Cuội, sạn (tận thu)",M3,3600,5400
+0480,Đất làm thạch cao (tận thu),M3,1200,1800
+0481,Các loại đất khác (tận thu),M3,600,1200
+0482,"Talc, diatomit (tận thu)",Tấn,12000,18000
+0483,"Graphit, serecit (tận thu)",Tấn,1800,3000
+0484,Phen - sờ - phát (felspat) (tận thu),Tấn,1980,2760
+0485,Nước khoáng thiên nhiên (tận thu),M3,1200,1800
+0486,Các khoáng sản không kim loại khác (tận thu),Tấn,12000,18000
